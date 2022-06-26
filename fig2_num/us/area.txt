@@ -1,0 +1,43 @@
+Research Areas	Record Count	% of 3,072
+Oceanography	1083	35.254
+Geology	795	25.879
+Remote Sensing	669	21.777
+Geochemistry Geophysics	541	17.611
+Engineering	477	15.527
+Meteorology Atmospheric Sciences	419	13.639
+Imaging Science Photographic Technology	400	13.021
+Environmental Sciences Ecology	337	10.970
+Physical Geography	161	5.241
+Astronomy Astrophysics	122	3.971
+Water Resources	121	3.939
+Marine Freshwater Biology	100	3.255
+Science Technology Other Topics	91	2.962
+Optics	42	1.367
+Telecommunications	38	1.237
+Computer Science	33	1.074
+Physics	32	1.042
+Instruments Instrumentation	31	1.009
+Mathematics	14	0.456
+Fisheries	9	0.293
+Mechanics	9	0.293
+Automation Control Systems	8	0.260
+Acoustics	4	0.130
+Chemistry	4	0.130
+Forestry	4	0.130
+Paleontology	4	0.130
+Agriculture	3	0.098
+Audiology Speech Language Pathology	2	0.065
+Biodiversity Conservation	2	0.065
+Business Economics	2	0.065
+Education Educational Research	2	0.065
+Materials Science	2	0.065
+Mining Mineral Processing	2	0.065
+Transportation	2	0.065
+Geography	1	0.033
+History Philosophy Of Science	1	0.033
+Life Sciences Biomedicine Other Topics	1	0.033
+Microbiology	1	0.033
+Neurosciences Neurology	1	0.033
+Operations Research Management Science	1	0.033
+Public Environmental Occupational Health	1	0.033
+Spectroscopy	1	0.033

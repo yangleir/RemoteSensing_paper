@@ -1,0 +1,11 @@
+Web of Science Index	Record Count	% of 94,965
+Science Citation Index Expanded (SCI-EXPANDED)	85297	89.819
+Conference Proceedings Citation Index – Science (CPCI-S)	7456	7.851
+Book Citation Index – Science (BKCI-S)	2341	2.465
+Social Sciences Citation Index (SSCI)	2122	2.235
+Emerging Sources Citation Index (ESCI)	1694	1.784
+Book Citation Index – Social Sciences & Humanities (BKCI-SSH)	291	0.306
+Arts & Humanities Citation Index (A&HCI)	148	0.156
+Conference Proceedings Citation Index – Social Science & Humanities (CPCI-SSH)	101	0.106
+Current Chemical Reactions (CCR-EXPANDED)	2	0.002
+Index Chemicus (IC)	2	0.002

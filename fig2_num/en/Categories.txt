@@ -1,0 +1,47 @@
+Web of Science Categories	Record Count	% of 805
+Geosciences Multidisciplinary	240	29.814
+Oceanography	204	25.342
+Remote Sensing	169	20.994
+Geochemistry Geophysics	131	16.273
+Meteorology Atmospheric Sciences	128	15.901
+Imaging Science Photographic Technology	112	13.913
+Environmental Sciences	95	11.801
+Geography Physical	72	8.944
+Engineering Electrical Electronic	50	6.211
+Water Resources	48	5.963
+Astronomy Astrophysics	44	5.466
+Engineering Aerospace	36	4.472
+Multidisciplinary Sciences	34	4.224
+Engineering Ocean	31	3.851
+Marine Freshwater Biology	22	2.733
+Engineering Civil	19	2.360
+Limnology	16	1.988
+Engineering Marine	9	1.118
+Instruments Instrumentation	9	1.118
+Geology	7	0.870
+Telecommunications	5	0.621
+Chemistry Analytical	4	0.497
+Engineering Mechanical	4	0.497
+Mechanics	4	0.497
+Energy Fuels	3	0.373
+Physics Applied	3	0.373
+Physics Fluids Plasmas	3	0.373
+Computer Science Interdisciplinary Applications	2	0.248
+Engineering Environmental	2	0.248
+Environmental Studies	2	0.248
+Green Sustainable Science Technology	2	0.248
+Mathematics Applied	2	0.248
+Optics	2	0.248
+Statistics Probability	2	0.248
+Acoustics	1	0.124
+Archaeology	1	0.124
+Computer Science Artificial Intelligence	1	0.124
+Computer Science Information Systems	1	0.124
+Computer Science Theory Methods	1	0.124
+Ecology	1	0.124
+Engineering Multidisciplinary	1	0.124
+Geography	1	0.124
+Mathematics Interdisciplinary Applications	1	0.124
+Physics Mathematical	1	0.124
+Physics Multidisciplinary	1	0.124
+Soil Science	1	0.124

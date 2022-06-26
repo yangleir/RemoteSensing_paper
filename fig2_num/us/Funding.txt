@@ -1,0 +1,1916 @@
+Funding Agencies	Record Count	% of 3,072
+National Aeronautics Space Administration Nasa	548	17.839
+National Science Foundation Nsf	370	12.044
+National Natural Science Foundation Of China Nsfc	166	5.404
+National Oceanic Atmospheric Admin Noaa Usa	123	4.004
+Centre National D Etudes Spatiales	120	3.906
+Uk Research Innovation Ukri	114	3.711
+Natural Environment Research Council Nerc	112	3.646
+Office Of Naval Research	109	3.548
+Nsf Directorate For Geosciences Geo	108	3.516
+European Commission	63	2.051
+Chinese Academy Of Sciences	53	1.725
+National Basic Research Program Of China	44	1.432
+French National Research Agency Anr	34	1.107
+Ministry Of Science And Technology Taiwan	31	1.009
+European Space Agency	30	0.977
+China Scholarship Council	29	0.944
+Ministry Of Education Culture Sports Science And Technology Japan Mext	21	0.684
+Australian Research Council	19	0.618
+Japan Society For The Promotion Of Science	18	0.586
+National Key Research And Development Program Of China	18	0.586
+Natural Sciences And Engineering Research Council Of Canada Nserc	18	0.586
+United States Department Of Energy Doe	18	0.586
+Centre National De La Recherche Scientifique Cnrs	17	0.553
+National Key R D Program Of China	17	0.553
+Australian Government	15	0.488
+German Research Foundation Dfg	15	0.488
+Nasa Measures Program	14	0.456
+United States Department Of Defense	14	0.456
+Grants In Aid For Scientific Research Kakenhi	13	0.423
+National High Technology Research And Development Program Of China	13	0.423
+United States Geological Survey	13	0.423
+National Programme On Global Change And Air Sea Interaction	12	0.391
+Ohio State University	12	0.391
+Conselho Nacional De Desenvolvimento Cientifico E Tecnologico Cnpq	11	0.358
+Nasa Ocean Surface Topography Mission Science Team	11	0.358
+Spanish Government	11	0.358
+Fundamental Research Funds For The Central Universities	10	0.326
+Cgiar	9	0.293
+Gulf Of Mexico Research Initiative	9	0.293
+Nasa Earth And Space Science Fellowship	9	0.293
+Netherlands Organization For Scientific Research Nwo	9	0.293
+Cooperative Research Centres Crc Programme	8	0.260
+Coordenacao De Aperfeicoamento De Pessoal De Nivel Superior Capes	8	0.260
+Department Of Industry Innovation And Science	8	0.260
+Jamstec	8	0.260
+Japan Agency For Marine Earth Science And Technology Jamstec	8	0.260
+Research Council Of Norway	8	0.260
+China Postdoctoral Science Foundation	7	0.228
+Comision Nacional De Investigacion Cientifica Y Tecnologica Conicyt	7	0.228
+Jet Propulsion Laboratory California Institute Of Technology	7	0.228
+Ministry Of Education	7	0.228
+Ministry Of Science And Technology China	7	0.228
+Nasa Icesat 2 Project Science Office	7	0.228
+National Geospatial Intelligence Agency	7	0.228
+Natural Resources Canada	7	0.228
+Ohio State University S Climate Water And Carbon Program	7	0.228
+Woods Hole Oceanographic Institution	7	0.228
+Conicyt Fondecyt	6	0.195
+Federal Ministry Of Education Research Bmbf	6	0.195
+Ifremer	6	0.195
+Jpl	6	0.195
+Leverhulme Trust	6	0.195
+Nasa Grace Science Team	6	0.195
+Nasa Swot Program	6	0.195
+European Commission Joint Research Centre	5	0.163
+Federal Ministry For Economic Affairs And Energy Bmwi	5	0.163
+G Unger Vetlesen Foundation	5	0.163
+Nasa Cryosphere Program	5	0.163
+Nasa Swot Science Team Grant	5	0.163
+National Program On Global Change And Air Sea Interaction	5	0.163
+Natural Science Foundation Of Jiangsu Province	5	0.163
+Nsf Office Of The Director Od	5	0.163
+Ohio Supercomputer Center	5	0.163
+Royal Society Of London	5	0.163
+Russian Foundation For Basic Research Rfbr	5	0.163
+Boem	4	0.130
+Bp The Gulf Of Mexico Research Initiative	4	0.130
+Cnes Tosca	4	0.130
+European Research Council Erc	4	0.130
+European Social Fund Esf	4	0.130
+European Union S Horizon 2020 Research And Innovation Programme	4	0.130
+Gordon And Betty Moore Foundation	4	0.130
+Headquarters Of University Advancement At National Cheng Kung University Taiwan	4	0.130
+Icesat 2 Project Science Office	4	0.130
+Labexmer	4	0.130
+Nasa Ocean Surface Topography Science Team Program	4	0.130
+Nasa Swot Mission	4	0.130
+National Central University New Faculty Research Award	4	0.130
+National Ocean Partnership Program	4	0.130
+National Oceanography Centre Southampton	4	0.130
+National Research Foundation Of Korea	4	0.130
+Old Dominion University S Climate Change And Sea Level Rise Initiative Ccslri	4	0.130
+Portuguese Foundation For Science And Technology	4	0.130
+Program For Innovation Research And Entrepreneurship Team In Jiangsu Province	4	0.130
+Russian Science Foundation Rsf	4	0.130
+Swot Mission	4	0.130
+Swot Project	4	0.130
+Thousand Young Talents Program In China	4	0.130
+Youth Innovation Promotion Association Cas	4	0.130
+Canada 150 Chair Program	3	0.098
+Canadian Forest Service	3	0.098
+Canadian Space Agency	3	0.098
+Conocophillips	3	0.098
+Copernicus Marine Environment Monitoring Service Cmems Medsub Project	3	0.098
+Det Frie Forskningsrad Dff	3	0.098
+Geo Program	3	0.098
+German Aerospace Centre Dlr	3	0.098
+Global Change And Air Sea Interaction Project	3	0.098
+Harvard University	3	0.098
+Helmholtz Association	3	0.098
+Innovation Academy Of South China Sea Ecology And Environmental Engineering Chinese Academy Of Sciences	3	0.098
+Ivanhoe Foundation	3	0.098
+Korea Polar Research Institute	3	0.098
+Ministry Of Education China	3	0.098
+Ministry Of Science And Technology	3	0.098
+Nasa Cnes Swot Mission	3	0.098
+Nasa Esi Program	3	0.098
+Nasa Grace	3	0.098
+Nasa Ocean Surface Topography Mission	3	0.098
+Nasa Ocean Surface Topography Mission Science Team Grant	3	0.098
+Nasa Physical Oceanography	3	0.098
+Nasa Physical Oceanography Po Program	3	0.098
+Nasa Science Of Terra Aqua And Suomi Npp Tasnpp Program	3	0.098
+Nasa Sea Level Change Team	3	0.098
+Nasa Servir Program	3	0.098
+Nasa Swot Science Team	3	0.098
+National Key Research Program Of China	3	0.098
+National Oceanographic Partnership Program Nopp	3	0.098
+National Taiwan University	3	0.098
+New Zealand Foundation For Research Science And Technology	3	0.098
+Noaa Quantitative Observing System Assessment Program Qosap	3	0.098
+Nsf Directorate For Social Behavioral Economic Sciences Sbe	3	0.098
+Nsfc Shandong Joint Fund For Marine Science Research Centers	3	0.098
+Ohio University Russ Legacy Development Fund	3	0.098
+Priority Academic Program Development Of Jiangsu Higher Education Institutions Papd	3	0.098
+Program For New Century Excellent Talents In University Ncet	3	0.098
+Project Eddy Resolving Global Ocean Prediction Including Tides Office Of Naval Research	3	0.098
+Region Occitanie	3	0.098
+Region Provence Alpes Cote D Azur	3	0.098
+Soa Global Change And Air Sea Interaction Project	3	0.098
+Startup Foundation For Introducing Talent Of Nanjing University Of Information Science And Technology	3	0.098
+Swot Projects	3	0.098
+The David Lucile Packard Foundation	3	0.098
+Tosca Program Of The French Space Agency Cnes	3	0.098
+United States Geological Surveying Usgs Landsat Science Team Program Grant	3	0.098
+University Of California System	3	0.098
+University Of Colorado	3	0.098
+University Of Minnesota System	3	0.098
+Agenzia Spaziale Italiana Asi	2	0.065
+Alfred P Sloan Foundation	2	0.065
+Australian Climate Change Science Program	2	0.065
+Austrian Science Fund Fwf	2	0.065
+Belgian Federal Science Policy Office	2	0.065
+Bureau Of Meteorology Australia	2	0.065
+Bureau Of Ocean Energy Management Boem	2	0.065
+California Institute Of Technology	2	0.065
+Caltech Jpl Postdoctoral Fellowship	2	0.065
+Canada Research Chairs	2	0.065
+Canon Foundation	2	0.065
+Cassini Project	2	0.065
+Cecil And Ida Green Foundation Scholarship	2	0.065
+Center For Global Sea Level Change Cslc Of Nyu Abu Dhabi	2	0.065
+Central Guide Local Science And Technology Development Projects	2	0.065
+Centre For Integrated Remote Sensing And Forecasting For Arctic Operations Cirfa Project Through The Research Council Of Norway Rcn	2	0.065
+Climate Observations Division Of The Noaa Climate Program Office	2	0.065
+Cls	2	0.065
+Cnes Ostst Osiw Grant	2	0.065
+Commonwealth Scientific Industrial Research Organisation Csiro	2	0.065
+Consejo Nacional De Investigaciones Cientificas Y Tecnicas Conicet	2	0.065
+Conselleria D Educacio Cultura I Universitats Del Govern De Les Illes Balears Mallorca Spain	2	0.065
+Consumer Option For An Alternative System To Allocate Losses Coastal Act Project Within National Oceanic And Atmospheric Administration Noaa	2	0.065
+Cooperative Institute For Marine And Atmospheric Studies Cimas	2	0.065
+Cooperative Institute For Marine And Atmospheric Studies Cimas University Of Miami	2	0.065
+Core Research For Evolutional Science And Technology Crest	2	0.065
+Council Of Scientific Industrial Research Csir India	2	0.065
+Csiro Through The Australian Climate Change Science Programme	2	0.065
+Deutscher Akademischer Austausch Dienst Daad	2	0.065
+Financiadora De Inovacao E Pesquisa Finep	2	0.065
+Foundation Of China Ocean Mineral Resources Rd Association	2	0.065
+Fujian Collaborative Innovation Center For Big Data Applications In Governments	2	0.065
+Fulbright Foundation	2	0.065
+Fundacao De Amparo A Pesquisa Do Amapa Fapeap	2	0.065
+Fundacao De Amparo A Pesquisa Do Estado De Sao Paulo Fapesp	2	0.065
+General Atomics Aeronautical Systems Inc Ga Asi	2	0.065
+Goddard Space Flight Center Gsfc	2	0.065
+Goddard Space Flight Center Nasa	2	0.065
+Hong Kong Research Grants Council	2	0.065
+Icesat 2 Project	2	0.065
+Ids Program In Mean Sea Level	2	0.065
+Institut De Recherche Pour Le Developpement Ird	2	0.065
+Institute Of Geophysics And Planetary Physics Of Los Alamos National Laboratory Llc	2	0.065
+International Arctic Research Center	2	0.065
+International Space Science Institute Bern Switzerland	2	0.065
+Ipev	2	0.065
+Ipgp	2	0.065
+Ipovar Project	2	0.065
+Isis Program Of The French Space Agency Cnes	2	0.065
+Israel Science Foundation	2	0.065
+J Lamar Worzel Assistant Scientist Fund	2	0.065
+Jackson School Of Geosciences	2	0.065
+Japan Aerospace Exploration Agency Jaxa Earth Observation Research Center Eorc	2	0.065
+Jason 1	2	0.065
+Jason 1 Project	2	0.065
+Jet Propulsion Laboratory California Institute Of Technology Under Contract With The National Aeronautics And Space Administration	2	0.065
+Joint Cnes Region Bretagne Doctoral Grant	2	0.065
+Key Special Project For Introduced Talents Team Of Southern Marine Science And Engineering Guangdong Laboratory Guangzhou	2	0.065
+Korea East I Program	2	0.065
+Korea Ministry Of Environment South Korea	2	0.065
+Korea Ocean Research And Development Institute Kordi	2	0.065
+Korea Polar Research Institute Kopri	2	0.065
+Korea Science And Engineering Foundation	2	0.065
+Korean Government	2	0.065
+London National Environmental Research Council Doctoral Training Partnership Grant	2	0.065
+Margaret And Herman Sokol Faculty Awards	2	0.065
+Marie Curie International Outgoing Fellowship Within The 7Th European Community Framework Programme	2	0.065
+Marina	2	0.065
+Measures Program	2	0.065
+Ministry Of Earth Science Moes Government Of India	2	0.065
+Ministry Of Education China 111 Project	2	0.065
+Ministry Of Education Youth Sports Czech Republic	2	0.065
+Ministry Of Land Transport And Maritime Affairs Ocean Climate Variability Program	2	0.065
+Ministry Of Land Transport And Maritime Affairs Republic Of Korea	2	0.065
+Ministry Of Research France	2	0.065
+Ministry Of Science And Technology Most Taiwan	2	0.065
+Nasa Earth Sciences	2	0.065
+Nasa Grace Follow On Project	2	0.065
+Nasa Grace Follow On Project Jpl Subcontract	2	0.065
+Nasa Grace Project	2	0.065
+Nasa Grace Project Jpl Subcontract	2	0.065
+Nasa Headquarters Under The Nasa Earth And Space Science Fellowship Program Grant	2	0.065
+Nasa Interdisciplinary Science Team	2	0.065
+Nasa Jpl Po Daac	2	0.065
+Nasa Measures Discover Project	2	0.065
+Nasa Noaa Ocean Surface Topography Science Team	2	0.065
+Nasa Npp Senior Fellowship	2	0.065
+Nasa Ocean Salinity Science Team Osst	2	0.065
+Nasa Ocean Surface Topography Science Team Ostst	2	0.065
+Nasa Osst	2	0.065
+Nasa Ostm	2	0.065
+Nasa Ostst Mission	2	0.065
+Nasa Ostst Project	2	0.065
+Nasa Physical Oceanography Grant	2	0.065
+Nasa Roses Grant	2	0.065
+Nasa Roses Physical Oceanography	2	0.065
+Nasa S Earth Surface And Interior Esi Program	2	0.065
+Nasa S Earth Surface And Interior Program	2	0.065
+Nasa S Icesat 2 Sdt	2	0.065
+Nasa S Icesat Science Project	2	0.065
+Nasa S News	2	0.065
+Nasa S Ocean Surface Topography Mission	2	0.065
+Nasa S Research Opportunities In Space And Earth Sciences Program	2	0.065
+Nasa S Servir Program	2	0.065
+Nasa S Swot Science Team And Applied Sciences Programs	2	0.065
+Nasa Terrestrial Hydrology Program Grant	2	0.065
+National Academy Of Sciences Engineering And Medicine Gulf Research Program Ugos	2	0.065
+National Aeronautics And Space Administration S Ocean Surface Topography Project	2	0.065
+National Central University Taiwan	2	0.065
+National Council Of Science And Technology Of Mexico Secretariat Of Energy Hydrocarbons Trust	2	0.065
+National Key Basic Research Program Of China Program 973	2	0.065
+National Nuclear Security Administration	2	0.065
+National Oceanographic Partnership Program	2	0.065
+National Research Foundation Singapore	2	0.065
+National Research Foundation South Africa	2	0.065
+National Science And Technology Major Project	2	0.065
+Natural Science Foundation Of Fujian Province	2	0.065
+Natural Science Foundation Of Shanghai	2	0.065
+Netherlands Polar Program	2	0.065
+Noaa Climate Program Office Of The University Of Hawaii Sea Level Center	2	0.065
+Noaa Climate Variability Program	2	0.065
+Noaa Hurricane Sandy Disaster Relief Act	2	0.065
+Noaa Integrated Ocean Observing System	2	0.065
+Noaa Research	2	0.065
+Noaa Through The Climate Observations And Monitoring Program	2	0.065
+North Pacific Research Board	2	0.065
+Nsf Directorate For Biological Sciences Bio	2	0.065
+Nsf Directorate For Computer Information Science Engineering Cise	2	0.065
+Nsf Directorate For Mathematical Physical Sciences Mps	2	0.065
+Nsfc Creative Research Group	2	0.065
+Ocean And Climate Change Institute	2	0.065
+Ocean Salinity Science Team	2	0.065
+Ohio Sea Grant Program	2	0.065
+Onr Global	2	0.065
+Onr Grant	2	0.065
+Ontario Graduate Scholarship	2	0.065
+Oregon State University	2	0.065
+Ostm Jason 2	2	0.065
+Ostm Jason 2 Project	2	0.065
+Osu	2	0.065
+Osu S Climate Water And Carbon Program	2	0.065
+Penzance Endowed Fund	2	0.065
+Penzance Endowed Fund In Support Of Assistant Scientists	2	0.065
+Petrobras	2	0.065
+Physical Oceanography Division At Noaa S Atlantic Oceanographic And Meteorological Laboratory Aoml	2	0.065
+Physical Oceanography Division Of Noaa Aoml	2	0.065
+Priority Academic Program Development Of Jiangsu Higher Education Institutions	2	0.065
+Program Of Shanghai Academic Technology Research Leader	2	0.065
+Public Science And Technology Research Funds Projects Of Ocean	2	0.065
+Research Promotion Foundation Of Cyprus	2	0.065
+Reseau Thematique De Recherche Avancee Sciences Et Technologies Pour L Aeronautique Et L Espace Rtra Stae Toulouse France	2	0.065
+Royal Society Of New Zealand	2	0.065
+Russian Academy Of Sciences	2	0.065
+Second Tibetan Plateau Scientific Expedition And Research	2	0.065
+Servir Program	2	0.065
+Singapore Mit Alliance For Research Technology Centre Smart	2	0.065
+South African National Antarctic Programme Sanap	2	0.065
+South Carolina Space Grant Consortium Graduate Fellowship	2	0.065
+State Key Laboratory Of Remote Sensing Science	2	0.065
+State Key Laboratory Of Tropical Oceanography South China Sea Institute Of Oceanology Chinese Academy Of Sciences	2	0.065
+State Oceanic Administration Of China	2	0.065
+Swot	2	0.065
+Swot Program	2	0.065
+Swot Science Team	2	0.065
+Taiwan Foundation For The Advancement Of Outstanding Scholarship	2	0.065
+Taiwan S Foundation For The Advancement Of Outstanding Scholarship	2	0.065
+Texas A M University College Of Engineering	2	0.065
+Thales Group	2	0.065
+Toeddies Cnes Tosca Research Grant	2	0.065
+Turkiye Bilimsel Ve Teknolojik Arastirma Kurumu Tubitak	2	0.065
+U S Argo Through Noaa	2	0.065
+Um Cimas	2	0.065
+United States Agency For International Development Usaid	2	0.065
+University Of Colorado Boulder	2	0.065
+University Of Houston	2	0.065
+University Of Miami	2	0.065
+University Of Michigan Associate Professor Support Fund	2	0.065
+University Of Michigan Faculty Startup Funds	2	0.065
+University Of Michigan System	2	0.065
+University Of Newcastle	2	0.065
+University Of North Texas Unt	2	0.065
+University Of Siegen	2	0.065
+Us Air Force Research Laboratory	2	0.065
+Vanimedat2 Project	2	0.065
+Willis Research Network	2	0.065
+Zachry Department Of Civil Engineering	2	0.065
+13Th Five Year Informatization Plan Of Chinese Academy Of Sciences	1	0.033
+150Th Anniversary Visiting Professorship At The Chalmers University Of Technology	1	0.033
+3M	1	0.033
+51 Pegasi B Fellowship From The Heising Simons Foundation	1	0.033
+6 1 Kuroshio And Ryukyu Current Dynamics Project Office Of Naval Research	1	0.033
+6 2 Nrl Core Project Coupled Ocean Wave Prediction System	1	0.033
+6 2 Onr Tropical Cyclone Nopp Project	1	0.033
+948 Project State Forestry Administration Sfa Of China	1	0.033
+A4 Project Irish Marine Institute Under The Marine Research Programme Irish Government	1	0.033
+Aas	1	0.033
+Aas Project	1	0.033
+Academia Sinica Taiwan	1	0.033
+Academy Of Finland	1	0.033
+Accolade Lefe Insu Project	1	0.033
+Adlerbert Research Foundation	1	0.033
+Aer	1	0.033
+Agencia Canaria De Investigacion Innovacion Y Sociedad De La Informacion Aciisi	1	0.033
+Agencia Canaria De Investigacion Innovacion Y Sociedad De La Informacion Aciisi Grant Program Of Apoyo Al Personal Investigador En Formacion	1	0.033
+Agencia Catalana De L Aigua Aca	1	0.033
+Agencia Nacional De Aguas Ana	1	0.033
+Agencia Nacional De Petroleo Gas Natural E Biocombustiveis Brazil Via The Oceanographic Modeling And Observation Network	1	0.033
+Agesotrophic Vorticity Dynamics Of The Ocean	1	0.033
+Agnes B	1	0.033
+Agulhas System Climate Array	1	0.033
+Al Tilev Program	1	0.033
+Alaska Ocean Observing System Aoos	1	0.033
+Alberta Ingenuity Fund	1	0.033
+American Cetacean Society	1	0.033
+American Recovery And Reinvestment Act	1	0.033
+American Recovery And Reinvestment Act Through The National Science Foundation	1	0.033
+American Society For Engineering Education	1	0.033
+Ana	1	0.033
+Andrew W Mellon Foundation Endowed Fund For Innovative Research	1	0.033
+Antarctic Integrated Systems Science Aiss Program Of The National Science Foundation Through The Wissard Project	1	0.033
+Anu Csc The Australian National University Scholarship	1	0.033
+Aoml	1	0.033
+Aoshan Science And Technology Innovation Program	1	0.033
+Aoshan Talent Cultivation Program Of Qnlm	1	0.033
+Apl Uw	1	0.033
+Applied Physics Laboratory Science And Engineering Enrichment Development Seed Fellowship	1	0.033
+Applied Research Laboratories At The University Of Texas At Austin	1	0.033
+Applied Sciences Program	1	0.033
+Aquatic Climate Change Adaptation Services Program	1	0.033
+Arctic Challenge For Sustainability Arcs Project Ministry Of Education Culture Sports Science And Technology Of Japan Mext	1	0.033
+Arctic European Space Agency	1	0.033
+Arctic European Space Agency Snow Project	1	0.033
+Arctic Monitoring And Assessment Program Amap	1	0.033
+Arcticnet Network Of Centres Of Excellence	1	0.033
+Argo Australia	1	0.033
+Aro	1	0.033
+Asf	1	0.033
+Atlantic Oceanographic And Meteorological Laboratory Of Noaa	1	0.033
+Atmospheric Administration National Environmental Satellite Data And Information Service Ocean Remote Sensing	1	0.033
+Australian Antarctic Division	1	0.033
+Australian Antarctic Division Through Aas Grants	1	0.033
+Australian Antarctic Science Projects	1	0.033
+Australian Asac	1	0.033
+Australian Climate Change Science Program Accsp	1	0.033
+Australian Institute Of Marine Science	1	0.033
+Banaras Hindu University	1	0.033
+Base Funds Of Noaa Atlantic Oceanographic And Meteorological Laboratory	1	0.033
+Base Funds Of Noaa Atlantic Oceanographic And Meteorological Laboratory Usa	1	0.033
+Basic Frontier Science Research Program Of Chinese Academy Of Sciences	1	0.033
+Basic Science Research Program Through The National Research Foundation Of Korea Nrf Ministry Of Education	1	0.033
+Basic Science Research Program Through The National Research Foundation Of Korea Nrf The Ministry Of Science Ict And Future Planning	1	0.033
+Beidou Gnss	1	0.033
+Beijing Normal University Beijing China	1	0.033
+Beijing Outstanding Young Scientist Program	1	0.033
+Belmont Forum G8 S Coastal Vulnerability Program Via Australian Research Council	1	0.033
+Belmont Forum Igfa G8 Via Us National Science Foundation	1	0.033
+Belmont Forum Igfa Nsf Grant Ohio State University Component Of This Research	1	0.033
+Bergen Research Foundation	1	0.033
+Bhp Billiton Ltd	1	0.033
+Bilateral South Africa Norway Sancoop Scampi Project	1	0.033
+Blue Action Project European Union	1	0.033
+Boemre	1	0.033
+Boston College	1	0.033
+Brazilian Ministry Of Education	1	0.033
+Brazilian Oil Regulatory Agency Anp Agencia Nacional De Petroleo Gas Natural E Biocombustiveis	1	0.033
+British Antarctic Survey	1	0.033
+British Ecological Society Bes	1	0.033
+British Society For Geomorphology	1	0.033
+Brown University Voss Postdoctoral Research Fellowship	1	0.033
+Bureau Of Ocean Energy Management	1	0.033
+Bureau Of Ocean Energy Management Contract	1	0.033
+Byrd Polar Research Center	1	0.033
+California Department Of Boating And Waterways	1	0.033
+California Department Of Parks And Recreation	1	0.033
+California Department Of Parks And Recreation Division Of Boating And Waterways	1	0.033
+California Energy Commission	1	0.033
+California Institute Of Technology S Jet Propulsion Laboratory	1	0.033
+Callahan Dee Fellowship	1	0.033
+Caltech S Summer Undergraduate Research Fellowship Program Surf	1	0.033
+Canada Excellence Research Chair Cerc Program	1	0.033
+Canada First Research Excellence Fund	1	0.033
+Canada Foundation For Innovation	1	0.033
+Canada S Geoide Nce	1	0.033
+Canadian Foundation For Climate And Atmospheric Science Through Project Goapp	1	0.033
+Canadian Foundation For Climate And Atmospheric Science Through Project Gr 631	1	0.033
+Canadian Institute For Advanced Research Cifar	1	0.033
+Canadian Meteorological And Oceanographic Society Cmos	1	0.033
+Canadian Space Agency Government Related Initiatives Program	1	0.033
+Cap L Orient	1	0.033
+Carbon Mitigation Initiative Bp	1	0.033
+Carbon Mitigation Initiative Cmi Through The Support Of Bp Amaco And Ford	1	0.033
+Carbon Monitoring System Cms Program At Nasa	1	0.033
+Carnegie Foundation Of New York Through The Regional Initiative For Science Education Program	1	0.033
+Cce Lter	1	0.033
+Cecil And Ida Green Foundation	1	0.033
+Center For Coastal And Physical Oceanography At Old Dominion University	1	0.033
+Center For Environmental Sciences And Engineering Cese Of The University Of Connecticut	1	0.033
+Center For Environmental Sensing And Monitoring Censam	1	0.033
+Center For Integrated Space Weather Modeling Cism	1	0.033
+Center For Management Utilization And Protection Of Water Resources At Tennessee Technological University	1	0.033
+Center For Microbial Oceanography Research And Education Cmore	1	0.033
+Center For Remote Sensing Of Ice Sheets	1	0.033
+Center For Remote Sensing Of The Ice Sheets Cresis Through The National Science Foundation Science And Technology Center Stc Award	1	0.033
+Center For Stock Assessment Research Cstar	1	0.033
+Center For Utilization And Management Of Water Resources Of Tennessee Technological University Ttu	1	0.033
+Central And Northern California Ocean Observing System Cencoos	1	0.033
+Centre For Climate Dynamics Bjerknes Centre Norway	1	0.033
+Centre For Southern Hemisphere Oceans Research A Joint Research Centre Between Qnlm And Csiro	1	0.033
+Centre National D Etudes Spatiales Cnes Through The Project Terre Solide Ocean Surfaces Continentales Et Atmosphere Tosca	1	0.033
+Centre National D Etudes Spatiales Cnes Tosca	1	0.033
+Centre National De L Etude Spatiale Cnes	1	0.033
+Centre National De La Recherche Scientifique Cnrs Insu Lefe	1	0.033
+Centro Latinoamericano De Formacion Interdisciplinaria Argentina	1	0.033
+Cetacean Society International	1	0.033
+Cfcas Through The Polar Climate Stability Network	1	0.033
+Chang E 1 Vlbi	1	0.033
+Charles D Hollister Fund For Assistant Scientist Support	1	0.033
+Charlie Trimble	1	0.033
+Chevron	1	0.033
+Chilean Millennium Initiative	1	0.033
+China Ocean Mineral Resources Rd Association	1	0.033
+China Ocean Mineral Resources Research And Development Association Program	1	0.033
+China S National Key Research And Development Projects	1	0.033
+China S National Key Science Program For Global Change Research	1	0.033
+China Scholar Council At The University Of Texas At San Antonio	1	0.033
+China Special Fund For Meteorological Research In The Public Interest	1	0.033
+Chinese Academy Of Sciences Cas Safea International Partnership Program For Creative Research Teams	1	0.033
+Chungnam National University Korea	1	0.033
+Cisl	1	0.033
+Class Programme Nerc	1	0.033
+Climate Change And Atmospheric Research Grant	1	0.033
+Climate Eu Enact	1	0.033
+Climate Observations And Monitoring Program National Oceanic And Atmospheric Administration U S Department Of Commerce	1	0.033
+Climate Program Office	1	0.033
+Clivar Project Office	1	0.033
+Cls Space Oceanography Division	1	0.033
+Cls Space Oceanography Division As Part Of The Environment And Climate Eu Enact Project	1	0.033
+Cmems	1	0.033
+Cnes As Part Of The Tosca Program	1	0.033
+Cnes Aviso	1	0.033
+Cnes Bc T23	1	0.033
+Cnes Eumetsat Tosca Grant Ctoh	1	0.033
+Cnes Eumetsat Tosca Grant Foam	1	0.033
+Cnes Grant Ostst Manatee	1	0.033
+Cnes Nasa Ocean Surface Topography Science Team Ost St	1	0.033
+Cnes Nasa Ostst	1	0.033
+Cnes Ostst Osiw	1	0.033
+Cnes Region Bretagne Doctoral Grant	1	0.033
+Cnes Region Midi Pyrenees Phd Grant	1	0.033
+Cnes S Swot Mission	1	0.033
+Cnes Swot Mission	1	0.033
+Cnes Swot Science Definition Team	1	0.033
+Cnes Terre Ocean Surfaces Continentales Athmosphere Tosca Committee	1	0.033
+Cnes Terre Ocean Surfaces Continentales Atmosphere Tosca Committee	1	0.033
+Cnes Through The Terre Ocean Surfaces Continentales Atmosphere Tosca	1	0.033
+Cnes Through The Vasco	1	0.033
+Cnes Topex Poseidon	1	0.033
+Cnes Tosca Grant Ctoh	1	0.033
+Cnes Tosca Grant Hydroweb	1	0.033
+Cnes Tosca Programs	1	0.033
+Cnes Tosca Project	1	0.033
+Cnes Tosca Project Foam	1	0.033
+Cnes Tosca Swot High Resolution Hydrology Project	1	0.033
+Cnes Under The Swot Preparation Program	1	0.033
+Cnpq Ird	1	0.033
+Cnr Ismar Through The Eu Med Project Tracking Oil Spills And Coastal Awareness Network Tosca	1	0.033
+Cnrs For French Guiana	1	0.033
+Coastal Altimetry Community	1	0.033
+Coastal Marine Institute Cmi Of University Of Alaska And Minerals Management Service Mms	1	0.033
+Collaborative Innovation Center For Geo Hazards And Eco Environment In Three Gorges Area Hubei Province	1	0.033
+Collecte Localisation Satellite Cls	1	0.033
+Commission For Scientific Research In Greenland Kvug	1	0.033
+Commonwealth Center For Recurrent Flooding Resiliency Ccrfr	1	0.033
+Compute Canada	1	0.033
+Conacyt Sener Mexico As Part Of The Consorcio De Investigacion Del Golfo De Mexico Cigom	1	0.033
+Conicet Ypf	1	0.033
+Conicyt Fondap	1	0.033
+Consejo Nacional De Ciencia Y Tecnologia Conacyt	1	0.033
+Consejo Sudcaliforniano De Ciencia Y Tecnologia Coscyt	1	0.033
+Conservation International	1	0.033
+Conservation Research And Education Opportunities Creo Program	1	0.033
+Consiglio Nazionale Delle Ricerche Cnr	1	0.033
+Convention On Migratory Species	1	0.033
+Cooperative Institute For Climate Science Princeton University From National Oceanic And Atmospheric Administration U S Department Of Commerce	1	0.033
+Cooperative Institute For Marine And Atmospheric Studies Cimas A Cooperative Institute Of The Noaa	1	0.033
+Cooperative Institute For Marine And Atmospheric Studies Cimas A Cooperative Institute Of The University Of Miami	1	0.033
+Cooperative Institute For Marine And Atmospheric Studies Cimas A Cooperative Institute Of The University Of Miami And Noaa	1	0.033
+Cooperative Institute For Marine And Atmospheric Studies Cimas A Noaa Cooperative Institute	1	0.033
+Cooperative Institute For Marine And Atmospheric Studies Of The University Of Miami	1	0.033
+Cooperative Institute For Oceanographic Satellite Studies	1	0.033
+Cooperative Institute For The North Atlantic Region	1	0.033
+Cooperative Institute Of Marine And Atmospheric Studies Of The University Of Miami	1	0.033
+Cooperative Institute Of The University Of Miami	1	0.033
+Coordination Of Jerome Benveniste Esa Esrin	1	0.033
+Copernicus Marine Environment Monitoring Service	1	0.033
+Copernicus Marine Environment Monitoring Service Cmems	1	0.033
+Copernicus Marine Service	1	0.033
+Coral Reef Research Foundation	1	0.033
+Corner Science And Education Foundation	1	0.033
+Cpo	1	0.033
+Cprm	1	0.033
+Crsri	1	0.033
+Cryo Seanice Esa Project	1	0.033
+Cryospheric Sciences Program Modeling Analysis And Prediction Program	1	0.033
+Csa	1	0.033
+Cshor A Joint Research Centre For Southern Hemisphere Oceans Research Between Qnlm And Csiro	1	0.033
+Csir Through Csir Nio S Sip	1	0.033
+Csu	1	0.033
+Curtin International Postgraduate Research Scholarships Ciprs Ord Scholarship By Curtin University Australia	1	0.033
+Cygnss Mission Science Team	1	0.033
+Cygnss Project	1	0.033
+Czech Grant Agency Project	1	0.033
+Czech Republic Government	1	0.033
+Dancea Danish Cooperation For Environment In The Arctic Under The Danish Ministry Of Energy Buildings And Climate	1	0.033
+Danida Fellowship Centre	1	0.033
+Danish Commission For Scientific Research In Greenland Kvug	1	0.033
+Danish Energy Agency	1	0.033
+Danish Meteorological Institute	1	0.033
+Danish Natural Science Research Council	1	0.033
+Darpa Dso Space Environment Exploitation See Program	1	0.033
+Dartmouth College	1	0.033
+Dartmouth College S Open Access Publication Equity Fund	1	0.033
+Davidow Discovery Fund	1	0.033
+Dean M Leinen Of The Graduate School Of Oceanography At The University Of Rhode Island	1	0.033
+Debenham Scholarship From The Scott Polar Research Institute University Of Cambridge	1	0.033
+Dec	1	0.033
+Deep C Consortium	1	0.033
+Defence Research Development Organisation Drdo	1	0.033
+Defense Advanced Research Projects Agency Darpa	1	0.033
+Defense Advanced Research Projects Agency Darpa Defense Sciences Office Dso Space Environment Exploitation See Program	1	0.033
+Deimos Space Uk Limited	1	0.033
+Deltares	1	0.033
+Department For Business Innovation And Skills	1	0.033
+Department For Environment Food Rural Affairs Defra	1	0.033
+Department Of Earth And Oceans At Old Dominion University	1	0.033
+Department Of Earth System Science University Of California Irvine	1	0.033
+Department Of Environment Science Policy And Management University Of California Berkeley	1	0.033
+Department Of Navy Via Applied Research Laboratory At University Of Hawaii	1	0.033
+Department Of Oceanography Tamu	1	0.033
+Department Of The Interior S Bureau Of Ocean Energy Management Regulation And Enforcement Boemre	1	0.033
+Dewfora Ec Fp7 Projects	1	0.033
+Dfg Through The Senate Commission On Oceanography	1	0.033
+Dfg Under The Belmont Forum Cra On Coastal Vulnerability	1	0.033
+Dfid Royal Society Africa Capacity Building Initiative	1	0.033
+Dfid Royal Society Africa Capacity Building Initiative Rs Dfid	1	0.033
+Dfo	1	0.033
+Dga	1	0.033
+Diatom Arctic Project Part Of The Changing Arctic Ocean Programme Ukri Nerc	1	0.033
+Director Foundation	1	0.033
+Director S Fund Program	1	0.033
+Directorate General Of Higher Education Ministry Of National Education Of Indonesia Staff Mobility Bpptn Bh Ipb	1	0.033
+Disaster Related Appropriation Supplemental Improving Forecasting And Assimilation Dras Ifaa	1	0.033
+Disi Australia China Centre	1	0.033
+Division For Earth And Life Sciences Alw	1	0.033
+Dlr Space Administration	1	0.033
+Dlr Space Administration By The Federal Ministry Of Economics And Technology	1	0.033
+Dlr Space Administration By The German Bundesministerium Fur Wirtschaft Und Energie	1	0.033
+Doctorate Fellowship Foundation Of Nanjing Forestry University	1	0.033
+Doe U S Office Of Science	1	0.033
+Dst New Delhi Through Dst Rfbr	1	0.033
+Dtu Space	1	0.033
+E Wave Project	1	0.033
+Earth And Space Science Graduate Fellowship	1	0.033
+Earth And Space Sciences Fellowship	1	0.033
+Earth Observatory Of Singapore Eos	1	0.033
+Earth Observing System Data And Information System Eosdis	1	0.033
+Earth Science Technology Office	1	0.033
+Earth Science Technology Office Under Nasa	1	0.033
+Earth Scope Yakima Lidar Project Washington	1	0.033
+Earth System Science Organization Esso Indian National Centre For Ocean Information Services Incois Ministry Of Earth Sciences Moes	1	0.033
+Earth Systems Doctoral School Fct Project University Of Lisbon	1	0.033
+Earth Water Institute	1	0.033
+East Carolina University	1	0.033
+Ec Fp7 Research Project Kulturisk	1	0.033
+Ec2co Insu Cnrs	1	0.033
+Ecco Godae Group	1	0.033
+Ecco2 Project	1	0.033
+Ecmwf Copernicus	1	0.033
+Eddy Resolving Global Ocean Prediction Including Tides	1	0.033
+El Programa Nacional De Movilidad De Recursos Humanos Del Plan Nacional De I D I	1	0.033
+Embl	1	0.033
+Engineering Physical Sciences Research Council Epsrc	1	0.033
+Environment And Climate Eu Enact Project	1	0.033
+Eoforchina Project Ministry Of Foreign Affairs Of Denmark	1	0.033
+Esa Climate Change Initiative Program	1	0.033
+Esa Contract Sea Level Cci	1	0.033
+Esa Cryosat Antarctica Ocean Project	1	0.033
+Esa Cryosat Land Validation	1	0.033
+Esa Expro Snow	1	0.033
+Esa Most Dragon 4 Cooperation Program	1	0.033
+Esa Project	1	0.033
+Esa Project Sentinel 1 A Mission Performance Center	1	0.033
+Esa Project Sentinel 1 Ocean Study	1	0.033
+Esa Smos Nino15 Project	1	0.033
+Esa Through The Mpc S3 Project	1	0.033
+Esa Under Ipy Ao	1	0.033
+Esa Under The Globcurrent Project	1	0.033
+Esa Under The Sea State Cci Project	1	0.033
+Esf Cooperation Project	1	0.033
+Esi	1	0.033
+Esso Incois Ministry Of Earth Sciences India	1	0.033
+Essp Icao	1	0.033
+Etienne Bourgois	1	0.033
+Eu Enact	1	0.033
+Eu Eranet Resourcecode	1	0.033
+Eu Fp7 Project Naclim	1	0.033
+Eu Fp7 Project Swarp	1	0.033
+Eu H2020 Program Through The Atlantos Project	1	0.033
+Eu Horizon 2020 Project Atlantos	1	0.033
+Eu Horizon 2020 Project Blue Action	1	0.033
+Eumetsat	1	0.033
+Eumetsat Cnes	1	0.033
+Eumetsat Through Cm Saf	1	0.033
+European Commission Gmes Framework	1	0.033
+European Marine Core Service Eu	1	0.033
+European Noces Project	1	0.033
+European Organisation For The Exploitation Of Meteorological Satellites	1	0.033
+European Research Area For Climate Services Era4cs Integrating Sea Level Projections In Climate Services For Coastal Adaptation Inseaption Project	1	0.033
+European Research Projects Animate Atlantic Network Of Interdisciplinary Moorings And Time Series For Europe	1	0.033
+European Space Agency As Part Of The Sea State Cci Project Of The Climate Change Initiative Cci Esa Esrin	1	0.033
+European Space Agency By Project Polarice	1	0.033
+European Space Agency Esa Through The Sea Surface Kinematics Multiscale Monitoring Skim Mission Science Scisoc Study	1	0.033
+European Space Agency Living Planet Fellowship Arctic Summit	1	0.033
+European Space Agency Project Glaciers Cci	1	0.033
+European Space Agency S Climate Change Initiative	1	0.033
+European Space Agency Tender Expro Snow	1	0.033
+European Space Agency Through The Climate Change Initiative Project On The Antarctic Ice Sheet	1	0.033
+European Space Agency Through The Climate Change Initiative Project On The Greenland Ice Sheet	1	0.033
+European Space Agency Through The Esa Most Dragon 4 Projects	1	0.033
+European Space Agency Through The Ice Sheets Cci	1	0.033
+European Union Fp6 Carboocean Integrated Project	1	0.033
+European Union S Horizon 2020 Marie Sklodowskacurie Grant	1	0.033
+European Union S Horizon 2020 Research And Innovation Program	1	0.033
+European Unionfunded Project Pithia Nrf	1	0.033
+Eversource Energy Center	1	0.033
+Evolving Earth Foundation	1	0.033
+Evos	1	0.033
+Exxon Mobil Corporation	1	0.033
+Faa Flight Inspection Division Avn	1	0.033
+Fapesb Foundation State Of Bahia Brazil	1	0.033
+Federal Agency For Scientific Organizations Faso Russia	1	0.033
+Federal Aviation Administration Faa Wide Area Augmentation System Waas Program	1	0.033
+Federal Program For Energy Research And Development	1	0.033
+Field Station Alliance Project Of Chinese Academy Of Sciences	1	0.033
+Finesst Grant	1	0.033
+Fip	1	0.033
+First Class Funding From The Post Doctoral Fund Project	1	0.033
+Fisheries And Oceans Canada	1	0.033
+Fisheries Laboratory Of The Faroe Islands	1	0.033
+Florida Fish And Wildlife Conservation Commission	1	0.033
+Fokos Of The University Of Siegen	1	0.033
+Fondo De Investigacion Pesquera Y Acuicultura	1	0.033
+Fondo Nacional De Investigaciones Cientificas Y Tecnologicas Fonacit Venezuela	1	0.033
+Fonds De La Recherche Scientifique Fnrs	1	0.033
+Foundation Edf Diversiterre	1	0.033
+Foundation Of Guangdong Province For Outstanding Yong Teachers In University	1	0.033
+Foundation Of Guangdong Province For Outstanding Young Teachers In University	1	0.033
+Foundation Stae	1	0.033
+Fp7 Regpot 2008 1 Sofia	1	0.033
+France And Brazilian Governments	1	0.033
+Frb	1	0.033
+Fred M Bullard Fellowship	1	0.033
+Free Inquiry Young Talent Program Of The State Key Laboratory Of Remote Sensing Science	1	0.033
+French Atomic Energy Commission	1	0.033
+French Government Through The Centre National D Etudes Spatiales	1	0.033
+French Institut De Recherche Pour Le Developpement Ird	1	0.033
+French Lefe Gmmc Research Programme	1	0.033
+French Ministry Of Research And Higher Education	1	0.033
+French National Centre For Space Studies Cnes Tosca Program	1	0.033
+French National Program Lefe Les Enveloppes Fluides De L Environnement Gmmc Groupe Mission Mercator Coriolis By The Cratere Project	1	0.033
+French Ovide Project	1	0.033
+French Patom	1	0.033
+French Polar Institute	1	0.033
+French Polar Institute Paul Emile Victor Ipev	1	0.033
+French Space Agency Through The Tosca Program	1	0.033
+Friend Of Orton Hall Travel Award	1	0.033
+Fulbright Commission In Spain Through A Fulbright Grant	1	0.033
+Fulbright Commission In Spain Through Fulbright Grant	1	0.033
+Fulbright Nehru Foundation	1	0.033
+Fulbright Phd Presidential Scholarship	1	0.033
+Fulbright Program For Graduate Studies	1	0.033
+Fulbright Scholar Program	1	0.033
+Fulbright Science And Technology Fellowship	1	0.033
+Fund Of Southern Marine Science And Engineering Guangdong Laboratory Zhanjiang	1	0.033
+Fundacao De Apoio A Pesquisa Do Distrito Federal Fapdf	1	0.033
+Fundacion Espafiola Para La Ciencia Y La Tecnologia Fecyt	1	0.033
+Fundamental Research Fund For The Central University	1	0.033
+Fy Disaster Supplemental Improving Forecasting Of Hurricanes Floods And Wildfires Fy Ifhfw	1	0.033
+G Unger Vetlesen Foundation Of New York	1	0.033
+Gaann Fellowship Of The Department Of Education	1	0.033
+Gabon National Park Anpn At Ucla	1	0.033
+Gary Comer Science And Education Foundation	1	0.033
+Genci	1	0.033
+Genci Idris Grant	1	0.033
+General Electric	1	0.033
+General Land Office Through Tglo Tabs Modelling Effort	1	0.033
+General Revenue Through State Of Florida	1	0.033
+Generalitat Valenciana	1	0.033
+Genoscope Cea	1	0.033
+Geoide Nce	1	0.033
+Geological Survey Of Denmark And Greenland	1	0.033
+Geology Foundation Of The Jackson School Of Geosciences University Of Texas Austin	1	0.033
+Geology Foundation Of The University Of Texas	1	0.033
+Geophysics Department Universidad De Concepcion	1	0.033
+George Melendez Wright Climate Change Fellowship	1	0.033
+George Thompson Fellowship At Stanford University	1	0.033
+George Thompson Postdoctoral Fellowship	1	0.033
+German Federal Ministry Of Education And Research As Part Of The Cooperative Project Race	1	0.033
+German Ministry Of Economics Affairs And Energy	1	0.033
+Gfdl Visiting Faculty Program	1	0.033
+Gfz	1	0.033
+Global And Remote Littoral Forcing In Global Ocean Models	1	0.033
+Global Center Of Excellence Coe Program Evolution Of Research And Education On Integrated River Basin Management In Asian Region University Of Yamanashi	1	0.033
+Global Change Research Program Of China	1	0.033
+Global Drifter Program National Oceanic And Atmospheric Administration Noaa	1	0.033
+Global Ecosystem Dynamics Investigation Gedi Mission	1	0.033
+Global Ocean Monitoring And Observing Programme National Oceanic And Atmospheric Administration Noaa Us Department Of Commerce	1	0.033
+Globec Nwa Program	1	0.033
+Glowasis	1	0.033
+Gmao	1	0.033
+Goa	1	0.033
+Goddard Space Flight Center Strategic Support	1	0.033
+Gops Programme Ird	1	0.033
+Government Of Nwt	1	0.033
+Government Of The Russian Federation	1	0.033
+Government Of The United States Of America Though The National Oceanic And Atmospheric Administration	1	0.033
+Government Of Yemen	1	0.033
+Government Sponsorship	1	0.033
+Grace	1	0.033
+Grace Follow On Science Team Grant	1	0.033
+Grace Program	1	0.033
+Grace Science Team Program	1	0.033
+Graduate Student Researchers Program	1	0.033
+Grant Agency Of The Czech Republic	1	0.033
+Great Western Research Fellowship	1	0.033
+Green Network Of Excellence Grene Program Arctic Climate Change Research Project	1	0.033
+Grip Program Of The Canadian Space Agency	1	0.033
+Gsa Northeastern Section Stephen G Pollock Undergraduate Student Research Grant	1	0.033
+Guangdong Basic And Applied Basic Research Foundation	1	0.033
+Guangdong Province First Class Discipline Plan	1	0.033
+Guangzhou City Project For The Pearl River New Star In Science And Technology	1	0.033
+Gulf Integrated Spill Research Consortium	1	0.033
+Gulf Of Mexico Coastal Ocean Observing System	1	0.033
+Gulf Of Mexico Research Initiative As Part Of The Consortium For Advanced Research On Transport Of Hydrocarbon In The Environment	1	0.033
+Gulf Of Mexico Research Initiative Through The Consortium For Advanced Research On Transport Of Hydrocarbon In The Environment Carthe	1	0.033
+Gulf Research Program Of The National Academies Of Sciences Engineering And Medicine Nasem Ugos 1	1	0.033
+H2020 Grant	1	0.033
+Harbor And Marine Technology Center	1	0.033
+Hawaii National Marine Renewable Energy Center	1	0.033
+Hced	1	0.033
+Helmholtz Alliance Project Remote Sensing And Earth System Dynamics	1	0.033
+Helmholtz Centre Potsdam Geo Forschungszentrum Germany	1	0.033
+Helmoltz Association	1	0.033
+Herman Sokol Faculty Award	1	0.033
+Hiestand Scholars Program	1	0.033
+High Meadows Foundation	1	0.033
+High Performance Computing Cluster Hpcc Of The State Key Lab Of Satellite Ocean Environment Dynamics Soed	1	0.033
+High Performance Computing Systems	1	0.033
+Higher Education Excellence Program Of The Ministry Of Human Capacities Hungary	1	0.033
+Horizon Marine Inc	1	0.033
+Houghton Fund	1	0.033
+Hpc System At The Texas Am University	1	0.033
+Hubbs Seaworld Research Institute	1	0.033
+Human Resources Development Of The Korea Institute Of Energy Technology Evaluation And Planning Ketep Ministry Of Trade Industry And Energy Republic Of Korea	1	0.033
+Hybrid Coordinate Ocean Model Hycom	1	0.033
+Hycom Consortium	1	0.033
+Hycom Nopp	1	0.033
+Hydraulic Engineering Science And Technology Project Of Hunan Province China	1	0.033
+I Core Program Of The Planning And Budgeting Committee	1	0.033
+Iarc International Arctic Research Center Jaxa Information System Ijis	1	0.033
+Ias	1	0.033
+Icesat 2 Early Adopter Program	1	0.033
+Icesat 2 Project Office At The Goddard Space Flight Center	1	0.033
+Igcp Project	1	0.033
+Igg Internal Project	1	0.033
+Independent Research Project Program Of State Key Laboratory Of Tropical Oceanography	1	0.033
+Indian Institute Of Technology Bombay	1	0.033
+Indiana Metacyt Initiative	1	0.033
+Inge Lehmann Legat	1	0.033
+Inge Lehmanns Legat	1	0.033
+Innovation Key Program Of The Chinese Academy Of Sciences	1	0.033
+Innovation Projects Of The State Key Laboratory Of Resources And Environmental Information System	1	0.033
+Innovation Research And Entrepreneurship Team In Jiangsu Province	1	0.033
+Institut National Des Sciences De L Univers Insu France	1	0.033
+Institut Simon Et Pierre Laplace Labex Lipsl	1	0.033
+Institut Universitaire De France	1	0.033
+Institute For International Education Iie	1	0.033
+Institute Francais De Recherche Pour L Exploitation De La Mer Ifremer	1	0.033
+Institute Of Remote Sensing And Digital Earth Chinese Academy Of Sciences Cas	1	0.033
+Institute Of Water Modeling Bangladesh	1	0.033
+Institute Of Water Modeling Iwm In Bangladesh	1	0.033
+Instituto Milenio De Oceanografia Imo Chile Iniciativa Cientifica Milenio Icm Chile	1	0.033
+Instituto Milenio De Oceanografia Pacific Boundary Ecosystems And Ecosystem Study Nsf Globec	1	0.033
+Insu Institut National Des Sciences De L Univers	1	0.033
+Insu Lefe Idao Project Solwara	1	0.033
+Integrated Marine Observing System Imos Imos Is A National Collaborative Research Infrastructure	1	0.033
+Integrated Project Of State Key Laboratory Of Tropical Oceanography Lto	1	0.033
+Inter American Institute For Global Change Research	1	0.033
+Interagency Nasa Climate And Biological Response Program	1	0.033
+Intergovernmental Oceanographic Commission Of Unesco International Oceanographic Data And Information Exchange Ioc Iode Iquod Steering Group	1	0.033
+Intergovernmental Panel On Climate Change Ipcc Research Grant	1	0.033
+Intergovernmental Wildland Fire Leadership Council Of The United States	1	0.033
+Internal Research And Technology Development Program Earth 2050	1	0.033
+Internal University Of Bristol Pgr Scholarship Of Iag	1	0.033
+International Commission On Polar Meteorology Icpm	1	0.033
+International Corporation Program Of China	1	0.033
+International Create	1	0.033
+International Doris Service Ids	1	0.033
+International Laser Ranging Service Ilrs	1	0.033
+International Network Program Of The Ministry Of Higher Education And Science Denmark	1	0.033
+International Pacific Research Center	1	0.033
+International Pacific Research Center Iprc	1	0.033
+International Science And Technology Cooperation Program Of China	1	0.033
+International Space Science Institute Issi	1	0.033
+International Union On Geodesy And Geophysics Iugg	1	0.033
+Intramural Nasa	1	0.033
+Ioos Office Us Navy	1	0.033
+Iowa Flood Center	1	0.033
+Ipev Institut Paul Emile Victor	1	0.033
+Iprc Soest	1	0.033
+Ipsl Institute Pierre Simon Laplace	1	0.033
+Ipy Kinnvika Team	1	0.033
+Ird Institut De Recherche Pour Le Developpement France	1	0.033
+Ird Legos France	1	0.033
+Ird Project Hidrodinamica Fluvial	1	0.033
+Irstea	1	0.033
+Italian Ministry Of Environment Land And Sea Under Gemina	1	0.033
+Italian Ministry Of The Environment Land And Sea Mattm Through The Project Gest River Gestione Ecosostenibile Dei Territori A Rischio Inondazione E Valorizzazione Economica Delle Risorse	1	0.033
+Italian Ministry Of The Environment Land And Sea Mattm Through The Project Simpro Simulazione Idrologico Idraulico Economica Di Progetto Per La Mitigazione Del Rischio Idraulico	1	0.033
+Italian Space Agency Under Asi Inaf	1	0.033
+Itop Team	1	0.033
+J Lamarworzel Assistant Scientist Fund	1	0.033
+Jackson School Of Geosciences Development	1	0.033
+Jackson School Of Geosciences Univ Of Texas At Austin	1	0.033
+Jackson School Of Geosciences Ut Austin	1	0.033
+Japan Aerospace Exploration Agency	1	0.033
+Japan Aerospace Exploration Agency Jaxa	1	0.033
+Japan Agency For Marine Earth Science And Technology	1	0.033
+Japan Agency For Marine Earth Science And Technology Japan	1	0.033
+Japan Agency For Ocean And Earth Science And Technology Jamstec	1	0.033
+Japan Science Technology Agency Jst	1	0.033
+Japanese Science And Technology Corporation	1	0.033
+Jason 1 And Ostm Jason 2	1	0.033
+Jason 1 Project At Jpl	1	0.033
+Jaxa	1	0.033
+Jcomm Cowclip Coordinated Ocean Wave Climate Projections Project	1	0.033
+Jerico Fp7 Project	1	0.033
+Jerico Next Eu H2020 Infraia 2014	1	0.033
+Jerome M Paros Endowed Chair In Sensor Networks	1	0.033
+Jet Propulsion Laboratory	1	0.033
+Jet Propulsion Laboratory California Institute Of Technology Pasadena California With Nasa	1	0.033
+Jet Propulsion Laboratory S Research	1	0.033
+Jiangsu Key Laboratory Of Coast Ocean Resources Development And Environment Security Hohai University	1	0.033
+Jiangsu Province	1	0.033
+Jiangsu Province Science Foundation For Youths	1	0.033
+Jifresse Ucla	1	0.033
+Jimar	1	0.033
+Jimo At The Scripps Institution Of Oceanography Sio	1	0.033
+Jisao	1	0.033
+John D And Catherine T Macarthur Foundation	1	0.033
+John E And Anne W Sawyer Endowed Fund In Special Support Of Scientific Staff	1	0.033
+John Miles Fellowship	1	0.033
+Joint Center For Global Change Studies Beijing China	1	0.033
+Joint Institute For The Study Of The Atmosphere And Ocean Jisao Under Noaa	1	0.033
+Joint International Laboratory Takuvik Ulaval Cnrs The Canada Excellence Research Chair In Remote Sensing Of Canada S New Arctic Frontier	1	0.033
+Joint Uk Beis Defra Met Office Hadley Centre Climate Programme	1	0.033
+Joint Uk Decc Defra Met Office Hadley Centre Climate Programme	1	0.033
+Joseph Gleberman	1	0.033
+Jpl Advanced Concept Program	1	0.033
+Jpl As Part Of The Nasa Ocean Surface Topography Mission	1	0.033
+Jpl Fund On R A Hydrology Weather From The Soil Moisture Active Passive Smap Project	1	0.033
+Jpl Innovative And Spontaneous Concept Program	1	0.033
+Jpl Innovative Spontaneous Concept Rtd Program	1	0.033
+Jpl Internal Research And Technology Development Program	1	0.033
+Jpl Nasa Ocean Surface Topography Mission	1	0.033
+Jpl Research Technology Amp Development Program	1	0.033
+Jpl Rtd Program	1	0.033
+Jpl Supercomputing And Visualization Facility Svf	1	0.033
+Juan De La Cierva Postdoctoral Research Fellowship From The Spanish Ministerio De Ciencia E Innovacion	1	0.033
+Kansas State University	1	0.033
+Kansas State University Open Access Publishing Fund	1	0.033
+Keck Institute For Space Studies W M Keck Foundation Through The Project Science Driven Autonomous And Heterogeneous Robotic Networks A Vision For Future Ocean Observations	1	0.033
+Key Deployment Project Of Cas Centre For Ocean Mega Science	1	0.033
+Key Laboratory Of Geospace Environment And Geodesy Ministry Of Education Wuhan University	1	0.033
+Key Laboratory Of Spatial Data Mining Information Sharing Of Ministry Of Education Fuzhou University	1	0.033
+Key Laboratory Of Tibetan Environmental Changes And Land Surface Processes In Chinese Academy Of Sciences	1	0.033
+Key Project Of Natural Science Research Of The Anhui Education Department	1	0.033
+Key R D Program Of Shandong	1	0.033
+Key R D Program Of The Ministry Of Science And Technology China	1	0.033
+Key Research Program Of Frontier Sciences Chinese Academy Of Sciences	1	0.033
+Khaled Bin Sultan Living Oceans Foundation	1	0.033
+Kiost	1	0.033
+Knowledge Innovation Foundation Program For Outstanding Young Scholar Of Cas	1	0.033
+Knowledge Innovation Foundation Program For Outstanding Young Scholar Of Chinese Academy Of Sciences Cas	1	0.033
+Knowledge Innovation Program Of The Chinese Academy Of Sciences	1	0.033
+Kordi	1	0.033
+Korea Arctic Ocean Observing System K Aoos Kopri Ministry Of Oceans And Fisheries Korea	1	0.033
+Korea Government Through Mest	1	0.033
+Korea Hydrographic And Oceanographic Administration	1	0.033
+Korea Institute Of Marine Science And Technology Promotion Kimst Research Grant	1	0.033
+Korea Institute Of Ocean Science And Technology	1	0.033
+Korea Meteorological Administration	1	0.033
+Korea Meteorological Administration Research And Development Program	1	0.033
+Korea Ministry Of Environment	1	0.033
+Korea National Research Foundation Nrf Ministry Of Science Ict Future Planning	1	0.033
+Korea Polar Research Institute South Korea	1	0.033
+Korean Ministry Of Science Ict And Future Planning Msip	1	0.033
+Kulturisk	1	0.033
+Kvug	1	0.033
+Laboratoire D Etudes En Geophysique Et Oceanographie Spatiale	1	0.033
+Laboratoire D Etudes En Geophysique Et Oceanographie Spatiales Legos	1	0.033
+Laboratoire D Excellence Labexmer	1	0.033
+Laboratorio De Ecologia De Cetaceos Y Quelonios At Centro Interdisciplinario De Ciencias Marinas Instituto Politecnico Nacional	1	0.033
+Laboratory For Regional Oceanography And Numerical Modeling Pilot National Laboratory For Marine Science And Technology Qingdao	1	0.033
+Lamont Doherty Earth Observatory	1	0.033
+Lamsam Thailand Sustain Development	1	0.033
+Land Ecological System Carbon Monitoring Satellite Ground Comprehensive Experiment	1	0.033
+Lanl S Center For Space And Earth Science	1	0.033
+Lauritz Meltzer University Foundation	1	0.033
+Lc3m A Leverhulme Trust Research Centre Award	1	0.033
+Leading Graduate Course For Frontiers Of Mathematical Sciences And Physics At The University Of Tokyo	1	0.033
+Leading Talents Of Guangdong Province Program	1	0.033
+Lefe Cyber Programme Cnrs Insu	1	0.033
+Lefe Ec2co Program	1	0.033
+Legos Grant	1	0.033
+Leidos Inc	1	0.033
+Leverhulme Trust Early Career Fellowship Scheme	1	0.033
+Ley Orgonica De Ciencia Tecnologia E Innovacion Locti Venezuela	1	0.033
+Lilly Endowment Incorporated	1	0.033
+Linden Trust For Conservation	1	0.033
+Lloyd S Register Trust Fund	1	0.033
+London Natural Environmental Research Council	1	0.033
+Long Term Change Of Structure And Function In Marine Ecosystems Of Korea Ministry Of Oceans And Fisheries Korea	1	0.033
+Louis Gentil Jacques Bourcart Fellowship	1	0.033
+Magellium	1	0.033
+Makerere University Department Of Geography Geo Informatics And Climatic Sciences	1	0.033
+Making Earth System Data Records For Use In Research Environments Measures Program	1	0.033
+Manitoba Hydro	1	0.033
+Margaret Sokol Faculty Award	1	0.033
+Marine Environmental Observation Prediction And Response Network Meopar	1	0.033
+Marine Environmental Research	1	0.033
+Marine Geology And Geophysics Program	1	0.033
+Mars Data Analysis Program	1	0.033
+Mars Global Survey	1	0.033
+Marsden Fund Nz	1	0.033
+Massachusetts Institute Of Technology Mit	1	0.033
+Matsumae International Foundation	1	0.033
+Maui High Performance Computing Center Mhpcc	1	0.033
+Mecesup	1	0.033
+Mercator Ocean	1	0.033
+Messenger Project	1	0.033
+Met Office Hadley Centre Climate Programme Beis	1	0.033
+Mext Through The Integrated Research Program For Advancing Climate Models	1	0.033
+Mi Loco Gordon And Betty Moore Foundation	1	0.033
+Miccin	1	0.033
+Micin	1	0.033
+Microsoft Azure Research Award	1	0.033
+Mid Continent Intensive Mci	1	0.033
+Millennium Scientific Initiative	1	0.033
+Mincyt Ecos Sud	1	0.033
+Minerals Management Service	1	0.033
+Minerals Management Service Lsu Coastal Marine Institute Cooperative Agreement	1	0.033
+Ministerio Da Ciencia E Tecnologia Mct	1	0.033
+Ministry Of Earth Sciences New Delhi India	1	0.033
+Ministry Of Economic Affairs Netherlands	1	0.033
+Ministry Of Education Key Laboratory For Earth System Modeling Center For Earth System Science Tsinghua University Beijing China	1	0.033
+Ministry Of Education Singapore	1	0.033
+Ministry Of Education Taiwan	1	0.033
+Ministry Of Education Universities And Research Miur	1	0.033
+Ministry Of Environment And Energy Maldives	1	0.033
+Ministry Of Environment South Korea Under The Demand Responsive Water Supply Service Program	1	0.033
+Ministry Of Ocean And Fisheries	1	0.033
+Ministry Of Oceans And Fisheries	1	0.033
+Ministry Of Oceans And Fisheries Korea	1	0.033
+Ministry Of Oceans And Fisheries Mof	1	0.033
+Ministry Of Research And Technology Of The Republic Of Indonesia Ristek	1	0.033
+Ministry Of Science And Higher Education Of The Russian Federation	1	0.033
+Ministry Of Science And Higher Education Poland	1	0.033
+Ministry Of Science And Technology Dragon 4 Cooperation Programme	1	0.033
+Ministry Of Science And Technology Of Taiwan Republic Of China	1	0.033
+Ministry Of Science And Technology Roc Taiwan	1	0.033
+Ministry Of Science Technology Innovation And Communications Mctic	1	0.033
+Ministry Of The Interior	1	0.033
+Ministry Of Trade Industry And Energy Motie Korea	1	0.033
+Ministry Science And Technology Development Of China Data Sharing Infrastructure Of Earth System Science	1	0.033
+Mit	1	0.033
+Mms	1	0.033
+Modeling And Simulation Coordination Office	1	0.033
+Moes	1	0.033
+Moes India Under The Ocean Mixing And Monsoon Omm Project	1	0.033
+Mof	1	0.033
+Mohesr	1	0.033
+Morfintra Mineco Feder	1	0.033
+Multidisciplinary Environmental Research Award	1	0.033
+Muscular Dystrophy Association	1	0.033
+Myocean 2 Eu	1	0.033
+Myocean Follow On Project	1	0.033
+Nanjing University	1	0.033
+Nasa Advanced Supercomputing Division	1	0.033
+Nasa Advanced Supercomputing Nas Division	1	0.033
+Nasa Airborne Sciences Team	1	0.033
+Nasa Applied Sciences Grant In Water Resources	1	0.033
+Nasa Applied Sciences Grant Under The Water Resources Program	1	0.033
+Nasa As Part Of The Ocean Surface Topography	1	0.033
+Nasa At Jpl	1	0.033
+Nasa Award	1	0.033
+Nasa Caltech Jet Propulsion Laboratory	1	0.033
+Nasa Center	1	0.033
+Nasa Cryosphere Award	1	0.033
+Nasa Cryosphere Awards	1	0.033
+Nasa Cryosphere Program Grants	1	0.033
+Nasa Cryosphere Program Through The Icesat 2 Project Office	1	0.033
+Nasa Cryosphere Sciences Program Csp	1	0.033
+Nasa Cryospheric Program Funds	1	0.033
+Nasa Cryospheric Science Program	1	0.033
+Nasa Cryospheric Sciences Grant	1	0.033
+Nasa Csp	1	0.033
+Nasa Desdyni Lidar Project	1	0.033
+Nasa Earth And Space Sciences Fellowship	1	0.033
+Nasa Earth And Space Sciences Fellowship Program Grant	1	0.033
+Nasa Earth Science	1	0.033
+Nasa Earth Science Information Partnerships Program	1	0.033
+Nasa Earth Science Measures Discover Project	1	0.033
+Nasa Earth Sciences Division	1	0.033
+Nasa Earth Sun System Division	1	0.033
+Nasa Ecosystems And Carbon Cycle	1	0.033
+Nasa Epscor Program At The University Of Delaware	1	0.033
+Nasa Esa Dlr S Afrisar Campaign	1	0.033
+Nasa Esa Snow On Sea Ice Nesosi Project	1	0.033
+Nasa Europa Mission Project	1	0.033
+Nasa Funded Jason Science Investigation	1	0.033
+Nasa Geodetic Image Program	1	0.033
+Nasa Grace Funding	1	0.033
+Nasa Grace Grant	1	0.033
+Nasa Grace Grant At Aer	1	0.033
+Nasa Grace Investigation	1	0.033
+Nasa Grace Program	1	0.033
+Nasa Grace Science Team Program	1	0.033
+Nasa Graduate Student Research Program Grant	1	0.033
+Nasa Headquarters Through The Icesat 2 Project Office At The Goddard Space Flight Center	1	0.033
+Nasa Headquarters Under The Nasa Earth And Space Science	1	0.033
+Nasa Headquarters Under The Nasa Postdoctoral Program At Nasa Marshall Space Flight Center	1	0.033
+Nasa High Mountain Asia Program	1	0.033
+Nasa Hq	1	0.033
+Nasa Hydrology Program	1	0.033
+Nasa Icesat 2 Project Office	1	0.033
+Nasa Icesat 2 Project Science Office And Science Team	1	0.033
+Nasa Icesat 2 Science Definition Program	1	0.033
+Nasa Icesat Project Science Office	1	0.033
+Nasa Ids Sea Level Investigation	1	0.033
+Nasa Ids Sea Level Program	1	0.033
+Nasa Ihy	1	0.033
+Nasa Interdisciplinary Research In Earth Science Sea Level Change	1	0.033
+Nasa Interdisciplinary Science Grant	1	0.033
+Nasa Jpl Contract	1	0.033
+Nasa Jpl Ocean Vector Winds Science Team Grant	1	0.033
+Nasa Land Cover Land Use Change Lcluc Award Global Scale Assessment Of Threatened River Delta Systems	1	0.033
+Nasa Making Earth System Data Records For Use In Research Environments Measures	1	0.033
+Nasa Making Earth System Data Records For Use In Research Environments Measures Program	1	0.033
+Nasa Mapp Program	1	0.033
+Nasa Nasa S Ocean Surface Topography Mission	1	0.033
+Nasa Nessf Fellowship Award	1	0.033
+Nasa New Investigator Grant	1	0.033
+Nasa News	1	0.033
+Nasa Npp Postdoc Fellowship	1	0.033
+Nasa Ocean Surface Topography Mission Science Team Grant Nasa United States	1	0.033
+Nasa Ocean Surface Topography Science Team Grant	1	0.033
+Nasa Ocean Surface Topography Science Team Ostst Award	1	0.033
+Nasa Ocean Surface Topography Science Team Through Nasa	1	0.033
+Nasa Ocean Vector Wind Science Team	1	0.033
+Nasa Ocean Vector Wind Science Team Grant	1	0.033
+Nasa Oceans Melting Greenland Through The Jet Propulsion Laboratory Jpl Under California Institute Of Technology	1	0.033
+Nasa Ostst	1	0.033
+Nasa Ostst Program	1	0.033
+Nasa P 3 Aircrew	1	0.033
+Nasa Pathfinder Program For Eos Products	1	0.033
+Nasa Pgg	1	0.033
+Nasa Physical Oceanography Cryospheric Science And Modeling Analysis And Prediction Programs	1	0.033
+Nasa Physical Oceanography Program Nasa	1	0.033
+Nasa Planetary Mission Data Analysis Program	1	0.033
+Nasa Projects	1	0.033
+Nasa Roses Nra	1	0.033
+Nasa Roses Po Award	1	0.033
+Nasa Roses Terrestrial Hydrology Program Nasa Roses 2017 Terrestrial Hydrology Filling The Space Time Gaps Between Surface Water Retrievals	1	0.033
+Nasa S Airborne Science And Cryospheric Sciences Programs	1	0.033
+Nasa S Airborne Science Program	1	0.033
+Nasa S Ames Stereo Pipeline Software	1	0.033
+Nasa S Application Science Program Under The Servir Project	1	0.033
+Nasa S Applied Sciences Program	1	0.033
+Nasa S Applied Sciences Program Servir	1	0.033
+Nasa S Carbon Monitoring System Initiative	1	0.033
+Nasa S Concept In Advanced Geodesy Program	1	0.033
+Nasa S Earth And Space Sciences Fellowship	1	0.033
+Nasa S Earth Science Information Partnerships Esip A Federation Of Information Sites For Earth Science	1	0.033
+Nasa S Earth Science Technology Office	1	0.033
+Nasa S Earth Surface Interior Program	1	0.033
+Nasa S Geodetic Imaging Program	1	0.033
+Nasa S Gnss Remote Sensing Program	1	0.033
+Nasa S Goddard Space Flight Center Icesat 2 Project Science Office	1	0.033
+Nasa S Grace Program	1	0.033
+Nasa S Grace Science Team Program	1	0.033
+Nasa S Hydrology Program	1	0.033
+Nasa S Ice Bridge Program	1	0.033
+Nasa S Icesat 2 Project Science Office	1	0.033
+Nasa S Interdisciplinary Science Ids	1	0.033
+Nasa S Interdisciplinary Science Ids Program	1	0.033
+Nasa S Ipy Program	1	0.033
+Nasa S New Investigator Program In Earth Sciences	1	0.033
+Nasa S Ocean Science Topography Team	1	0.033
+Nasa S Ocean Surface Topography Mission Ostm Projects	1	0.033
+Nasa S Operation Icebridge Project Office	1	0.033
+Nasa S Ostst	1	0.033
+Nasa S Ostst Program	1	0.033
+Nasa S Physical Oceanography Ostst	1	0.033
+Nasa S Physical Oceanography Program Under The Ocean Topography Science Team	1	0.033
+Nasa S Physical Oceanography Programme	1	0.033
+Nasa S Planetary Geology And Geophysics	1	0.033
+Nasa S Programs In Cryosphere Program	1	0.033
+Nasa S Science Directorate	1	0.033
+Nasa S Solid Earth And Cryospheric Programs	1	0.033
+Nasa S Surfacewater And Ocean Topography Swot Program	1	0.033
+Nasa S Swot	1	0.033
+Nasa S Swot Mission Program	1	0.033
+Nasa S Terrestrial Ecology Carbon Cycle Science And Applied Sciences	1	0.033
+Nasa S Terrestrial Hydrology Program Thp	1	0.033
+Nasa S Topex Poseidon Jason Program	1	0.033
+Nasa S Trmm Science Team	1	0.033
+Nasa Science Directorate Ocean Surface Topography Science Team Project	1	0.033
+Nasa Science Mission Directorate Smd Maturation Of Instrument Technologies For Solar System Exploration Matisse Program	1	0.033
+Nasa Science Team Grant	1	0.033
+Nasa Sea Level Change Science Team	1	0.033
+Nasa Sea Level Change Science Teams	1	0.033
+Nasa Sea Level Change Team Nslct	1	0.033
+Nasa Senior Fellowship	1	0.033
+Nasa Senior Npp Fellowship	1	0.033
+Nasa Servir Applied Sciences Team	1	0.033
+Nasa Sevir Program	1	0.033
+Nasa Solar System Workings Grant	1	0.033
+Nasa Studies With Icesat 2 Program	1	0.033
+Nasa Studies With Icesat 2 Programme	1	0.033
+Nasa Subcontract To Boston University	1	0.033
+Nasa Surface Water And Ocean Topography Mission	1	0.033
+Nasa Surface Water And Ocean Topography Mission Grant	1	0.033
+Nasa Surface Water And Ocean Topography Satellite Mission	1	0.033
+Nasa Surface Water And Ocean Topography Science Definition Team Grant	1	0.033
+Nasa Swot	1	0.033
+Nasa Swot Algorithm Definition Team	1	0.033
+Nasa Swot Project	1	0.033
+Nasa Swot Science Definition Team	1	0.033
+Nasa Swot Science Definition Team Grant	1	0.033
+Nasa Swot Science Team And Terrestrial Hydrology Programs	1	0.033
+Nasa Swot Science Team Funding	1	0.033
+Nasa Terrestrial Ecology Program Arctic Boreal Vulnerability Experiment Above Grant	1	0.033
+Nasa Terrestrial Ecology Programas Part Of The Arctic Boreal Vulnerability Experiment Above	1	0.033
+Nasa Thp Grant	1	0.033
+Nasa Through A Nasa Earth Science Student Fellowship	1	0.033
+Nasa Through Jpl	1	0.033
+Nasa Through The Ocean Surface Topography Program	1	0.033
+Nasa Through The Sea Level Change Team	1	0.033
+Nasa Under A Research Opportunities In Space And Earth Sciences Roses Grant	1	0.033
+Nasa Under Research Opportunities In Space And Earth Sciences Roses Grant	1	0.033
+Nasa Under The Ocean Surface Topography Mission Ostm	1	0.033
+Nasa Unh Research And Discover	1	0.033
+Nasa Water	1	0.033
+Nasa Water Resources Applied Science Grant	1	0.033
+National Academies Of Sciences Grant	1	0.033
+National Aeronautic And Space Administration As Part Of The Nasa Grant	1	0.033
+National Aeronautic And Space Administration Nasa Ocean Salinity Science Team	1	0.033
+National Aeronautics And Space Administration Astrobiology And Cryospheric Sciences Programs	1	0.033
+National Aeronautics And Space Administration At Mit	1	0.033
+National Aeronautics And Space Administration Cryospheric Sciences Branch	1	0.033
+National Aeronautics And Space Administration Grants	1	0.033
+National Aeronautics And Space Administration Jet Propulsion Laboratory	1	0.033
+National Aeronautics And Space Administration Nasa Applied Sciences	1	0.033
+National Aeronautics And Space Administration Nasa Cryosphere Program For The Icesat 2 Science Definition Team	1	0.033
+National Aeronautics And Space Administration Nasa Earth And Space Science Fellowship Grant	1	0.033
+National Aeronautics And Space Administration Nasa Earth And Space Science Graduate Student Fellowship	1	0.033
+National Aeronautics And Space Administration Nasa Earth Science Division	1	0.033
+National Aeronautics And Space Administration Nasa Initiative Servir	1	0.033
+National Aeronautics And Space Administration Nasa Ocean Surface Topography Mission	1	0.033
+National Aeronautics And Space Administration Nasa Ocean Vector Winds Science Team	1	0.033
+National Aeronautics And Space Administration Nasa Physical Oceanography Program	1	0.033
+National Aeronautics And Space Administration Nasa Post Doctoral Program At The Nasa Langley Research Center	1	0.033
+National Aeronautics And Space Administration Nasa Under Nsf Cooperative Agreement	1	0.033
+National Aeronautics And Space Administration Research Opportunities In Solid Earth Science Grant	1	0.033
+National Aeronautics And Space Administration S Icesat 2 Science Definition Project	1	0.033
+National Aeronautics And Space Administration S New Investigator Program In Earth Science	1	0.033
+National Aeronautics And Space Administration Science Directorate	1	0.033
+National Aeronautics And Space Administration Through Roses Physical Oceonography	1	0.033
+National Aeronautics And Space Administration Through The Earth And Space Science Fellowship	1	0.033
+National Aeronautics And Space Administration Through The Jason Science Working Team Jpl Contract	1	0.033
+National Aeronautics And Space Administration Through The Ocean Surface Topography Program	1	0.033
+National Aeronautics And Space Administration Under The Ocean Surface Topography Program	1	0.033
+National Aeronautics And Space Adminstration S Polar Program	1	0.033
+National Center For Atmospheric Research	1	0.033
+National Center For Atmospheric Research Ncar National Science Foundation Nsf	1	0.033
+National Center For Environmental Prediction National Center For Atmospheric Research Ncep Ncar	1	0.033
+National Central University	1	0.033
+National Centre For Research And Development Poland Through Grant Artemis	1	0.033
+National Cheng Kung University	1	0.033
+National Chung Kung University Taiwan	1	0.033
+National Council For Scientific Research Of Lebanon Cnrs L	1	0.033
+National Defense Science And Engineering Graduate Ndseg	1	0.033
+National Environment Research Council Studentship	1	0.033
+National Environmental Science Programme Nesp	1	0.033
+National Foundation For Science Technology Development Nafosted	1	0.033
+National Geospatial Intelligence Agency Grant	1	0.033
+National Geospatial Intelligence Agency Nga Nga University Research Initiative Nuri	1	0.033
+National Geospatial Intelligence Agency Nga Nuri	1	0.033
+National Geospatial Intelligence Agency Nga Nuri Grant	1	0.033
+National Geospatial Intelligence Agency S University Initiative Nuri	1	0.033
+National Geospatial Intelligence Agency S University Research Initiatives Nuri	1	0.033
+National Geospatial Intelligence Agency S University Research Initiatives Nuri Program	1	0.033
+National Geospatial Intelligence Agency Through Baa	1	0.033
+National Geospatial Intelligence Agency Under Nuri	1	0.033
+National Global Change Major Research Project Of China	1	0.033
+National High Technology Grant Of China	1	0.033
+National Ice Center	1	0.033
+National Institute For Climatic Change Research Niccr	1	0.033
+National Institute Of Food And Agriculture Hatch Program Of Theunited States Department Of Agriculture Washington D C	1	0.033
+National Institute Of Oceanography Goa	1	0.033
+National Institutes Of Health Nih Usa	1	0.033
+National Key Project Of Research And Development Plan Of China	1	0.033
+National Key R And D Program Of China	1	0.033
+National Key Ramp D Program Of China	1	0.033
+National Key Research And Development Plan Of China	1	0.033
+National Key Research And Development Program	1	0.033
+National Key Research And Development Program Of China China	1	0.033
+National Key Research Development Program Of China	1	0.033
+National Key Research Programs Of China	1	0.033
+National Key Scientific Research Project The South China Sea Deep	1	0.033
+National Key Technology Ramp D Program Of China	1	0.033
+National Natural Science Foundation Of China Excellent Youth Science Foundation Of Jiangsu Province	1	0.033
+National Natural Science Foundation Of China National Sciencefoundation Of China For Outstanding Young Scientist	1	0.033
+National Natural Science Foundation Of Shandong	1	0.033
+National Ocean Partnership Program Ecco	1	0.033
+National Ocean Partnership Program Nopp	1	0.033
+National Oceanic And Atmospheric Administration At The International Pacific Research Center Iprc	1	0.033
+National Oceanic And Atmospheric Administration Noaa Restore Act Science Program	1	0.033
+National Oceanic And Atmospheric Administration Noaa S Ocean Remote Sensing Program	1	0.033
+National Oceanic And Atmospheric Administration Through The Ocean Remote Sensing Program	1	0.033
+National Park Service	1	0.033
+National Project Of Fundamental Work For Science And Technology Of China	1	0.033
+National Renewable Energy Lab Department Of Energy	1	0.033
+National Research Council	1	0.033
+National Research Council For A Research Associateship At The Naval Postgraduate School Comments Of Prof J Mcwilliams	1	0.033
+National Research Council Research Associateship Award At Noaa Pmel	1	0.033
+National Research Council Research Associateship Award At The National Oceanic And Atmospheric Administration Pacific Marine Environmental Laboratory	1	0.033
+National Research Council Taiwan	1	0.033
+National Research Foundation In Singapore Nrf Nsfc	1	0.033
+National Research Foundation Of Korea Nrf By Korea Government Msip	1	0.033
+National Research Foundation Of Korea Nrf Under The Space Core Technology Development Program	1	0.033
+National Research Foundation Singapore Under Its Nrf Investigatorship Scheme National Research Investigatorship Award	1	0.033
+National Science And Technology Major Project Of The Ministry Of Science And Technology Of China	1	0.033
+National Science Foundation Cpt	1	0.033
+National Science Foundation Hydrology	1	0.033
+National Science Foundation Infews	1	0.033
+National Science Foundation Oce Grant	1	0.033
+National Science Foundation Of Chile Fondecyt Under The Fondecyt Regular Grant	1	0.033
+National Science Foundation Research Experience For Undergraduates Program In Astronomy And Astrophysics At Cornell University	1	0.033
+National Science Foundation S National Center For Airborne Laser Mapping	1	0.033
+National Science Foundation S Physical Oceanography Program	1	0.033
+National Science Foundation S Stc Program	1	0.033
+National Soft Science Research Program Of China	1	0.033
+National Special Basic Research Project Of Ministry Of Science And Technology	1	0.033
+National Special Research Fund For Non Profit Marine Sector	1	0.033
+National University Of Singapore	1	0.033
+National Weather Service Office Of Science And Technology Nws Ost	1	0.033
+Nato Allied Command Transformation Act Usa	1	0.033
+Natural Environment Research Council British Antarctic Survey Polar Science For Planet Earth Programme	1	0.033
+Natural Environment Resources Council	1	0.033
+Natural Environmental Research Council Project Diatomarctic	1	0.033
+Natural Science Foundation Of Hubei Province	1	0.033
+Natural Science Foundation Of Hunan Province	1	0.033
+Natural Science Foundation Of Jiangsu Higher Education Institutions Of China	1	0.033
+Natural Science Foundation Of Shandong Province	1	0.033
+Natural Science Foundation Of Zhejiang Province	1	0.033
+Natural Sciences And Engineering Council Of Canada Nserc Collaborative Research And Development Project Baysys	1	0.033
+Naval Oceanographic Office	1	0.033
+Naval Oceanographic Office Oceanographic Department	1	0.033
+Naval Research Laboratory Base Program Submesoscale Prediction Of Eddies By Altimeter Retrieval Spear	1	0.033
+Naval Research Laboratory Cooperative Agreement	1	0.033
+Naval Research Laboratory Karle S Fellowship	1	0.033
+Naval Research Laboratory Nrl	1	0.033
+Naval Research Laboratory Stennis Space Center Ms	1	0.033
+Navy Dsrc	1	0.033
+Nc Ocean Energy Project	1	0.033
+Nc Space Grant	1	0.033
+Ncdc Pacific Storms Climatology Products Project From East West Center	1	0.033
+Nceo Eo	1	0.033
+Nceo Part Of The U K Natural Environment Research Council	1	0.033
+Ncsa	1	0.033
+Nep Globec	1	0.033
+Nerc Arctic Research Programme Tea Cosi Project	1	0.033
+Nerc Arsf Fsf	1	0.033
+Nerc Diatom Arctic	1	0.033
+Nerc Gef	1	0.033
+Nerc National Capability Funding Via Noc	1	0.033
+Nerc National Centre For Earth Observation Nceo	1	0.033
+Nerc Project Premelt	1	0.033
+Nerc Via The Bas Polar Oceans Strategic Research Programme	1	0.033
+Nersc	1	0.033
+Netherlands Organisation For Scientific Research Nwo Through The Gales Gas Leaks From Space Project By The Dutch Technology Foundation Netherlands Organisation For Scientific Research Nwo	1	0.033
+Netherlands Organization For Scientific Research As Part Of The New Netherlands Polar Programme	1	0.033
+Netherlands Vertical Reference Frame Nevref Project	1	0.033
+Network On Arctic Glaciology Nag Of The International Arctic Science Committee Iasc	1	0.033
+New Initiative Funds	1	0.033
+New Investigator Program	1	0.033
+New Jersey Sea Grant Project	1	0.033
+New Zealand Antarctic Research Institute	1	0.033
+New Zealand Deep South National Challenge	1	0.033
+New Zealand Government	1	0.033
+New Zealand Strategic Science Investment Funded Ssif Programme Marine Geological Resources Of Niwa	1	0.033
+Nga	1	0.033
+Ngs	1	0.033
+Nih National Institute Of Environmental Health Sciences Niehs	1	0.033
+Nio	1	0.033
+Nio Under The Adjunct Scientist Scheme Of Csir	1	0.033
+Nippon Foundation Gebco Seabed 2030 Project	1	0.033
+Noaa Atlantic Oceanographic And Meteorological Laboratory Under The Cooperative Institute Of Marine And Atmospheric Studies Cimas Of The University Of Miami	1	0.033
+Noaa Center For Coastal And Marine Ecosystems Noaa Office Of Education Educational Partnership Program	1	0.033
+Noaa Center For Sponsored Coastal Ocean Research	1	0.033
+Noaa Cioss	1	0.033
+Noaa Climate And Global Change Postdoctoral Fellowship Program	1	0.033
+Noaa Climate Data Record Cdr Program For Satellites	1	0.033
+Noaa Climate Observations And Monitoring Com Program	1	0.033
+Noaa Climate Program Office Global Ocean Monitoring And Observing Program	1	0.033
+Noaa Climate Program Office In Support Of The University Of Hawaii Sea Level Center	1	0.033
+Noaa Climate Program Office Noaa Research	1	0.033
+Noaa Climate Program Office S Climate Change Data And Detection Program	1	0.033
+Noaa Climate Program Office S Modeling Analysis Predictions And Projections Mapp Program	1	0.033
+Noaa Cooperative Institute For Climate And Satellites	1	0.033
+Noaa Cpo Oomd	1	0.033
+Noaa Deepwater Horizon Supplemental Funding Noaa Global Drifter Program	1	0.033
+Noaa For The Implementation Of The Mid Atlantic Regional Association Coastal Ocean Observing System Maracoos	1	0.033
+Noaa Global Carbon Cycle	1	0.033
+Noaa Global Ocean Monitoring And Observing Program Under The Xbt Project	1	0.033
+Noaa Hab Research Program	1	0.033
+Noaa Integrated Ocean Observing System Ioos Through Alaska Ocean Observing System Adds	1	0.033
+Noaa Integrated Ocean Observing System Ioos Through Southern California Coastal Ocean Observing System Sccoos	1	0.033
+Noaa Ioos Program Through Cencoos	1	0.033
+Noaa Jason 2 Program	1	0.033
+Noaa Nos Coastal Storms Project	1	0.033
+Noaa Ocean Remote Sensing Program	1	0.033
+Noaa Oceanwatch	1	0.033
+Noaa Office Of Atmospheric And Oceanic Research Oar	1	0.033
+Noaa Office Of Climate	1	0.033
+Noaa Office Of Climate Observations Oco	1	0.033
+Noaa Office Of Weather And Air Quality Through The Osse Testbed	1	0.033
+Noaa Oomd	1	0.033
+Noaa Oppa Technology Maturation Program	1	0.033
+Noaa Physical Sciences Laboratory	1	0.033
+Noaa S Center For Sponsored Coastal Ocean Research Award	1	0.033
+Noaa S Climate Observation Division	1	0.033
+Noaa S Climate Project Office	1	0.033
+Noaa S Climate Variability And Predictability Program	1	0.033
+Noaa S Cooperative Institute For Great Lakes Research University Of Michigan	1	0.033
+Noaa S Essential Fish Habitat Efh Habitat And Ecological Processes Research Hepr Through The Nmfs Alaska Regional Office	1	0.033
+Noaa S Laboratory For Satellite Altimetry	1	0.033
+Noaa S Ocean Observation And Monitoring Division	1	0.033
+Noaa S Office Of Coast Survey	1	0.033
+Noaa Science Box Grant	1	0.033
+Noaa Southeast Fisheries Science Center	1	0.033
+Noaa Through Secoora	1	0.033
+Noaa Through Southeast Coastal Ocean Regional Association Secoora As Pass Through From The Noaa Ioos Program Office	1	0.033
+Noaa Through State Of Fl For Our Coastal Ocean Monitoring And Prediction System Comps Program And Collaboration For Prediction Of Red Tides Cpr	1	0.033
+Noaa Through The Ecpc	1	0.033
+Noaa University Of Miami Cooperative Institute For Marine And Atmospheric Science Cimas	1	0.033
+Noc Southampton	1	0.033
+Non Profit Industry Financial Program Of The Ministry Of Water Resources	1	0.033
+Nordic Top Level Research Initiative	1	0.033
+Northern Oil And Gas Research Initiative	1	0.033
+Northern Scientific Training Program Nstp	1	0.033
+Norwegian Centre For Integrated Remote Sensing And Forecasting For Arctic Operations Cirfa Under Research Council Of Norway	1	0.033
+Norwegian Polar Institute	1	0.033
+Norwegian Program For Supercomputing Notur Project	1	0.033
+Norwegian Research Council Through The International Polar Year Ipy Project Glaciodyn	1	0.033
+Norwegian Space Center As Part Of The Cryosat Program	1	0.033
+Nps Through The National Council For Science And Technology Mexico	1	0.033
+Nrf Grant Via A South African Post Doctoral Fellowship	1	0.033
+Nrf Sanap Samoc Sa Programme	1	0.033
+Nrl	1	0.033
+Nrl Project Slope To Shelf Energetics And Exchange Dynamics	1	0.033
+Nrl Ssc	1	0.033
+Nrl Work Unit Submesoscale Prediction Of Eddies From Altimeter Retrieval Spear	1	0.033
+Nscf Project	1	0.033
+Nserc Crsng Visiting Fellowship In Canadian Laboratories Of The Dfo International Governance Strategy Igs	1	0.033
+Nserc Postdoctoral Fellowship Through Environment Canada	1	0.033
+Nsf Belmont Forum Project	1	0.033
+Nsf Ear Earthscope Project	1	0.033
+Nsf Ear Postdoctoral Fellowship Grant	1	0.033
+Nsf Noaa Us Northeast Pacific Program Nep Globec	1	0.033
+Nsf Nordic Research Opportunity Fellowship	1	0.033
+Nsf Opp Award	1	0.033
+Nsf Opp Grant	1	0.033
+Nsf Opp Program	1	0.033
+Nsf Plr	1	0.033
+Nsf Research Experience For Undergraduates Reu	1	0.033
+Nsf Through The Belmont Forum Igfa	1	0.033
+Nsf Through The Moby Project	1	0.033
+Nsf Via The Belmont Forum Igfa	1	0.033
+Nsf Via The Belmont Forum Igfa Grant	1	0.033
+Nsf Via The Moby Project	1	0.033
+Nsfc Cgiar	1	0.033
+Nsfc Mainland China	1	0.033
+Nsfc Special Program	1	0.033
+Nuist Startup Grants	1	0.033
+Nvidia	1	0.033
+Nwo Alw Netherlands Organization Of Scientific Research Earth And Life Sciences Division	1	0.033
+Nwo Alw Veni Grant	1	0.033
+Ocean Biology Processing Group Obpg At Nasa S Goddard Space Flight Center	1	0.033
+Ocean Climate Change Analysis Projections Adaptation Occapa Ministry Of Oceans And Fisheries Korea	1	0.033
+Ocean Foundation	1	0.033
+Ocean Surface Topography Mission Ostm Projects	1	0.033
+Ocean Surface Topography Program Of The National Aeronautics And Space Administration	1	0.033
+Ocean Surface Topography Science Team Ostst Foam Project	1	0.033
+Ocean Surface Topography Science Team Through Nasa	1	0.033
+Ocean Tracking Network Otn	1	0.033
+Ocean Vector Winds Science Teams	1	0.033
+Oceanography At Uri	1	0.033
+Oceans Melting Greenland Mission	1	0.033
+Octave Development Community	1	0.033
+Office Of Environment And Heritage New South Wales	1	0.033
+Office Of Naval Reseach	1	0.033
+Office Of Naval Research As Part Of The Naval Research Laboratory S Basic Research Project Slope To Shelf Energetics And Exchange Dynamics Seed	1	0.033
+Office Of Naval Research Nrl Program Elements	1	0.033
+Office Of Naval Research Onr As A Part Of The Project Coupled Process Studies And Numerical Simulations Of Channel Sand Dynamics In Tide Dominated River Channels A Mekong Delta Case Study	1	0.033
+Office Of Naval Research Onr Through The Earth Systems Prediction Capability	1	0.033
+Office Of Naval Research Physical Oceanography	1	0.033
+Office Of Naval Research Through Irregular Multiresolution Database Algorithm Base Program Project At The Naval Research Laboratory	1	0.033
+Office Of Naval Research Under The National Oceanography Partner Program	1	0.033
+Office Of Polar Programs Of The Us National Science Foundation	1	0.033
+Office Of Research And Applications Of The National Oceanic And Atmospheric Administration Noaa	1	0.033
+Office Of Science Of The U S Department Of Energy Earth System Modeling Program Through The Accelerated Climate Modeling For Energy Acme Project	1	0.033
+Ohio State University S Climate Water And Carbon Cwc Program	1	0.033
+Old Dominion University S Climate Change And Sea Level Rise Initiative	1	0.033
+Onr 6 1	1	0.033
+Onr Arctic Grants	1	0.033
+Onr Cblast Program	1	0.033
+Onr Direct Research Initiative Northern Arabian Sea Circulation Autonomous Research Projects	1	0.033
+Onr Global Grant	1	0.033
+Onr Grant At The University Of Washington	1	0.033
+Onr Grants	1	0.033
+Onr Itop Program	1	0.033
+Onr Nascar Northern Arabian Sea Circulation Autonomous Research Award	1	0.033
+Onr Project Flow Encountering Abrupt Topography Fleat	1	0.033
+Onr Project Origins Of The Kuroshio And Mindanao Current	1	0.033
+Onr Stratified Ocean Dynamics Of The Arctic	1	0.033
+Ontario Research Fund	1	0.033
+Open Fund From State Key Laboratory Of Remote Sensing Science Chinese Academy Of Sciences	1	0.033
+Open Fund Of Key Laboratory Of Geospace Environment And Geodesy Ministry Of Education Wuhan University	1	0.033
+Open Fund Of State Key Laboratory Of Geodesy And Earth S Dynamics	1	0.033
+Open Fund Of State Key Laboratory Of Remote Sensing Science	1	0.033
+Open Fund Of State Key Laboratory Of Satellite Ocean Environment Dynamics	1	0.033
+Open Fund Of The Jiangsu Key Laboratory Of Coast Ocean Resources Development And Environment Security	1	0.033
+Open Funding Of Jiangsu Key Laboratory Of Coast Ocean Resources Development And Environment Security Hohai University	1	0.033
+Open Project Program Of State Key Laboratory Of Tropical Oceanography	1	0.033
+Open Research Fund Of Key Laboratory Of Tibetan Environmental Changes And Land Surface Processes In Cas	1	0.033
+Open Research Fund Of State Key Laboratory Of Simulation And Regulation Of Water Cycle In River Basin China Institute Of Water Resources And Hydropower Research	1	0.033
+Open Research Fund Of The Jiangsu Key Laboratory Of Coast Ocean Resources Development And Environment Security Hohai University	1	0.033
+Open Research Fund Of The State Key Laboratory Of Information Engineering In Surveying Mapping And Remote Sensing	1	0.033
+Open University Faculty Of Science Technology Engineering And Mathematics	1	0.033
+Opening Project Of Shanghai Key Laboratory Of Space Navigation Of Positioning Techniques	1	0.033
+Orange County Sanitation District	1	0.033
+Orbiter And Radiometric Systems Group At Nasa Jet Propulsion Laboratory	1	0.033
+Osso Blue	1	0.033
+Ostm At Jpl	1	0.033
+Ostst	1	0.033
+Ostst Science Team	1	0.033
+Outstanding Innovative Talent Programme Of Hohai University	1	0.033
+Ovalie Project From Esa Living Planet Fellowship	1	0.033
+Pacific Boundary Ecosystem And Climate Project	1	0.033
+Papd Priority Academic Program Development Of Jiangsu Provincial Universities	1	0.033
+Papd Program	1	0.033
+Pemex Under Cicese Pemex Sap	1	0.033
+Penzance Endowed Fund In Support Of Assistant Scientists At The Woods Hole Oceanographic Institution	1	0.033
+People Trust For Endangered Species For Uruguay	1	0.033
+Perseus Eu	1	0.033
+Perseus Fp7 Projects	1	0.033
+Phillip Leverhulme Prize Award	1	0.033
+Phod	1	0.033
+Physical Oceanography Distributed Active Archive Center	1	0.033
+Physical Oceanography Division Phod Of Noaa S Aoml	1	0.033
+Physical Oceanography Po And Modeling Analysis And Prediction Map Programs	1	0.033
+Physical Oceanography Program At The National Science Foundation	1	0.033
+Physical Oceanography Program Of The U S Nsf	1	0.033
+Piddef	1	0.033
+Pirata Project	1	0.033
+Polar Geospatial Center Under Nsf Opp Awards	1	0.033
+Pontificia Universidad Catolica De Valparaiso	1	0.033
+Posgrado En Ciencias Del Mar Y Limnologia At Universidad Nacional Autonoma De Mexico	1	0.033
+Postdoctoral Scholar Program At The Woods Hole Oceanographic Institution	1	0.033
+Postgraduate Research Practice Innovation Program Of Jiangsu Province	1	0.033
+President S Fund Program	1	0.033
+Prince Albert Ii De Monaco Foundation	1	0.033
+Princeton Aos	1	0.033
+Princeton Environmental Institute At Princeton University Through The Smith Newton Scholars Program	1	0.033
+Princeton University	1	0.033
+Priority Academic Program Development Of Jiangsu Higher Education Institutions Of China	1	0.033
+Priority Academic Programme Development Of Jiangsu Higher Education Institutions	1	0.033
+Professional Human Resource Training Project Of Korea Maritime And Ocean University In The Kmou Kiost Ocean Science And Technology	1	0.033
+Program For Innovation Research And Entrepreneurship Teams In Jiangsu Province	1	0.033
+Programa Antartico Brasileiro Proantar	1	0.033
+Programme National De Teledetection Spatiale	1	0.033
+Project Ageostrophic Vorticity Dynamics Of The Ocean	1	0.033
+Project Ageostrophic Vorticity Dynamics Of The Ocean Onr	1	0.033
+Project Carbama Carbon Biogeochemistry And Atmospheric Exchanges In The Amazon River System	1	0.033
+Project Cryosat Antarctica	1	0.033
+Project Eddy Resolving Global Ocean Prediction Including Tides	1	0.033
+Project Entitled Ocean Climate Change Analysis Projections Adaptation Occapa Ministry Of Land Transport And Maritime Affairs Korea	1	0.033
+Project Global And Remote Littoral Forcing In Global Ocean Models	1	0.033
+Project Global And Remote Littoral Forcing In Global Ocean Models Onr	1	0.033
+Project Mhyzpa Modelisation De L Hydrologie Des Zones D Inondation De La Plaine Centrale Amazonienne	1	0.033
+Project Modelacion Biofisica Del Jurel En El Pacifico Suroriental Y Su Impacto En La Actividad Pesquera Chilena Pai Program Conicyt Chile	1	0.033
+Project Of Enhancing School With Innovation Of Guangdong Ocean University	1	0.033
+Project Of Global Change And Air Sea Interaction	1	0.033
+Project Polar Snow	1	0.033
+Project Sensing And Predicting Underwater Noise Using Robotic Platforms And Forecast Models For Maritime Isr Nato Allied Command Transformation Act	1	0.033
+Project Solar Portuguese Foundation For Science And Technology Fct	1	0.033
+Projects Titled Research For Applications Of Geostationary Ocean Color Imager Goci Ministry Of Oceans And Fisheries Korea	1	0.033
+Projet Samoc	1	0.033
+Promice And Glaciobasis	1	0.033
+Public Ocean Science And Technology Research Funds	1	0.033
+Public Science And Technology Research Funds Projects Of Ocean Of State Oceanic Administration People S Republic Of China	1	0.033
+Pwssc Project	1	0.033
+Qianren Project	1	0.033
+Qingdao National Laboratory For Marine Science And Technology	1	0.033
+Rapid Response	1	0.033
+Regents Faculty Fellowship	1	0.033
+Region Bretagne	1	0.033
+Region Bretagne Through L Allocations De Recherche Doctorale Ared	1	0.033
+Regional And Global Climate Modeling Program Of The Us Department Of Energy Office Of Science	1	0.033
+Regional And Global Model Analysis Component Of The Earth And Environmental System Modeling Program Of The Us Department Of Energy S Office Of Biological Environmental Research Via National Science Foundation	1	0.033
+Regional And Global Model Analysis Rgma Component Of The Earth And Environmental System Modeling Program Of The U S Department Of Energy S Office Of Biological And Environmental Research Ber Via National Science Foundation	1	0.033
+Regional And Global Model Analysis Rgma Component Of The Earth And Environmental System Modeling Program Of The U S Department Of Energy S Office Of Biological Environmental Research Ber Via National Science Foundation	1	0.033
+Research Associateship	1	0.033
+Research Computing Services Of The University Of Melbourne	1	0.033
+Research Experience For Undergraduate	1	0.033
+Research Foundation Of Education Bureau Of Hunan Province China	1	0.033
+Research Partnerships Of Ocean Global Observation Fellowship	1	0.033
+Rhodium Group Climate Impact Lab Consortium	1	0.033
+Rio Grande Do Sul State Research Funding Agency Fapergs	1	0.033
+Ris 3 Po Feder Canarias Through Project Boundary Ministerio De Ciencia Innovacion Y Universidades Of The Spanish Government	1	0.033
+Roger And Victoria Sant	1	0.033
+Rose Joseph Summers Endowment	1	0.033
+Rosenstiel School Of Marine And Atmospheric Sciences Rsmas	1	0.033
+Royal Astronomical Society	1	0.033
+Royal Swedish Academy Of Sciences	1	0.033
+Rtra Stae	1	0.033
+Russ College Of Engineering And Technology	1	0.033
+Russian Federal Targeted Program	1	0.033
+Rutgers University	1	0.033
+S Mode Project	1	0.033
+Safea International Partnership Program For Creative Research Teams	1	0.033
+Saga Project Ministerio De Ciencia Innovacion Y Universidades Of The Spanish Government	1	0.033
+Saic	1	0.033
+Saint Petersburg State University	1	0.033
+Saint Petersburg State University Russia	1	0.033
+Sanya Institute Of Deep Sea Science And Engineering	1	0.033
+Sasagawa Scientific Research	1	0.033
+Satellite Geodesy And Geodynamics Systems Group At Nasa Jet Propulsion Laboratory	1	0.033
+Satellite Remote Sensing On Set Antarctic Ocean Research Star Project Kopri	1	0.033
+Sc Seagrant	1	0.033
+Schlumberger	1	0.033
+Schmidt Ocean Institute	1	0.033
+School Of Forestry And Wildlife Sciences At Auburn University	1	0.033
+Science And Engineering Group S Eg Foundation At The Applied Physical Laboratory Apl Of The University Of Washington Uw	1	0.033
+Science And Engineering Research Board Serb Department Of Science And Technology Dst Government Of India	1	0.033
+Science And Engineering Research Board Serb Government Of India	1	0.033
+Science And Engineering Research Board Serb Of Department Of Science And Technology Dst Government Of India	1	0.033
+Science And Technology Development Fund Stdf	1	0.033
+Science Astrophysics Nasa	1	0.033
+Science Technology Basic Resources Investigation Program Of China Investigation On Snow Characteristics And Their Distribution In China	1	0.033
+Science Technology Commission Of Shanghai Municipality Stcsm	1	0.033
+Science Technology Facilities Council Stfc	1	0.033
+Scientific Committee On Antarctic Research Scar	1	0.033
+Scientific Committee On Oceanic Research Scor Working Group National Scor Committees	1	0.033
+Scientific Research Fund Of The Second Institute Of Oceanography Mnr	1	0.033
+Scientific Research General Program Of Beijing Municipal Commission Of Education	1	0.033
+Scripps High Resolution Xbt Program	1	0.033
+Scripps Institution Of Oceanography Postdoctoral Program	1	0.033
+Scripps Postdoctoral Fellowship	1	0.033
+Scripps Postdoctoral Scholar Award	1	0.033
+Seacoos	1	0.033
+Second Tibetan Plateau Scientific Expedition And Research Program Step	1	0.033
+Second Tibetan Plateau Scientific Expedition And Research Step	1	0.033
+Secoora Ioos Program	1	0.033
+Secretaria De Energia Consejo Nacional De Ciencia Y Tecnologia Grant As Part Of The Consorcio De Investigacion Del Golfo De Mexico	1	0.033
+Sener Conacyt Consorcio De Investigacion Del Golfo De Mexico Cigom	1	0.033
+Sentinel North Program Of Universite Laval	1	0.033
+Seo Birdlife	1	0.033
+Serdp Award	1	0.033
+Servir Applied Sciences Team	1	0.033
+Shanghai Astronomical Observatory Chinese Academy Of Sciences	1	0.033
+Shanghai Pujiang Talent Program Project	1	0.033
+Shanghai Science Technology Committee	1	0.033
+Shenzhen Science And Technology Plan Project Of China	1	0.033
+Shom	1	0.033
+Siani Research Institute	1	0.033
+Sigma Xi Research Society	1	0.033
+Sino Norway Collaborative Stressor Project Natural Science Foundation Of China	1	0.033
+Skim Mprc	1	0.033
+Skim Pe	1	0.033
+Skoll Global Threats Fund	1	0.033
+Slub Tu Dresden	1	0.033
+Sno Memo	1	0.033
+Snu Yonsei Research Cooperation Program Through Seoul National University Snu	1	0.033
+Soa Global Change Air Sea Interaction Project	1	0.033
+Sociedad Mexicana De Mastozoologia Marina Somemma	1	0.033
+South African Environmental Observations Network Saeon	1	0.033
+South African National Research Fund Dst Nrf Pdp Professional Development Grant	1	0.033
+South African National Research Fund Kic Award	1	0.033
+South Carolina Space	1	0.033
+South Korea Ministry Of Environment	1	0.033
+Southern Ocean Carbon And Climate Observations And Modeling Project	1	0.033
+Southern Ocean Carbon And Climate Observations And Modeling Project Under National Science Foundation	1	0.033
+Southwest Research Institute R	1	0.033
+Space Application Centre Sac Indian Space Research Organisation Isro	1	0.033
+Space Core Technology Development Program From The Korean Ministry Of Education Science And Technology Mest	1	0.033
+Space Core Technology Development Program Of The National Research Foundation Of Korea	1	0.033
+Spanish Government Jae Doc Grant Csic	1	0.033
+Spanish Marine Science And Technology Program	1	0.033
+Spanish Meteorological Agency Aemet	1	0.033
+Spanish Ministerio De Economia Y Competitividad Mineco	1	0.033
+Spanish Ministry Of Science Innovation And Universities	1	0.033
+Spanish Research Council Csic	1	0.033
+Spanish Research Grant Mineco Feder	1	0.033
+Spanish Salvador De Madariaga Program	1	0.033
+Spawar Project Altimeter Data Fusion Center Support	1	0.033
+Spawar Systems Center Pacific Strategic Environmental Research And Development Program Serdp	1	0.033
+Special Fund For Forest Scientific Research In The Public Welfare	1	0.033
+Special Fund For The Ecological Assessment Of Three Gorges Project	1	0.033
+Special Funded Project Of China Postdoctoral	1	0.033
+Special Program Fund Of Shanghai Astronomical Observatory	1	0.033
+Specialized Research Fund For The Doctoral Program Of Higher Education Srfdp	1	0.033
+Specific Expedition Budget Of Gfz	1	0.033
+Sri International	1	0.033
+Stanback Postdoctoral Fellowship At Caltech	1	0.033
+Stanford Science Fellows Programme	1	0.033
+Startup Foundation For Introducing Talent Of Nanjing University Of Information Science Technology	1	0.033
+Startup Foundation For Introducing Talent Of Nuist	1	0.033
+State Forestry Administration Project	1	0.033
+State Key Laboratory Breeding Base Of Nuclear Resources And Environment East China Institute Of Technology	1	0.033
+State Key Laboratory Of Digital Earth Science Institute Of Remote Sensing And Digital Earth Chinese Academy Of Science	1	0.033
+State Key Laboratory Of Geo Information Engineering	1	0.033
+State Key Laboratory Of Geodesy And Earth S Dynamics Igg Cas	1	0.033
+State Key Laboratory Of Satellite Ocean Environment Dynamics China	1	0.033
+State Key Laboratory Of Satellite Ocean Environment Dynamics Second Institute Of Oceanography	1	0.033
+State Key Laboratory Of Satellite Oceanic Environment And Dynamics Second Institute Of Oceanography Soa China	1	0.033
+State Key Laboratory Of Tropical Oceanography	1	0.033
+State Oceanic Administration	1	0.033
+State Of California	1	0.033
+State Of California Under The Coastal Ocean Currents Monitoring Program Cocmp	1	0.033
+State Of Florida	1	0.033
+State Of Hawaii Department Of Transportation	1	0.033
+State Of Rhode Island And Providence Plantations	1	0.033
+State Of The Climate Quarterly Report On The Meridional Heat Transport In The Atlantic Ocean Project	1	0.033
+Statoil Research Grant	1	0.033
+Steve Kale Fellowship At Kansas State University	1	0.033
+Stfc Mssl Consolidated Grant	1	0.033
+Summit Station Science Coordination Office Sco	1	0.033
+Support To Science Element Stse Of The European Space Agency Esa Earth Observation Envelope Programme	1	0.033
+Surface Water And Ocean Topography Canada Program	1	0.033
+Surface Water And Ocean Topography Canada Swot C Program	1	0.033
+Surface Water And Ocean Topography Canada Swot C Program Canadian Space Agency	1	0.033
+Surface Water Ocean Topography Mission Science Team Grant	1	0.033
+Swca Environmental Consultants	1	0.033
+Swedish National Space Board	1	0.033
+Swedish Research Council	1	0.033
+Swiss National Science Foundation Early Postdoc Mobility Fellowship	1	0.033
+Swiss National Science Foundation Snsf	1	0.033
+Swot Adt Contract	1	0.033
+Swot Algorithm Definition Team Adt	1	0.033
+Swot Algorithm Development Team Adt Service From The Nasa Caltech Jet Propulsion Laboratory	1	0.033
+Swot Mission Program	1	0.033
+Swot Project At The Nasa Caltech Jet Propulsion Lab	1	0.033
+Swot Project Office At The Nasa Caltech Jet Propulsion Lab	1	0.033
+Swot Project Office At The Nasa Caltech Jet Propulsion Laboratory	1	0.033
+Swot Science Team Grants	1	0.033
+Swot Science Team Nasa Roses 2015 Swot Science Team	1	0.033
+Swot Science Team Project	1	0.033
+T P Extended Mission Science Working Group Jpl	1	0.033
+Taiwan National Science Council S Integrated Typhoon Ocean Program Itop	1	0.033
+Taiwan S National Science Council	1	0.033
+Tanzania National Parks	1	0.033
+Tara Schooner	1	0.033
+Tasman Sea Tidal Dissipation Experiment Ttide Nsf	1	0.033
+Tata Center At Mit	1	0.033
+Technologiestichting Stw	1	0.033
+Technology Development Program	1	0.033
+Technology Program Of The Ministry Of Economic Affairs	1	0.033
+Texas General Land Office	1	0.033
+Tglo Improving Hydrodynamic Predictions	1	0.033
+The British Council In India	1	0.033
+The Charles Stark Draper Laboratory Inc	1	0.033
+Tmsi	1	0.033
+Tokyo University Of Marine Science And Technology	1	0.033
+Topex Poseidon	1	0.033
+Tosca	1	0.033
+Tosca Cnes Grant	1	0.033
+Tosca Cnes Project Sea Level Alk From Cnes The French Space Agency	1	0.033
+Tril Program Of The Abdus Salam International Center For Theoretical Physics Ictp	1	0.033
+Trond Mohn Foundation	1	0.033
+Tropom National Program From The Netherlands Space Office	1	0.033
+Turbulence Superstructures Priority Program Of The German National Science Foundation Dfg	1	0.033
+U K Natural Environment Research Council Centre For Polar Observation And Modelling	1	0.033
+U K Natural Environment Research Council Through Project Atlantic Biogeochemical Fluxes Abc Fluxes	1	0.033
+U K Natural Environment Research Council Through Project Radiatively Active Gases From The North Atlantic Region And Climate Change Ragnarocc	1	0.033
+U S Air Force	1	0.033
+U S Amoc Program	1	0.033
+U S Amoc Science Teams	1	0.033
+U S Army Engineer Research And Development Center Cold Regions Research And Engineering Laboratory Remote Sensing Gis Center Of Expertise	1	0.033
+U S Army Natick Soldier Center	1	0.033
+U S Bureau Of Offshore Energy Management	1	0.033
+U S Coast Guard	1	0.033
+U S Department Of The Interior Bureau Of Ocean Energy Management Regulation And Enforcement Boemre Gulf Of Mexico Region	1	0.033
+U S Geological Survey Center For Integrated Data Analytics	1	0.033
+U S Geological Survey Cooperative Water And Groundwater Resources Programs	1	0.033
+U S Geological Survey National Innovation Center National Uas Project Office Hydrologic Remote Sensing Branch	1	0.033
+U S Geological Survey Swater Mission Area Hydrologic Remote Sensing Branch	1	0.033
+U S Globec Nep	1	0.033
+U S God Ae	1	0.033
+U S Integrated Ocean Observing System Ioos Through The Maracoos Cooperative	1	0.033
+U S Interagency Arctic Buoy Program	1	0.033
+U S National Academy Of Sciences Engineering And Medicine S Gulf Research Program	1	0.033
+U S National Aeronautical And Space Administration	1	0.033
+U S National Aeronautics Administration	1	0.033
+U S National Aeronautics And Space Administration Nasa Under Making Earth System Data Records For Use In Research Environments Measures Program	1	0.033
+U S National Aeronautics And Space Administration Nasa Under Measures Making Earth System Data Records For Use In Research Environments Program	1	0.033
+U S National Aeronautics And Space Administration Nasa Under Ocean Surface Topography Science Team Ostst Program	1	0.033
+U S National Aeronautics And Space Administration Nasa Under Ostst Ocean Surface Topography Science Team	1	0.033
+U S National Aeronautics And Space Administration Through The Ocean Surface Topography Program	1	0.033
+U S National Aeronautics And Space Administration Through The Sea Level Change Program	1	0.033
+U S National Aeronautics And Space Administration Under A Jason 1 Science Investigation	1	0.033
+U S National Aeronautics And Space Administration Under The Auspices Of The Ocean Surface Topography Science Team	1	0.033
+U S National Marine Fisheries Service	1	0.033
+U S National Science Foundation Antarctic Glaciology And Geophysics Programs	1	0.033
+U S National Science Foundation Through Asca Project	1	0.033
+U S National Science Foundation Through The Act Project	1	0.033
+U S National Science Foundation Through The Asca Project	1	0.033
+U S Nnsa	1	0.033
+U S Noaa Climate Program Office Global Ocean Monitoring And Observing Program Via The Wbts Project	1	0.033
+U S Noaa Fisheries	1	0.033
+U S Nsf Antarctic Program	1	0.033
+U S Nsf Otic Grant	1	0.033
+Ubo	1	0.033
+Ucas Joint Phd Training Program	1	0.033
+Ucla Graduate Summer Research Mentorship Program	1	0.033
+Ucla Joint Institute For Regional Earth System Science And Engineering Jifresse	1	0.033
+Uh New Faculty Program	1	0.033
+Uh S New Faculty Award	1	0.033
+Uit	1	0.033
+Uk Natural Environment Research Council Arctic Research Programme Tea Cosi Project	1	0.033
+Uk Natural Environment Research Council Centre For Polar Observation And Modelling	1	0.033
+Uk Natural Environment Research Council S Centre For Polar Observation And Modelling	1	0.033
+Uk Natural Environment Research Council S Istar Programme	1	0.033
+Uk Osnap Project	1	0.033
+Uk Public Weather Service Research Programme	1	0.033
+Uk Sa	1	0.033
+Uk Space Agency Uk Sa	1	0.033
+Ukri Natural Environment Research Council Nerc	1	0.033
+Unavco	1	0.033
+Unep Gef	1	0.033
+United Kingdom S Natural Environment Research Council Nerc	1	0.033
+United States Army Engineer Research And Development Center Erdc Vicksburg Mississippi	1	0.033
+United States Department Of Agriculture Usda	1	0.033
+United States Department Of Health Human Services	1	0.033
+United States Forest Service	1	0.033
+United States National Oceanic And Atmospheric Administration	1	0.033
+United States National Oceanic And Atmospheric Administration National Environmental Satellite Data And Information Service	1	0.033
+United States Of America National Oceanic	1	0.033
+United States Of America National Science Foundation	1	0.033
+United States Office Of Naval Research S Oceanic Control Of Monsoon Intraseasonal Oscillations In The Tropical Indian Ocean And The Bay Of Bengal Miso Bob Award	1	0.033
+Universite Nice Sophia Antipolis	1	0.033
+Universiti Malaysia Terengganu	1	0.033
+University For Foreigners Of Perugia Regione Lazio	1	0.033
+University Natural Sciences Research Project Of The Anhui Educational Committee	1	0.033
+University Of Alaska Fairbanks	1	0.033
+University Of Alaska Fairbanks Center For Global Change Cooperative Institute For Alaska Research	1	0.033
+University Of Bergen	1	0.033
+University Of Bonn	1	0.033
+University Of Bristol Advanced Computing Research Centre	1	0.033
+University Of California At Los Angeles Joint Institute For Regional Earth System Science And Engineering Jifresse Los Angeles Ca Usa	1	0.033
+University Of California Office Of The President Multi Campus Research And Programs Initiative	1	0.033
+University Of California Office Of The President Multicampus Research Programs And Initiatives	1	0.033
+University Of California School Of Physical Sciences	1	0.033
+University Of Cincinnati Graduate School Dean S Fellowship	1	0.033
+University Of Hawaii At Manoa	1	0.033
+University Of Hawaii At Manoa Through Maui High Performance Computing Center Mhpcc	1	0.033
+University Of Houston Via New Faculty Award	1	0.033
+University Of Luxembourg	1	0.033
+University Of Massachusetts Dartmouth International Office	1	0.033
+University Of Minnesota Informatics Institute Fellowship	1	0.033
+University Of North Texas Unt Research Opportunity Program Rop Grant	1	0.033
+University Of Ottawa	1	0.033
+University Of Rhode Island	1	0.033
+University Of South Florida College Of Marine Science	1	0.033
+University Of South Florida Nexus Initiative Award	1	0.033
+University Of South Florida Through The Center For Ocean Mapping And Innovative Technologies Comit	1	0.033
+University Of Southampton	1	0.033
+University Of Stockholm	1	0.033
+University Of Tasmania	1	0.033
+University Of Texas Institute For Geophysics Utig	1	0.033
+University Of Texas Institute For Geophysics Utig Postodoctoral Fellowship Program	1	0.033
+University Of Texas Jackson School Of Geosciences Development Grant	1	0.033
+University Of The Balearic Islands	1	0.033
+University Of The Chinese Academy Of Sciences Beijing China	1	0.033
+University Of Trieste Units	1	0.033
+University Of Washington	1	0.033
+University Of Washington Global Affairs	1	0.033
+University Of Washingtons Robert And Irene Sylvester Professorship	1	0.033
+Unsw Faculty Research Grant	1	0.033
+Uofsc S Magellan Scholarship	1	0.033
+Uri Foundation	1	0.033
+Us Army Corps Of Engineers Usage	1	0.033
+Us Defense Department	1	0.033
+Us Department Of Interior Bureau Of Reclamation	1	0.033
+Us Department Of The Interior Bureau Of Ocean Energy Management	1	0.033
+Us Israel Binational Science Foundation	1	0.033
+Us National Aeronautics And Space Administration Under Ocean Surface Topography Science Team	1	0.033
+Us National Aeronautics And Space Administration Under The Ids	1	0.033
+Us Navy Under Sttr	1	0.033
+Us Noaa Nesdis Ors	1	0.033
+Us State Department	1	0.033
+Usace Cods Program	1	0.033
+Usaid S Peer Project	1	0.033
+Usda Nifa Grant	1	0.033
+Usgs Gap Analysis Program	1	0.033
+Usgs National Earthquake Hazards Reduction Program Cooperative Agreement	1	0.033
+Uswc Ioos Regional Observing Systems Sccoos Cencoos And Nanoos	1	0.033
+Uswrp Hurricane Forecast Improvement Project	1	0.033
+Ut At Austin	1	0.033
+Utah Agricultural Experiment Station Utah State University	1	0.033
+Utig	1	0.033
+Uw Applied Physics Laboratory	1	0.033
+Va De Retro Project Spanish National Research Program	1	0.033
+Veolia Environment Foundation	1	0.033
+Vetlesen Foundation	1	0.033
+Vingroup Innovation Foundation	1	0.033
+Vingroup Innovation Foundation Vinif Vietnam	1	0.033
+Virginia Agricultural Experiment Station Blacksburg	1	0.033
+Virginia Tech S Open Access Subvention Fund	1	0.033
+Voss Postdoctoral Fellowship Through The Institute At Brown For Environment And Society	1	0.033
+Wbts Project	1	0.033
+Weatherpredict Consulting Inc	1	0.033
+Wenhai Program	1	0.033
+Westgrid	1	0.033
+Weston Howland Jr Postdoctoral Scholarship	1	0.033
+Whoi	1	0.033
+Whoi Academic Programs	1	0.033
+Whoi Academics Office	1	0.033
+Whoi Ocean Climate Change Institute	1	0.033
+Whoi S Coastal Ocean Institute	1	0.033
+Whoi S Tropical Research Initiative	1	0.033
+William And Elsie Knight Endowed Fellowship	1	0.033
+Wiomsa Western Indian Ocean Marine Science Association	1	0.033
+Wisconsin Department Of Natural Resources Federal Aid In Sport Fish Restoration	1	0.033
+Wolfson Foundation	1	0.033
+Woods Hole Oceanographic Institution Bridge Support Funds	1	0.033
+Woods Hole Oceanographic Institution S Coastal Ocean Institute	1	0.033
+Woodside Energy Ltd	1	0.033
+World Courier	1	0.033
+World Wildlife Fund Inc	1	0.033
+Wwf	1	0.033
+Xunta De Galicia	1	0.033
+Youth Science And Technology Innovation Fund Project Of Anhui Province Key Laboratory Of Water Conservancy And Water Resources	1	0.033
+1,489 record(s) (48.470%) do not contain data in the field being analyzed

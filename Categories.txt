@@ -1,0 +1,99 @@
+Web of Science Categories	Record Count	% of 8,515
+Oceanography	2542	29.853
+Geosciences Multidisciplinary	2428	28.514
+Remote Sensing	2399	28.174
+Geochemistry Geophysics	1421	16.688
+Imaging Science Photographic Technology	1318	15.479
+Meteorology Atmospheric Sciences	1110	13.036
+Environmental Sciences	1039	12.202
+Engineering Electrical Electronic	768	9.019
+Geography Physical	525	6.166
+Engineering Aerospace	392	4.604
+Astronomy Astrophysics	381	4.474
+Water Resources	364	4.275
+Engineering Ocean	284	3.335
+Multidisciplinary Sciences	210	2.466
+Marine Freshwater Biology	207	2.431
+Optics	176	2.067
+Engineering Civil	151	1.773
+Instruments Instrumentation	141	1.656
+Telecommunications	116	1.362
+Limnology	115	1.351
+Engineering Marine	101	1.186
+Computer Science Artificial Intelligence	58	0.681
+Engineering Multidisciplinary	56	0.658
+Physics Applied	56	0.658
+Computer Science Interdisciplinary Applications	55	0.646
+Ecology	53	0.622
+Geology	47	0.552
+Chemistry Analytical	39	0.458
+Computer Science Information Systems	36	0.423
+Mechanics	32	0.376
+Mathematics Interdisciplinary Applications	31	0.364
+Fisheries	30	0.352
+Physics Multidisciplinary	30	0.352
+Automation Control Systems	28	0.329
+Engineering Mechanical	28	0.329
+Computer Science Theory Methods	26	0.305
+Physics Fluids Plasmas	26	0.305
+Energy Fuels	23	0.270
+Environmental Studies	23	0.270
+Mathematics Applied	20	0.235
+Engineering Environmental	19	0.223
+Geography	17	0.200
+Materials Science Multidisciplinary	16	0.188
+Acoustics	14	0.164
+Green Sustainable Science Technology	14	0.164
+Physics Mathematical	11	0.129
+Mining Mineral Processing	9	0.106
+Chemistry Multidisciplinary	8	0.094
+Forestry	8	0.094
+Operations Research Management Science	7	0.082
+Statistics Probability	7	0.082
+Biodiversity Conservation	6	0.070
+Computer Science Hardware Architecture	6	0.070
+Education Scientific Disciplines	6	0.070
+Agricultural Engineering	5	0.059
+Engineering Geological	5	0.059
+Mathematics	4	0.047
+Paleontology	4	0.047
+Transportation Science Technology	4	0.047
+Computer Science Software Engineering	3	0.035
+Education Educational Research	3	0.035
+Engineering Biomedical	3	0.035
+Engineering Industrial	3	0.035
+Nuclear Science Technology	3	0.035
+Spectroscopy	3	0.035
+Agriculture Multidisciplinary	2	0.023
+Audiology Speech Language Pathology	2	0.023
+Biology	2	0.023
+Economics	2	0.023
+Engineering Petroleum	2	0.023
+History Philosophy Of Science	2	0.023
+Neurosciences	2	0.023
+Public Environmental Occupational Health	2	0.023
+Soil Science	2	0.023
+Thermodynamics	2	0.023
+Transportation	2	0.023
+Agronomy	1	0.012
+Archaeology	1	0.012
+Behavioral Sciences	1	0.012
+Biophysics	1	0.012
+Chemistry Inorganic Nuclear	1	0.012
+Computer Science Cybernetics	1	0.012
+Evolutionary Biology	1	0.012
+Management	1	0.012
+Mathematical Computational Biology	1	0.012
+Medical Informatics	1	0.012
+Medicine General Internal	1	0.012
+Metallurgy Metallurgical Engineering	1	0.012
+Microbiology	1	0.012
+Mineralogy	1	0.012
+Nanoscience Nanotechnology	1	0.012
+Ornithology	1	0.012
+Physics Condensed Matter	1	0.012
+Physics Particles Fields	1	0.012
+Plant Sciences	1	0.012
+Regional Urban Planning	1	0.012
+Robotics	1	0.012
+Zoology	1	0.012

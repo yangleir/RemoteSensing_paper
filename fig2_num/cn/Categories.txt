@@ -1,0 +1,64 @@
+Web of Science Categories	Record Count	% of 1,493
+Remote Sensing	570	38.178
+Geosciences Multidisciplinary	466	31.212
+Imaging Science Photographic Technology	359	24.046
+Oceanography	347	23.242
+Environmental Sciences	282	18.888
+Engineering Electrical Electronic	215	14.401
+Geochemistry Geophysics	191	12.793
+Meteorology Atmospheric Sciences	116	7.770
+Geography Physical	104	6.966
+Optics	71	4.756
+Water Resources	61	4.086
+Multidisciplinary Sciences	48	3.215
+Limnology	47	3.148
+Astronomy Astrophysics	46	3.081
+Engineering Aerospace	42	2.813
+Instruments Instrumentation	34	2.277
+Engineering Civil	29	1.942
+Engineering Ocean	24	1.608
+Chemistry Analytical	23	1.541
+Computer Science Artificial Intelligence	21	1.407
+Telecommunications	21	1.407
+Marine Freshwater Biology	20	1.340
+Computer Science Information Systems	19	1.273
+Physics Applied	17	1.139
+Computer Science Interdisciplinary Applications	11	0.737
+Engineering Multidisciplinary	11	0.737
+Materials Science Multidisciplinary	11	0.737
+Ecology	9	0.603
+Engineering Marine	9	0.603
+Physics Multidisciplinary	8	0.536
+Computer Science Theory Methods	7	0.469
+Automation Control Systems	6	0.402
+Engineering Environmental	6	0.402
+Energy Fuels	5	0.335
+Engineering Mechanical	5	0.335
+Mechanics	5	0.335
+Mathematics Interdisciplinary Applications	4	0.268
+Chemistry Multidisciplinary	3	0.201
+Environmental Studies	3	0.201
+Mining Mineral Processing	3	0.201
+Biodiversity Conservation	2	0.134
+Computer Science Software Engineering	2	0.134
+Education Scientific Disciplines	2	0.134
+Engineering Industrial	2	0.134
+Forestry	2	0.134
+Geography	2	0.134
+Operations Research Management Science	2	0.134
+Public Environmental Occupational Health	2	0.134
+Transportation Science Technology	2	0.134
+Acoustics	1	0.067
+Agricultural Engineering	1	0.067
+Agriculture Multidisciplinary	1	0.067
+Agronomy	1	0.067
+Biophysics	1	0.067
+Chemistry Inorganic Nuclear	1	0.067
+Computer Science Hardware Architecture	1	0.067
+Engineering Biomedical	1	0.067
+Engineering Petroleum	1	0.067
+Geology	1	0.067
+Metallurgy Metallurgical Engineering	1	0.067
+Spectroscopy	1	0.067
+Thermodynamics	1	0.067
+Transportation	1	0.067

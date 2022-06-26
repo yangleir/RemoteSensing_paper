@@ -1,0 +1,1229 @@
+Funding Agencies	Record Count	% of 1,493
+National Natural Science Foundation Of China Nsfc	843	56.463
+National Basic Research Program Of China	152	10.181
+Chinese Academy Of Sciences	141	9.444
+National Key Research And Development Program Of China	111	7.435
+Fundamental Research Funds For The Central Universities	93	6.229
+National Key R D Program Of China	78	5.224
+National High Technology Research And Development Program Of China	61	4.086
+China Postdoctoral Science Foundation	53	3.550
+China Scholarship Council	52	3.483
+National Science Foundation Nsf	47	3.148
+National Aeronautics Space Administration Nasa	30	2.009
+National Programme On Global Change And Air Sea Interaction	26	1.741
+Ministry Of Science And Technology China	25	1.674
+Natural Science Foundation Of Shandong Province	25	1.674
+Nsfc Shandong Joint Fund For Marine Science Research Centers	20	1.340
+Natural Environment Research Council Nerc	19	1.273
+Uk Research Innovation Ukri	19	1.273
+Ministry Of Science And Technology Taiwan	18	1.206
+Natural Science Foundation Of Jiangsu Province	17	1.139
+Sdust Research Fund	17	1.139
+Hong Kong Research Grants Council	16	1.072
+Nsf Directorate For Geosciences Geo	16	1.072
+Ministry Of Education Culture Sports Science And Technology Japan Mext	15	1.005
+National Science And Technology Major Project	14	0.938
+European Commission	13	0.871
+Grants In Aid For Scientific Research Kakenhi	12	0.804
+Japan Society For The Promotion Of Science	12	0.804
+Centre National D Etudes Spatiales	10	0.670
+National Science Fund For Distinguished Young Scholars	10	0.670
+European Space Agency	9	0.603
+Key Laboratory Of Geospace Environment And Geodesy Ministry Of Education Wuhan University	9	0.603
+Marine Public Welfare Project Of China	9	0.603
+Marine S T Fund Of Shandong Province For Pilot National Laboratory For Marine Science And Technology Qingdao	9	0.603
+National Key Research And Development Program	9	0.603
+National Program On Global Change And Air Sea Interaction	9	0.603
+Office Of Naval Research	9	0.603
+Public Science And Technology Research Funds Projects Of Ocean	9	0.603
+Spanish Government	9	0.603
+Australian Research Council	8	0.536
+China Geological Survey	8	0.536
+Frontier Science And Technology Innovation Project	8	0.536
+Ministry Of Science And Technology	8	0.536
+State Key Laboratory Of Disaster Reduction In Civil Engineering	8	0.536
+State Key Laboratory Of Geo Information Engineering	8	0.536
+Global Change And Air Sea Interaction Project	7	0.469
+Key Special Project For Introduced Talents Team Of Southern Marine Science And Engineering Guangdong Laboratory Guangzhou	7	0.469
+Knowledge Innovation Program Of The Chinese Academy Of Sciences	7	0.469
+National Key Research And Development Project Of China	7	0.469
+National Key Technology R D Program	7	0.469
+Natural Science Foundation Of Zhejiang Province	7	0.469
+Scientific Research Fund Of Sio	7	0.469
+Ministry Of Education	6	0.402
+Ministry Of Education China	6	0.402
+National High Resolution Ground Observation System Of China	6	0.402
+Natural Science Foundation Of Hubei Province	6	0.402
+Natural Science Foundation Of Shanghai	6	0.402
+Natural Sciences And Engineering Research Council Of Canada Nserc	6	0.402
+Priority Academic Program Development Of Jiangsu Higher Education Institutions Papd	6	0.402
+Startup Foundation For Introducing Talent Of Nuist	6	0.402
+Thousand Young Talents Program In China	6	0.402
+Youth Innovation Promotion Association Cas	6	0.402
+Active And Passive Composite Mapping And Application Technology With Visible Infrared And Laser Sensors	5	0.335
+Dragon 4 Project	5	0.335
+French National Research Agency Anr	5	0.335
+Guangdong Special Fund Program For Marine Economy Development	5	0.335
+Liaoning Revitalization Talents Program	5	0.335
+Ministry Of Education China 111 Project	5	0.335
+National Key Ramp D Program Of China	5	0.335
+National Key Research Program Of China	5	0.335
+National Key Research Program Of China Collaborative Precision Positioning Project	5	0.335
+Natural Science Foundation Of Fujian Province	5	0.335
+Netherlands Organization For Scientific Research Nwo	5	0.335
+Nsfc Innovative Group	5	0.335
+Ohio State University S Climate Water And Carbon Program	5	0.335
+Opening Foundation Of Hunan Engineering And Research Center Of Natural Resource Investigation And Monitoring	5	0.335
+Program For Changjiang Scholars Innovative Research Team In University Pcsirt	5	0.335
+Program For New Century Excellent Talents In University Ncet	5	0.335
+Public Benefit Scientific Research Project Of China	5	0.335
+Qingdao National Laboratory For Marine Science And Technology	5	0.335
+Shanghai Pujiang Talent Program Project	5	0.335
+Shanghai Science And Technology Commission Project	5	0.335
+Shanghai Science Technology Committee	5	0.335
+State Key Laboratory Of Geodesy And Earth S Dynamics	5	0.335
+State Key Laboratory Of Tropical Oceanography South China Sea Institute Of Oceanology Chinese Academy Of Sciences	5	0.335
+Authenticity Validation Technology Of Elevation Accuracy Of The Gf 7 Laser Altimeter	4	0.268
+Autonomous And Controllable Special Project For Surveying And Mapping Of China	4	0.268
+Basic Scientific Fund For National Public Research Institutes Of China	4	0.268
+Dawn Scholar Of Shanghai	4	0.268
+German Research Foundation Dfg	4	0.268
+Global Change And Air Sea Interaction Program Of China	4	0.268
+Global Change Research Program Of China	4	0.268
+Headquarters Of University Advancement At National Cheng Kung University Taiwan	4	0.268
+Independent Research And Development Start Up Fund Of Qian Xuesen Laboratory Of Space Technology	4	0.268
+Innovation Workstation Project Of Science And Technology Commission Of The Central Military Commission	4	0.268
+Innovation Workstation Project Of The Science And Technology Commission Of The Central Military Commission	4	0.268
+Jiangsu Province Distinguished Professor Project	4	0.268
+Key R D Program Of Shandong Province	4	0.268
+Major Project Of High Resolution Earth Observation System	4	0.268
+Nasg Young Academic Leaders Foundation	4	0.268
+National Fund For Basic Surveying And Mapping	4	0.268
+Natural Science Foundation Of Anhui Province	4	0.268
+Outstanding Youth Foundation Of The China Academy Of Space Technology	4	0.268
+Postgraduate Research Practice Innovation Program Of Jiangsu Province	4	0.268
+Priority Academic Program Development Of Jiangsu Higher Education Institutions	4	0.268
+Program For Innovation Research And Entrepreneurship Team In Jiangsu Province	4	0.268
+Project Of State Key Laboratory Of Satellite Ocean Environment Dynamics Second Institute Of Oceanography	4	0.268
+Qian Xuesen Lab Dfh Sat Co Joint Research And Development Fund	4	0.268
+Science And Technology Innovation Action Plan Program Of Shanghai	4	0.268
+Science Technology Commission Of Shanghai Municipality Stcsm	4	0.268
+Shanghai Science And Technology Innovation Action Plan Program	4	0.268
+Soa	4	0.268
+State Oceanic Administration Of China	4	0.268
+Youth Science And Technology Innovation Fund Project Of Anhui Province Key Laboratory Of Water Conservancy And Water Resources	4	0.268
+Authenticity Validation Technology Of Elevation Accuracy Of Gf 7 Laser Altimeter	3	0.201
+Basic Frontier Science Research Program Of Chinese Academy Of Sciences	3	0.201
+Beijing Municipal Science Technology Commission	3	0.201
+Canadian Space Agency	3	0.201
+Cas Chinese Academy Of Sciences 100 Talent Program	3	0.201
+Cas Innovative Foundation	3	0.201
+Cas Pioneer Hundred Talents Program	3	0.201
+China Ocean Mineral Resources Research And Development Association Program	3	0.201
+China S National Key Science Program For Global Change Research	3	0.201
+Chinese Arctic And Antarctic Administration	3	0.201
+Conselho Nacional De Desenvolvimento Cientifico E Tecnologico Cnpq	3	0.201
+European Research Council Erc	3	0.201
+First Institute Of Oceanography In Ministry Of Natural Resources	3	0.201
+Foundation Of China Ocean Mineral Resources Rd Association	3	0.201
+High Resolution Remote Sensing Surveying And Mapping Application Demonstration System	3	0.201
+High Resolution Remote Sensing Surveying And Mapping Application Program	3	0.201
+Hk Science Project	3	0.201
+Innovation Academy Of South China Sea Ecology And Environmental Engineering Chinese Academy Of Sciences	3	0.201
+Jamstec	3	0.201
+K C Wong Education Foundation	3	0.201
+Key Research And Development Program Of Shandong Province	3	0.201
+Key Research And Development Program Of Shandong Province International Science And Technology Cooperation	3	0.201
+Key Research Program Of Frontier Sciences Cas	3	0.201
+Main Direction Project Of Chinese Academy Of Sciences	3	0.201
+Major Technology Innovation Project Of Hubei Province Of China	3	0.201
+Marine Environmental Observation Prediction And Response Network Meopar	3	0.201
+Marine Science And Technology Fund Of Shandong Province For Pilot National Laboratory For Marine Science And Technology Qingdao	3	0.201
+Multibeam Terrain Detection Laser And Its Application Technology	3	0.201
+Nasa Swot Program	3	0.201
+National Central University New Faculty Research Award	3	0.201
+National Defense Science And Technology Innovation Special Zone Project	3	0.201
+National Geospatial Intelligence Agency	3	0.201
+National High Resolution Ground Observation System Of China Gf 7	3	0.201
+National High Tech Project Of China	3	0.201
+National Key Basic Research Program Of China Program 973	3	0.201
+National Key R And D Program Of China	3	0.201
+National Key Research And Development Project	3	0.201
+National Natural Science Foundation Of Guangdong Province	3	0.201
+National Special Research Fund For Non Profit Marine Sector	3	0.201
+Natural Science Foundation Of Hunan Province	3	0.201
+Nsfc Zhejiang Joint Fund For The Integration Of Industrialization And Informatization	3	0.201
+Old Dominion University S Climate Change And Sea Level Rise Initiative Ccslri	3	0.201
+Open Fund Of State Key Laboratory Of Remote Sensing Science	3	0.201
+Open Fund Of State Key Laboratory Of Satellite Ocean Environment Dynamics	3	0.201
+Open Research Fund Of Key Laboratory Of Space Utilization Chinese Academy Of Sciences	3	0.201
+Operational Support Service System For Natural Resources Satellite Remote Sensing	3	0.201
+Outstanding Youth Fund Of China Academy Of Space Technology	3	0.201
+Research Council Of Norway	3	0.201
+Russian Foundation For Basic Research Rfbr	3	0.201
+Scientific Research Fund Of The Second Institute Of Oceanography Mnr	3	0.201
+Sdust	3	0.201
+Second Tibetan Plateau Scientific Expedition And Research	3	0.201
+Second Tibetan Plateau Scientific Expedition And Research Step	3	0.201
+Shanghai Dawn Scholar Program	3	0.201
+Soa Global Change And Air Sea Interaction Project	3	0.201
+Southern Marine Science And Engineering Guangdong Laboratory Guangzhou	3	0.201
+Special Fund For High Resolution Images Surveying And Mapping Application System	3	0.201
+Startup Foundation For Introducing Talent Of Nanjing University Of Information Science And Technology	3	0.201
+State Key Laboratory Of Satellite Ocean Environment Dynamics	3	0.201
+State Key Laboratory Of Satellite Ocean Environment Dynamics Second Institute Of Oceanography	3	0.201
+State Oceanic Administration	3	0.201
+State Scholarship Fund From Chinese Scholarship Council	3	0.201
+Strategic Priority Research Program Project Of The Chinese Academy Of Sciences	3	0.201
+Youth Fund Of China Marine Telemetry Engineering Research Center	3	0.201
+12Th Five Year Plan Of Civil Aerospace Technology Advanced Research Projects	2	0.134
+13Th Five Year Informatization Plan Of Chinese Academy Of Sciences	2	0.134
+Advance Research Project Of Common Technology	2	0.134
+Aoshan Talent Cultivation Program Of Qnlm	2	0.134
+Aoshan Talents Program By The Qingdao National Laboratory For Marine Science And Technology	2	0.134
+Australian Government	2	0.134
+Authenticity Validation Technology Of Elevation Measurement Accuracy Of Gf 7 Laser Altimeter	2	0.134
+Basic Research Foundation Of The Key Laboratory Of Geospace Environment And Geodesy Of Ministry Of Education Wuhan University	2	0.134
+Basic Scientific Research Fund For National Public Institutes Of China	2	0.134
+Beijing Key Laboratory Of Urban Spatial Information Engineering	2	0.134
+Beijing Natural Science Foundation	2	0.134
+Beijing Talents Foundation	2	0.134
+Cas Cafea Program	2	0.134
+Cas Interdisciplinary Innovation Team	2	0.134
+Cas Key Study Program	2	0.134
+Cas Strategic Priority Research Program	2	0.134
+Central Guide Local Science And Technology Development Projects	2	0.134
+Cgiar	2	0.134
+China Manned Space Program	2	0.134
+China Postdoctoral Innovative Talent Support Program	2	0.134
+China S Hy 2 Satellite Altimeter Mission	2	0.134
+Chinese Ministry Of Science And Technology Through The National Basic Research Program	2	0.134
+Chongqing Technology Innovation And Application Development Special Project	2	0.134
+Class B Project Of Beijing Science And Technology Association Jinqiao Project Seed Fund	2	0.134
+Commonwealth Scientific Industrial Research Organisation Csiro	2	0.134
+Daad Thematic Network Project	2	0.134
+Danida Fellowship Centre	2	0.134
+Dawn Scholar Of Shanghai Program	2	0.134
+Defence Research Development Organisation Drdo	2	0.134
+Department Of Earth Atmospheric And Planetary Sciences In Mit	2	0.134
+Disi Australia China Centre	2	0.134
+European Commission Joint Research Centre	2	0.134
+Federal Ministry Of Education Research Bmbf	2	0.134
+Fujian Collaborative Innovation Center For Big Data Applications In Governments	2	0.134
+Fulbright Foundation	2	0.134
+Fundamental Research Funds For The Central Universities Chd	2	0.134
+Fundamental Research Funds For The Central University Of Ministry Education Of China	2	0.134
+Future Star Program Of The Chinese Academy Of Sciences	2	0.134
+General Research Fund Of Hong Kong Research Grants Council Rgc	2	0.134
+German Academic Exchange Service Daad Thematic Network Project	2	0.134
+Global Change And Air Sea Interaction	2	0.134
+Global Change And Air Sea Interaction Project Of China	2	0.134
+Government Of Canada Program World Class Prevention Preparedness And Response For Oil Spills From Ships Initiative	2	0.134
+Government Of Canada S Networks Of Centers Of Excellence Program	2	0.134
+Guangxi Key Laboratory Of Spatial Information And Geomatics	2	0.134
+Guangxi Natural Science Fund For Innovation Research Team	2	0.134
+High Performance Computing Center Iocas	2	0.134
+High Resolution Remote Sensing Surveying And Mapping Application Demonstration System Research Program	2	0.134
+Innovation Group Project Of Southern Marine Science And Engineering Guangdong Laboratory Zhuhai	2	0.134
+Innovation Program Of Academy Of Opto Electronics Aoe Chinese Academy Of Science Cas	2	0.134
+International Corporation Program Of China	2	0.134
+International S T Cooperation Program Of China	2	0.134
+International Science And Technology Cooperation Program Of China	2	0.134
+International Science Technology Cooperation Program Of China	2	0.134
+Ipovar Project	2	0.134
+Key Application Generic Technology Of China High Resolution Earth Observation System	2	0.134
+Key Foundation Of Institute Of Seismology China Earthquake Administration	2	0.134
+Key Laboratory For Digital Land And Resources Of Jiangxi Province East China University Of Technology	2	0.134
+Key Laboratory Of Mapping From Space Of Nasmg China	2	0.134
+Key Laboratory Of Satellite Mapping Technology And Application National Administration Of Surveying Mapping And Geoinformation	2	0.134
+Key Laboratory Of Surveying And Mapping Science And Geospatial Information Technology Of Ministry Of Natural Resources	2	0.134
+Key Program For International S T Cooperation Projects Of China	2	0.134
+Key Research And Development Program Of The Ministry Of Science And Technology	2	0.134
+Key Research Program Of Frontier Sciences Chinese Academy Of Sciences	2	0.134
+Knowledge Innovation Foundation Program For Outstanding Young Scholar Of Chinese Academy Of Sciences Cas	2	0.134
+Korea East I Program	2	0.134
+Labex Cominlabs Grant Seacs	2	0.134
+Laboratory For Regional Oceanography And Numerical Modeling	2	0.134
+Leverhulme Trust	2	0.134
+Liesmars Special Research Funding	2	0.134
+Marine Science Technology Fund Of Shandong Province For Pilot National Laboratory For Marine Science And Technology Qingdao	2	0.134
+Ministry Of Science And Technology Most Taiwan	2	0.134
+Ministry Science And Technology Development Of China Data Sharing Infrastructure Of Earth System Science	2	0.134
+Most	2	0.134
+Nasa S Ocean Surface Topography Mission	2	0.134
+National High Resolution Earth Observation Foundation	2	0.134
+National High Resolution Earth Observation Foundation For Young Scientists Of China	2	0.134
+National High Resolution Project Of China	2	0.134
+National Key Program For Developing Basic Science Of China	2	0.134
+National Key Project Of Research And Development Plan Of China	2	0.134
+National Key Rd Plan Of China	2	0.134
+National Key Research And Development Plan	2	0.134
+National Key Research And Development Plan Of China	2	0.134
+National Key Research And Development Program Of China China	2	0.134
+National Key Research Development Program Of China	2	0.134
+National Key Scientific Research Project The South China Sea Deep	2	0.134
+National Oceanic Atmospheric Admin Noaa Usa	2	0.134
+National Science And Technology Major Project Of The Ministry Of Science And Technology Of China	2	0.134
+National Science Fund	2	0.134
+National Youth Natural Science Foundation Of China	2	0.134
+Natural Science Foundation Of Heilongjiang Province	2	0.134
+Nordic Top Level Research Initiative	2	0.134
+Nsfc Creative Research Group	2	0.134
+Nsfc Shandong Joint Fund For Marine Science Research Centres	2	0.134
+Open Project Program Of State Key Laboratory Of Tropical Oceanography	2	0.134
+Open Research Fund Of Southwest China Institute Of Electronic Technology	2	0.134
+Open Research Fund Program Of The State Key Laboratory Of Geodesy And Earth S Dynamics	2	0.134
+Outstanding Youth Science Fund Of Xi An University Of Science And Technology	2	0.134
+Petrochina Innovation Foundation	2	0.134
+Program For Chinese National Antarctic And Arctic Research Expedition	2	0.134
+Program Of Shanghai Academic Technology Research Leader	2	0.134
+Project Of Global Change And Air Sea Interaction	2	0.134
+Public Science And Technology Research Funds Projects Of Survey	2	0.134
+Research And Development Of Forest Resources Dynamic Monitoring And Forest Volume Estimation Using Lidar Remote Sensing	2	0.134
+Research Foundation Of Education Bureau Of Hunan Province China	2	0.134
+Royal Society International Exchanges Award	2	0.134
+Royal Society Of London	2	0.134
+Sanya Institute Of Deep Sea Science And Engineering	2	0.134
+Scientific And Technological Innovation Project Of The Qingdao National Laboratory For Marine Science And Technology	2	0.134
+Scientific Research And Equipment Development Project Of Chinese Academy Of Sciences	2	0.134
+Scientific Research Fund Of The Second Institute Of Oceanography Soa	2	0.134
+Shanghai Foundation For University Youth Scholars	2	0.134
+Shanghai Municipal Education Commission Shmec	2	0.134
+Shanghai Pujiang Program	2	0.134
+Shanghai Rising Star Program	2	0.134
+Shanghai S T Innovation Action Plan	2	0.134
+Shanghai Shuguang Program	2	0.134
+Shanghai Youth Talent Support Program	2	0.134
+Sichuan Science And Technology Program	2	0.134
+Sino German Cooperation In The Ocean And Polar Research Program Cliflux	2	0.134
+Sino German Csc Daad Postdoc Scholarship Program	2	0.134
+Special Funding For The Development Of Science And Technology Of Shanghai Ocean University	2	0.134
+State Key Basic Research Development Project	2	0.134
+State Key Laboratory Of Geodesy And Earth S Dynamics Fund	2	0.134
+State Key Laboratory Of Information Engineering In Surveying Mapping And Remote Sensing Fund	2	0.134
+State Key Laboratory Of Remote Sensing Science	2	0.134
+State Key Laboratory Of Tropical Oceanography	2	0.134
+Strategic Priority Program On Space Science The Chinese Academy Of Sciences	2	0.134
+Surface Water And Ocean Topography Canada Swot C Program	2	0.134
+Taiwan Ministry Of Science And Technology	2	0.134
+Teralab Grant Tiamsea	2	0.134
+Top Notch Young Talents Program Of China	2	0.134
+United States Geological Surveying Usgs Landsat Science Team Program Grant	2	0.134
+University Of Colorado	2	0.134
+Xi An University Of Science And Technology Cultivation Fund	2	0.134
+Young Elite Scientists Sponsorship Program By Hunan Province Of China	2	0.134
+111 Project Fund Of China	1	0.067
+2018 Special Project For Economic Development Of Guangdong	1	0.067
+863 High Technology Program Of The People S Republic Of China	1	0.067
+948 Project State Forestry Administration Sfa Of China	1	0.067
+A Most Dragon Co Operation Programme	1	0.067
+Academy Of Finland	1	0.067
+Active And Passive Composite Mapping Technology And Application Project With Visible Infrared And Laser Sensors	1	0.067
+Active And Passive Composite Mappingtechnology And Application Project With Visible Infrared And Laser Sensor	1	0.067
+Adlerbert Research Foundation	1	0.067
+Aeronautical Science Foundation Of China	1	0.067
+Aerospace Pre Research Technology Project	1	0.067
+Aerospace Science And Technology	1	0.067
+Alfred P Sloan Foundation	1	0.067
+Alliance Of International Science Organizations	1	0.067
+Antarctic Exploration Fundamental Project	1	0.067
+Aoshan Elite Scientist Plan	1	0.067
+Aoshan Science And Technology Innovation Program	1	0.067
+Aoshan Talents Program	1	0.067
+Aquatic Climate Change Adaptation And Services Program Accasp Fisheries And Oceans Canada	1	0.067
+Arba Minch University Ethiopia	1	0.067
+Arctic Challenge For Sustainability Arcs Project Ministry Of Education Culture Sports Science And Technology Of Japan Mext	1	0.067
+Arctic European Space Agency	1	0.067
+Asia Pacific Space Cooperation Organization Apsco	1	0.067
+Atmospheric Administration National Environmental Satellite Data And Information Service Ocean Remote Sensing	1	0.067
+Australian Climate Change Science Program Accsp	1	0.067
+Australian Dept Of Education And Training	1	0.067
+Autonomous And Controllable Special Project For The Surveying And Mapping Of China	1	0.067
+Aviation Science Foundation	1	0.067
+Banaras Hindu University	1	0.067
+Base Of National Defence Scientific Research Fund	1	0.067
+Basic Frontier Science Research Program Of The Chinese Academy Of Sciences	1	0.067
+Basic Research Operating Funds Of The First Institute Of Oceanography State Oceanic Administration	1	0.067
+Basic Research Program Of Jiangsu Province	1	0.067
+Basic Research Program Of Science And Technology Projects Of Qingdao	1	0.067
+Basic Research Project Of Qingdao Science And Technology Program	1	0.067
+Basic Research Work Of Central Scientific Research Institution For Public Welfare	1	0.067
+Bds Industrialization Project	1	0.067
+Beidou Gnss	1	0.067
+Beihang University	1	0.067
+Beijing Meteorological Bureau	1	0.067
+Beijing Normal University Beijing China	1	0.067
+Beijing Outstanding Young Scientist Program	1	0.067
+Beijing Youth Talent Support Program	1	0.067
+Belmont Forum G8 S Coastal Vulnerability Program Via Australian Research Council	1	0.067
+Belmont Forum Igfa G8 Via Us National Science Foundation	1	0.067
+Belmont Forum Igfa Nsf Grant Ohio State University Component Of This Research	1	0.067
+Belt And Road Special Foundation Of The State Key Laboratory Of Hydrology Water Resources And Hydraulic Engineering	1	0.067
+Belt And Road Special Foundation Of The State Key Laboratory Of Hydrology Water Resources And Hydraulic Engineering China	1	0.067
+Belt And Road Special Foundation Of The State Key Laboratory Of Hydrology Water Resources And Hydraulic Engineering In China	1	0.067
+Bergen Research Foundation	1	0.067
+Brazilian Oil Regulatory Agency Anp Agencia Nacional De Petroleo Gas Natural E Biocombustiveis Within The Special Participation Research Project Oceanographic Modeling And Observation Network Remo	1	0.067
+Bridging The Gap In Innovations For Disasters Brigaid Project	1	0.067
+Bulent Ecevit University	1	0.067
+Canadian Space Agency Government Related Initiatives Program	1	0.067
+Capacity Building Project Of Local Colleges And Universities Of Shanghai Science And Technology Commission	1	0.067
+Cas Alliance Of Field Observation Stations	1	0.067
+Cas International Partnership Program	1	0.067
+Cas Key Deployment Project Of Centre For Ocean Mega Research Of Science	1	0.067
+Cas Key Research Program Of Frontier Sciences	1	0.067
+Cas Light Of West China Program	1	0.067
+Cas Safea Program	1	0.067
+Cas Scholarship Council	1	0.067
+Cas Strategic Priority Project	1	0.067
+Cas Strategy Pioneering Program	1	0.067
+Cas Twas Coe Sdim On Space Technology For Disaster Mitigation In Asia	1	0.067
+Center For Global Sea Level Change Cslc Of Nyu Abu Dhabi	1	0.067
+Center For Integrated Space Weather Modeling Cism	1	0.067
+Central South University	1	0.067
+Central University Fundamental Research Fund Of Hohai University Of China	1	0.067
+Centre For Southern Hemisphere Oceans Research A Joint Research Centre Between Qnlm And Csiro	1	0.067
+Centre For Southern Hemisphere Oceans Research Cshor	1	0.067
+Centre National D Etudes Spatiales Cnes Through The Project Terre Solide Ocean Surfaces Continentales Et Atmosphere Tosca	1	0.067
+Cernet Innovation Project	1	0.067
+Cfosat Project	1	0.067
+Chang E 1 Vlbi	1	0.067
+China 908 Project	1	0.067
+China Coal Industry Association Guidance Program	1	0.067
+China Copes Project	1	0.067
+China Desert Meteorological Science Research Foundation	1	0.067
+China Earthquake Administration	1	0.067
+China Hi Tech Project	1	0.067
+China High Resolution Earth Observation System	1	0.067
+China Major Basic Research Program	1	0.067
+China Manned Space Engineering	1	0.067
+China Ocean Mineral Resources R D Association Project	1	0.067
+China Ocean Mineral Resources Rd Association	1	0.067
+China Postdoctoral Fund Project	1	0.067
+China Postdoctoral Innovation Talent Support Program	1	0.067
+China S National Key Research And Development Projects	1	0.067
+China Scholar Council At The University Of Texas At San Antonio	1	0.067
+China Scholarship	1	0.067
+China Special Fund For Meteorological Research In The Public Interest	1	0.067
+China Special Funds For Meteorological Research In The Public Interest	1	0.067
+Chinawatersense Project	1	0.067
+Chinese Academy Of Sciences Cas Pioneer Hundred Talents Program	1	0.067
+Chinese Academy Of Sciences Cas Safea International Partnership Program For Creative Research Teams	1	0.067
+Chinese Academy Of Sciences Pilot A Special Project	1	0.067
+Chinese Academy Of Sciences Russia	1	0.067
+Chinese Academy Of Sciences Special Fund	1	0.067
+Chinese Academy Of Sciences The World Academy Of Sciences Cas Twas Presidential Fellowship	1	0.067
+Chinese Academy Of Sciences Ukraine	1	0.067
+Chinese Academy Sciences Project Western Pacific Ocean System Structure Dynamics And Consequences	1	0.067
+Chinese Arctic And Antarctic Administration Ministry Of Natural Resources Of The People S Republic Of China	1	0.067
+Chinese French Oceanic Satellite Cfosat Project	1	0.067
+Chinese Ministry Of Sciences And Technology	1	0.067
+Chinese Polar Environment Comprehensive Investigation And Assessment Programmes	1	0.067
+Chinese Polar Environment Comprehensive Investigation And Assessment Programs	1	0.067
+Chinese Polar Environmental Comprehensive Investigation And Assessment Program	1	0.067
+Chinese Polar Science Strategy Research Foundation	1	0.067
+Chinese Polar Strategic Research Foundation	1	0.067
+Chinese Science Council	1	0.067
+Chongqing Meteorological Department Business Technology Research Project	1	0.067
+City University Of Hong Kong	1	0.067
+Civil Aerospace Technology Pre Research Project	1	0.067
+Civil Aircraft Project Of Ministry Of Industry And Information	1	0.067
+Civil Space Technology Pre Research Project Of The Thirteenth Five Year Plan	1	0.067
+Civil Space Technology Pre Research Project Satellite Gradiometry Technology	1	0.067
+Cma	1	0.067
+Cnes French Space Agency Postdoctoral Grant	1	0.067
+Cnes Tosca Swot High Resolution Hydrology Project	1	0.067
+Co Joint Research And Development Fund	1	0.067
+Cold And Arid Regions Environment And Engineering Research Institute	1	0.067
+Collaborative Innovation Center For Geo Hazards And Eco Environment In Three Gorges Area Hubei Province	1	0.067
+Collaborative Innovation Center Of Geospatial Technology	1	0.067
+Collaborative Precision Positioning Project Grant	1	0.067
+College Graduate Research And Innovation Projects Of Jiangsu Province Of China	1	0.067
+Common Key Technology Projects For Major Special Applications Of High Resolution Earth Observation Systems	1	0.067
+Cooperative Institute For Climate Science Princeton University From National Oceanic And Atmospheric Administration U S Department Of Commerce	1	0.067
+Cooperative Research Centres Crc Programme	1	0.067
+Coordination Funds For Promoting Aerospace Utilization Ministry Of Education Culture Sports Science And Technology Japan	1	0.067
+Core Research For Evolutional Science And Technology Crest	1	0.067
+Crsri	1	0.067
+Crsri Open Research Program	1	0.067
+Csc Scholarship	1	0.067
+Csu	1	0.067
+Curtin International Postgraduate Research Scholarships Ciprs Ord Scholarship By Curtin University Australia	1	0.067
+Curtin University	1	0.067
+Dalian High Level Talents Innovation Support Plan	1	0.067
+Danida Fellowship Centre Eoforchina Project	1	0.067
+Dawn Program Of Shanghai Education Commission China	1	0.067
+Dayu Scholar Program	1	0.067
+Dayu Scholar Program Of Hohai University	1	0.067
+Defense Science And Technology Innovation Fund	1	0.067
+Delft University Of Technology	1	0.067
+Department For Business Innovation And Skills	1	0.067
+Department For Environment Food Rural Affairs Defra	1	0.067
+Department Of Environment Science Policy And Management University Of California Berkeley	1	0.067
+Department Of Industry Innovation And Science	1	0.067
+Design And Construction Technology Of Gully Slope Treatment Project Based On Ecological Safety	1	0.067
+Deutscher Akademischer Austausch Dienst Daad	1	0.067
+Dewfora Ec Fp7 Projects	1	0.067
+Dfg Under The Belmont Forum Cra On Coastal Vulnerability	1	0.067
+Dfo	1	0.067
+Dfo S Aquatic Climate Change Adaptation Services Program Accasp	1	0.067
+Dfo S Centre For Ocean Model Development For Applications Comda	1	0.067
+Dipartimento Di Scienze Di Base E Fondamenti Of The Urbino University	1	0.067
+Director Foundation	1	0.067
+Director Innovation Foundation Of Ceode Cas	1	0.067
+Director Innovation Foundation Of The Center For Earth Observation And Digital Earth Chinese Academy Of Sciences	1	0.067
+Discipline Layout Project For Basic Research Of Shenzhen Science And Technology Innovation Committee	1	0.067
+Distinguished Young Scholars In Remote Sensing Of China	1	0.067
+Dlr Ao Project	1	0.067
+Doctoral Foundation Of Henan Polytechnic University	1	0.067
+Doctorate Fellowship Foundation Of Nanjing Forestry University	1	0.067
+Dr Excellent Development Fund Of Beihang University	1	0.067
+Dragon 3 Cooperation Programme From Both The European Space Agency And The Ministry Of Science And Technology Of China	1	0.067
+Dragon 3 Project	1	0.067
+Dragon Iii Project Of Esa Most Dragon Cooperation	1	0.067
+Dragon Iii Project Of The European Space Agency	1	0.067
+Emerging Frontier Area Efa Scheme Of Research Institute For Sustainable Urban Development Risud Of The Hong Kong Polytechnic University	1	0.067
+Engineering Physical Sciences Research Council Epsrc	1	0.067
+Eoforchina Project	1	0.067
+Eoforchina Project Ministry Of Foreign Affairs Of Denmark	1	0.067
+Eqc	1	0.067
+Equipment Advance Research Project	1	0.067
+Esa Dragon 4 Program	1	0.067
+Esa Most China Dragon5 Program	1	0.067
+Esa Most Dragon 3 Cooperation Program	1	0.067
+Esa Most Dragon 4 Cooperation Program	1	0.067
+Esa Most Dragon 4 Project	1	0.067
+Esa Most Dragon 5 Project	1	0.067
+Esa Nrscc Scientific Cooperation Project On Earth Observation Science And Applications Dragon 5	1	0.067
+Esa Seom S1oceanstudy Program	1	0.067
+Esa Smos Storm Ccn Contract	1	0.067
+Essp Icao	1	0.067
+European Commission Within The Connecting Europe Facility Cef Transport Sector	1	0.067
+European Commission Within The Gmes	1	0.067
+European Research Area For Climate Services Era4cs Integrating Sea Level Projections In Climate Services For Coastal Adaptation Inseaption Project	1	0.067
+European Space Agency Through The Climate Change Initiative Project On The Antarctic Ice Sheet	1	0.067
+European Space Agency Through The Climate Change Initiative Project On The Greenland Ice Sheet	1	0.067
+European Space Agency Through The Esa Most Dragon 5 Project	1	0.067
+European Union S Horizon 2020 Research And Innovation Programme	1	0.067
+European Unionfunded Project Pithia Nrf	1	0.067
+Excellent Youth Science Foundation Of Jiangsu Province	1	0.067
+Ffabr Finanziamento Delle Attivita Base Di Ricerca Grant Of Miur Ministero Dell Istruzione Dell Universita E Della Ricerca	1	0.067
+Field Station Alliance Project Of Chinese Academy Of Sciences	1	0.067
+First Class Funding From The Post Doctoral Fund Project	1	0.067
+Fisheries And Oceans Canada S Aquatic Climate Change Adaptation Services Program Accasp	1	0.067
+Foundation Of Guangdong Province For Outstanding Yong Teachers In University	1	0.067
+Foundation Of Guangdong Province For Outstanding Young Teachers In University	1	0.067
+Foundation Of Marine 863	1	0.067
+Foundation Of Science And Technology On Nearsurface Detection Laboratory	1	0.067
+Foundation Of The Advanced Programs Of The State Human Resource Ministry For Scientific And Technical Activities Of Returned Overseas Chinese Scholars	1	0.067
+Foundation Of The Process And Mechanism Of Interaction Between Shoal Channel Evolution And River Tide Dynamics In The Yangtze River Estuary	1	0.067
+Foundations Of Chinese Academy Of Science	1	0.067
+Foundmental Research Funds For The Central University Of Ministry Education Of China	1	0.067
+Free Inquiry Young Talent Program Of The State Key Laboratory Of Remote Sensing Science	1	0.067
+Friend Of Orton Hall Travel Award	1	0.067
+Frontier Science And Technology Innovation Project And The Innovation Workstation Project Of Science And Technology Commission Of The Central Military Commission	1	0.067
+Frontier Science Key Research Program Of The Chinese Academy Of Sciences	1	0.067
+Fulbright Phd Presidential Scholarship	1	0.067
+Fulbright Program For Graduate Studies	1	0.067
+Fund Of Southern Marine Science And Engineering Guangdong Laboratory Zhanjiang	1	0.067
+Fund Of The Director Of The Key Laboratory Of Geographic Information Science Ministry Of Education East China Normal University	1	0.067
+Fundacao De Amparo A Ciencia E Tecnologia Do Estado Do Rio Grande Do Sul Fapergs	1	0.067
+Fundacao De Amparo A Pesquisa Do Amapa Fapeap	1	0.067
+Fundamental Research Fund For The Central University	1	0.067
+Fundamental Research Funds For The Central Universities Hohai University	1	0.067
+Fundamental Research Funds For The Central Universities Of Central South University	1	0.067
+Fundamental Research Funds For The Central Universities Zhongnan University Of Economics And Law	1	0.067
+Fundamental Surveying And Mapping Science And Technology Project	1	0.067
+Funds For Fundamental Scientific Research In Colleges In Henan Province	1	0.067
+G Unger Vetlesen Foundation	1	0.067
+Gansu Province Natural Science Foundation	1	0.067
+General Electric	1	0.067
+General Fund Of The Research Grants Council	1	0.067
+General Research Project Of Science Technology In Shanghai Normal University	1	0.067
+Generalitat De Catalunya	1	0.067
+Geology Foundation Of The Jackson School Of Geosciences University Of Texas Austin	1	0.067
+Geology Foundation Of The University Of Texas	1	0.067
+Geophysical Institute University Of Bergen	1	0.067
+German Helmholtz Climate Initiative Reklim Regional Climate Change	1	0.067
+Gf 7 Satellite Laser Altimeter Elevation Accuracy Authenticity Test Technique	1	0.067
+Gfz	1	0.067
+Global Center Of Excellence Coe Program Evolution Of Research And Education On Integrated River Basin Management In Asian Region University Of Yamanashi	1	0.067
+Global Change And Air Sea Interaction Of China	1	0.067
+Global Change And Air Sea Interaction Program	1	0.067
+Global Variation And Interaction Of Sea And Atmosphere Program	1	0.067
+Glowasis	1	0.067
+Gns Science	1	0.067
+Government Of The Republic Of Kazakhstan	1	0.067
+Government Of The Russian Federation	1	0.067
+Graduate Science And Technology Foundation Of Sdust China	1	0.067
+Grants Of China S Hy 2 Satellite Altimeter Mission	1	0.067
+Green Network Of Excellence Grene Program Arctic Climate Change Research Project	1	0.067
+Guangdong Basic And Applied Basic Research Foundation	1	0.067
+Guangdong Basic And Applied Basic Research Fund	1	0.067
+Guangdong Province First Class Discipline Plan	1	0.067
+Guangdong Province Introduced Innovative R D Team Of Geological Processes And Natural Disasters Around The South China Sea China	1	0.067
+Guangzhou City Project For The Pearl River New Star In Science And Technology	1	0.067
+Gulf Of Mexico Research Initiative As Part Of The Consortium For Advanced Research On Transport Of Hydrocarbon In The Environment	1	0.067
+H2020 Grant	1	0.067
+Hammel Faculty Fellow Award	1	0.067
+Harbor And Marine Technology Center	1	0.067
+Helmholtz Association Advantage	1	0.067
+High Performance Computing Cluster Hpcc Of The State Key Lab Of Satellite Ocean Environment Dynamics Soed	1	0.067
+High Performance Computing Division In The South China Sea Institute Of Oceanology	1	0.067
+High Tech R D Program	1	0.067
+Hong Kong Polytechnic University	1	0.067
+Hong Kong Research Grants Council Rgc Competitive Earmarked Research Grants	1	0.067
+Hong Kong Research Grants Council Under The Theme Based Research Scheme Trs	1	0.067
+Hong Kong Special Administrative Region China	1	0.067
+Huaian Key Laboratory Of Geographic Information Technology And Applications	1	0.067
+Hubei Province Natural Science Fund For Distinguished Young Scholars	1	0.067
+Hubei Province Science Fund For Distinguished Young Scholars	1	0.067
+Hubei Provincial Natural Science Foundation For Innovation Groups	1	0.067
+Hycom Nopp	1	0.067
+Hydraulic Engineering Science And Technology Project Of Hunan Province China	1	0.067
+Igg Internal Project	1	0.067
+Important Science Technology Specific Projects Of Qinghai Province	1	0.067
+Independent Research Project Program Of State Key Laboratory Of Tropical Oceanography	1	0.067
+Independent Scientific Research Program For Cross Disciplinary Of Wuhan University	1	0.067
+Industry Research Of China Earthquake Administration	1	0.067
+Informatization Construction Of Knowledge Innovation Projects Of The Chinese Academy Of Sciences Supercomputing Environment Construction And Application	1	0.067
+Initiative And Networking Fund Of The Helmholtz Association	1	0.067
+Innovation And Entrepreneurship Project Of Qingdao	1	0.067
+Innovation Fund Denmark Chinawatersense Project	1	0.067
+Innovation Fund Denmark Innovationsfonden	1	0.067
+Innovation Group Program Of State Key Laboratory Of Tropical Oceanography South China Sea Institute Of Oceanology Chinese Academy Of Sciences	1	0.067
+Innovation Key Program Of The Chinese Academy Of Sciences	1	0.067
+Innovation Projects Of The State Key Laboratory Of Resources And Environmental Information System	1	0.067
+Innovation Research And Entrepreneurship Team In Jiangsu Province	1	0.067
+Innovation Research Team Of Henan Polytechnic University	1	0.067
+Innovation Team Project Of Estuarine And Coastal Protection And Management	1	0.067
+Innovative Youth Talents Program	1	0.067
+Institut Simon Et Pierre Laplace Labex Lipsl	1	0.067
+Institute For International Education Iie	1	0.067
+Institute Of Geodesy And Geophysics Igg Of The Chinese Academy Of Sciences	1	0.067
+Institute Of Remote Sensing And Digital Earth Chinese Academy Of Sciences Cas	1	0.067
+Integrated Project Of State Key Laboratory Of Tropical Oceanography Lto	1	0.067
+Interdisciplinary Research Funds Of Beijing Normal University	1	0.067
+Intergovernmental Oceanographic Commission Of Unesco International Oceanographic Data And Information Exchange Ioc Iode Iquod Steering Group	1	0.067
+Intergovernmental Wildland Fire Leadership Council Of The United States	1	0.067
+International Centre For Tropical Agriculture Ciat	1	0.067
+International Cooperation And Performance Funds By Soa	1	0.067
+International Exchange Program For Graduate Students Tongji University	1	0.067
+International Network Program Of The Ministry Of Higher Education And Science Denmark	1	0.067
+International Partnership Program Of The Chinese Academy Of Sciences	1	0.067
+International S T Cooperation Program Of The Ministry Of Science And Technology Of China	1	0.067
+International Sci Tech Cooperation Program Of China	1	0.067
+International Science And Technology Cooperation Projects Of Shanghai	1	0.067
+International Scientific Technological Cooperation Project Of Department Of Education Of Guangdong Province China	1	0.067
+Iowa Flood Center	1	0.067
+Irish Department Of Communications Energy And Natural Resources Under National Geoscience Programme	1	0.067
+Ivanhoe Foundation	1	0.067
+Jackson School Of Geosciences Ut Austin	1	0.067
+Japan Aerospace Exploration Agency Jaxa Earth Observation Research Center Eorc	1	0.067
+Japan Agency For Marine Earth Science And Technology	1	0.067
+Japan Oceanographic Data Center Of Japan Meteorological Agency	1	0.067
+Jason 1	1	0.067
+Jet Propulsion Laboratory California Institute Of Technology	1	0.067
+Jiangsu Dual Creative Talents And Teams Programme Projects	1	0.067
+Jiangsu Dual Creative Teams Program Project Awarded In 2017	1	0.067
+Jiangsu Innovation And Entrepreneurship Program	1	0.067
+Jiangsu Key Laboratory Of Coast Ocean Resources Development And Environment Security Hohai University	1	0.067
+Jiangsu Key Laboratory Of Meteorological Observation And Information Processing	1	0.067
+Jiangsu Planned Projects For Postdoctoral Research Funds	1	0.067
+Jiangsu Province	1	0.067
+Jiangsu Province Geo Information Science Project	1	0.067
+Jiangsu Province Qing Lan Project	1	0.067
+Jiangsu Province Science Foundation For Youths	1	0.067
+Jiangsu Provincial Sixtalent Peaks	1	0.067
+Jiangxi Normal University	1	0.067
+Jiangxi Province Key Lab For Digital Land East China Institute Of Technology	1	0.067
+Jifresse Ucla	1	0.067
+Joint Advanced Marine And Ecological Studies	1	0.067
+Joint Center For Global Change Studies Beijing China	1	0.067
+Joint Innovative Center For Safe And Effective Mining Technology And Equipment Of Coal Resources	1	0.067
+Joint Innovative Center For Safe And Effective Mining Technology And Equipment Of Coal Resources Shandong Province	1	0.067
+Joint Phd Training Program Of The University Of Chinese Academy Of Sciences	1	0.067
+Jpl	1	0.067
+K C Wong Education Foundation Hong Kong	1	0.067
+Key Deployment Project Of Cas Centre For Ocean Mega Science	1	0.067
+Key Deployment Project Of Centre For Ocean Mega Research Of Science	1	0.067
+Key Disciplines Construction Project Of Shanghai Municipal	1	0.067
+Key Foundation Of The Institute Of Seismology	1	0.067
+Key Laboratory For Mountain Hazards And Earth Surface Process Institute Of Mountain Hazards And Environment Chinese Academy Of Sciences	1	0.067
+Key Laboratory Of Advanced Engineering Surveying Of Nasmg China	1	0.067
+Key Laboratory Of Coastal Disaster And Defence Hohai University Ministry Of Education	1	0.067
+Key Laboratory Of Dynamic Geodesy Of Cas China	1	0.067
+Key Laboratory Of Geo Informatics Of State Bureau Of Surveying And Mapping	1	0.067
+Key Laboratory Of Geo Informatics Of State Bureau Of Surveying And Mapping Fund	1	0.067
+Key Laboratory Of Geoinformatics Of The State Bureau Of Surveying And Mapping Fund	1	0.067
+Key Laboratory Of Geospace Environment And Geodesy Ministry Education Wuhan University	1	0.067
+Key Laboratory Of Geospace Environment And Geodesy Ministry Of Education	1	0.067
+Key Laboratory Of Geospace Environment University Of Science Technology Of China	1	0.067
+Key Laboratory Of Mapping Earth From Space Of Sbsm China	1	0.067
+Key Laboratory Of Mapping From Space Of Sbsm China	1	0.067
+Key Laboratory Of Marine Ecosystem And Biogeochemistry Soa	1	0.067
+Key Laboratory Of Marine Environmental Survey Technology And Application Ministry Of Natural Resource	1	0.067
+Key Laboratory Of Ministry Of Education For Coastal Disaster And Protection Hohai University	1	0.067
+Key Laboratory Of Ocean Circulation And Waves Of The Chinese Academy Of Sciences	1	0.067
+Key Laboratory Of Precision Navigation And Technology National Time Service Center	1	0.067
+Key Laboratory Of Research On Marine Hazards Forecasting	1	0.067
+Key Laboratory Of Space Utilization Chinese Academy Of Sciences	1	0.067
+Key Laboratory Of Spatial Data Mining Information Sharing Of Ministry Of Education Fuzhou University	1	0.067
+Key Laboratory Of Surveying And Mapping Technology On Island	1	0.067
+Key Laboratory Of Surveying And Mapping Technology On Island And Reef Nasg	1	0.067
+Key Laboratory Of Surveying And Mapping Technology On Island And Reef Of Nasmg China	1	0.067
+Key Laboratory Of Surveying And Mapping Technology On Islands And Reefs State Bureau Of Surveying And Mapping China	1	0.067
+Key Laboratory Of Tibetan Environmental Changes And Land Surface Processes In Chinese Academy Of Sciences	1	0.067
+Key Laboratory Of Water Sediment Sciences And Water Disaster Prevention Of Hunan Province China	1	0.067
+Key Project Of Center For Ocean Mega Science Chinese Academy Of Sciences	1	0.067
+Key Project Of Collaborative Innovation Centre For 21St Century Mari Time Silk Road Program Gdufs	1	0.067
+Key Project Of Natural Science Research Of The Anhui Education Department	1	0.067
+Key R D Plan Of The Ministry Of Science And Technology	1	0.067
+Key R D Program Of Liaoning Province	1	0.067
+Key R D Program Of Shandong	1	0.067
+Key R D Program Of Shandong Province China	1	0.067
+Key R D Program Of The Ministry Of Science And Technology China	1	0.067
+Key R D Project Of Shandong Province	1	0.067
+Key Ramp D Program Of Shandong Province	1	0.067
+Key Research And Development Program Of Jiangsu Province	1	0.067
+Key Research And Development Program Of Yunnan Province In China	1	0.067
+Key Research Program Of Frontier Sciences Cas Global Change And Air Sea Interaction	1	0.067
+Key Research Program Of Frontier Sciences Of Cas	1	0.067
+Key Research Program Of Frontier Sciences Of The Chinese Academy Of Sciences	1	0.067
+Key Research Programme Of The Chinese Academy Of Sciences	1	0.067
+Key Scientific Research Projects Of Higher Education Of Henan Province	1	0.067
+Key Special Program On The Science And Technology Of Zhejiang Province	1	0.067
+Key Technologies Of High Precision Gravity And Magnetic Detection In Deep Water Oil And Gas Exploration	1	0.067
+Key Technology R D Program Of Tianjin	1	0.067
+Kldg Laboratory Of Cas	1	0.067
+Knowledge Innovation Engineering Frontier Project Of Sidsse	1	0.067
+Knowledge Innovation Foundation Program For Outstanding Young Scholar Of Cas	1	0.067
+Knowledge Innovation Program Of Chinese Academy Of Sciences Cas	1	0.067
+Korea Arctic Ocean Observing System K Aoos Kopri Ministry Of Oceans And Fisheries Korea	1	0.067
+Korea Meteorological Administration Research And Development Program	1	0.067
+Korea Science And Engineering Foundation	1	0.067
+Kulturisk	1	0.067
+Laboratory For Regional Oceanography And Numerical Modeling Pilot National Laboratory For Marine Science And Technology	1	0.067
+Laboratory For Regional Oceanography And Numerical Modeling Pilot National Laboratory For Marine Science And Technology Qingdao	1	0.067
+Laboratory For Regional Oceanography And Numerical Modeling Qingdao National Laboratory For Marine Science And Technology	1	0.067
+Laboratory For Regional Oceanography And Numerical Modelling Qingdao National Laboratory For Marine Science And Technology	1	0.067
+Lamsam Thailand Sustain Development	1	0.067
+Land Ecological System Carbon Monitoring Satellite Ground Comprehensive Experiment	1	0.067
+Leadership In Entrepreneurship And Innovation Awarded By Qingdao Municipal Government	1	0.067
+Leading Talents Of Guangdong Province Program	1	0.067
+Leverhulme Trust Early Career Fellowship Scheme	1	0.067
+Liao Ning Revitalization Talents Program	1	0.067
+Linz	1	0.067
+Lloyd S Register	1	0.067
+Lloyd S Register Foundation	1	0.067
+Lto Overseas Visiting Fellowship Program Lto Ovfp	1	0.067
+Lto Scsio Cas	1	0.067
+Lu Jiaxi International Team Program By The K C Wong Education Foundation	1	0.067
+Luc4c Grant	1	0.067
+Major High Resolution Earth Observation Project Of China	1	0.067
+Major International Regional Joint Research Program Of Nsfc	1	0.067
+Major Scientific And Technological Innovation Projects In Shandong Province	1	0.067
+Major Special Project Research Project Of High Resolution Earth Observation System Civil Part	1	0.067
+Mapping Application Demonstration System Research Program	1	0.067
+Marie Curie International Outgoing Fellowship Within The 7Th European Community Framework Programme	1	0.067
+Marine 863 Project	1	0.067
+Marine Public Welfare Projects Of China	1	0.067
+Marine S T Fund Of Shandong Province	1	0.067
+Marine Science And Technology Innovation Project Of Jiangsu Province China	1	0.067
+Marines Tfund Of Shandong Province For Pilot National Laboratory For Marine Science And Technology Qingdao	1	0.067
+Megapol	1	0.067
+Meopar	1	0.067
+Met Office Climate Science For Service Partnership For China	1	0.067
+Met Office Hadley Centre Climate Programme Beis	1	0.067
+Meteorology Scientific Research Fund In The Public Welfare Of China	1	0.067
+Meteorology Scientific Research In The Public Welfare Of China	1	0.067
+Microsoft Azure Research Award	1	0.067
+Ministry Of Education And Science Of The Republic Of Kazakhstan	1	0.067
+Ministry Of Education Key Laboratory For Earth System Modeling Center For Earth System Science Tsinghua University Beijing China	1	0.067
+Ministry Of Education S 111 Project Of China	1	0.067
+Ministry Of Foreign Affairs Of Denmark	1	0.067
+Ministry Of Industry And Information Technology	1	0.067
+Ministry Of Natural Resources Of China	1	0.067
+Ministry Of Science And Technology Dragon 4 Cooperation Programme	1	0.067
+Ministry Of Science And Technology Most Korea	1	0.067
+Ministry Of Water Resource	1	0.067
+Ministry Of Water Resources Of China	1	0.067
+Monarch A Monitoring And Assessing Regional Climate Change In High Latitudes And The Arctic European Commission Within The Gmes Program Seventh Framework Program	1	0.067
+Multi Beam Terrain Detection Laser And Its Application Technology	1	0.067
+Multibeam Laser Terrain Detection Radar Technology And Application Project	1	0.067
+Multibeam Laserterrain Detectionradar Technology And Application	1	0.067
+Myocean2 European Commission Within The Gmes Program Seventh Framework Program	1	0.067
+Nanjing Normal University Startup Research Foundation	1	0.067
+Nanjing University	1	0.067
+Nasa Award	1	0.067
+Nasa Cryosphere Program	1	0.067
+Nasa Geodetic Image Program	1	0.067
+Nasa Grace Science Team	1	0.067
+Nasa Headquarters Under The Nasa Earth And Space Science Fellowship Program Grant	1	0.067
+Nasa Measures Program	1	0.067
+Nasa Ocean Surface Topography Mission Science Team Grant	1	0.067
+Nasa Ocean Surface Topography Mission Science Team Grant Nasa United States	1	0.067
+Nasa Roses Uas Enabled Earth Science Grant	1	0.067
+Nasa S Application Science Program Under The Servir Project	1	0.067
+Nasa S Concept In Advanced Geodesy Program	1	0.067
+Nasa S Earth Surface Interior Program	1	0.067
+Nasa S Geodetic Imaging Program	1	0.067
+Nasa S Gnss Remote Sensing Program	1	0.067
+Nasa S Ocean Surface Topography Mission Ostm Projects	1	0.067
+Nasa S Programs In Cryosphere Program	1	0.067
+Nasa S Servir Program	1	0.067
+Nasa S Terrestrial Ecology Carbon Cycle Science And Applied Sciences	1	0.067
+Nasa Servir Program	1	0.067
+Nasa Surface Water And Ocean Topography Satellite Mission	1	0.067
+Nasa Under The Ocean Surface Topography Mission Ostm	1	0.067
+Nation Key R D Program Of China	1	0.067
+National 12Th Five Year Plan Project For Science And Technology Support	1	0.067
+National Administration Of Surveying Mapping And Geoinformation	1	0.067
+National Basic Research Programme Nbrp 973 Programme	1	0.067
+National Central University Taiwan	1	0.067
+National Centre For Research And Development Poland Through Grant Artemis	1	0.067
+National Environmental Science Programme Nesp	1	0.067
+National Fund For Basic Surveying And Mapping Project	1	0.067
+National Geospatial Intelligence Agency Nga Nuri Grant	1	0.067
+National Geospatial Intelligence Agency S University Research Initiatives Nuri Program	1	0.067
+National Geospatial Intelligence Agency Under Nuri	1	0.067
+National Global Change Major Research Project Of China	1	0.067
+National High Resolution Projects Of China	1	0.067
+National High Tech Program	1	0.067
+National High Tech Ramp D Program Of China	1	0.067
+National High Technology Grant Of China	1	0.067
+National High Technology Program Of China	1	0.067
+National Institute Of Education Nie At Nanyang Technological University Ntu	1	0.067
+National Institutes Of Natural Sciences Nins Japan	1	0.067
+National Key Rd Program	1	0.067
+National Key Reasearch And Development Program Of China	1	0.067
+National Key Research And Development Plan Of The Chinese Academy Of Sciences	1	0.067
+National Key Research And Development Plan Sino Australian Centre For Healthy Coasts	1	0.067
+National Key Research And Development Programme Of China	1	0.067
+National Key Research And Development Scheme Strategic International Cooperation In Science And Technology Innovation Key Programme Of China	1	0.067
+National Key Research Anddevelopment Program	1	0.067
+National Key Research Programs Of China	1	0.067
+National Key Technology Ramp D Program Of China	1	0.067
+National Keyresearch And Development Project Of China	1	0.067
+National Laboratory For Marine Science And Technology Under The Outstanding Scientist Project Of The Aoshan Talents Programme	1	0.067
+National Major Science And Technology Projects Of China	1	0.067
+National Natural Science Foundation Nsfc Project	1	0.067
+National Natural Science Foundation Of China Excellent Youth Science Foundation Of Jiangsu Province	1	0.067
+National Natural Science Foundation Of China National Sciencefoundation Of China For Outstanding Young Scientist	1	0.067
+National Natural Science Foundation Of China Nsfc Shandong Joint Fund For Marine Science Research Centers	1	0.067
+National Natural Science Foundation Of Qinghai Province	1	0.067
+National Natural Science Foundation Of Shandong	1	0.067
+National Ocean Partnership Program	1	0.067
+National Program For Support Of Top Notch Young Professionals	1	0.067
+National Program On Global Climate Change And Air Sea Interaction	1	0.067
+National Project Of Fundamental Work For Science And Technology Of China	1	0.067
+National Satellite Ocean Application Service Nsoas	1	0.067
+National Science And Technology Basic Work Of China	1	0.067
+National Science And Technology Major Project China	1	0.067
+National Science And Technology Major Project Of China	1	0.067
+National Science And Technology Planning Project	1	0.067
+National Science And Technology Support Program Of China	1	0.067
+National Science Foundation For Young Scientists Of China	1	0.067
+National Science Foundation Of China National Natural Science Foundation Of China	1	0.067
+National Science Foundation Of China Shandong United Fund	1	0.067
+National Science Foundation S Stc Program	1	0.067
+National Social Science Foundation Of China	1	0.067
+National Soft Science Research Program Of China	1	0.067
+National Special Basic Research Project Of Ministry Of Science And Technology	1	0.067
+National Special Project	1	0.067
+National Special Research Fund For Non Profit Marine Sector China	1	0.067
+National Technology Support Project	1	0.067
+National Youth Natural Science Foundations Of China	1	0.067
+National Youth Thousand Talents Program	1	0.067
+Nationalkey Research Anddevelopment Program Of China	1	0.067
+Natural Science Foundation For Distinguished Young Scholars Of Hubei Province Of China	1	0.067
+Natural Science Foundation For Young Scientist Of China	1	0.067
+Natural Science Foundation Of Hohai University	1	0.067
+Natural Science Foundation Of Jiangsu Higher Education Institutions Of China	1	0.067
+Natural Science Foundation Of Jiangxi Province	1	0.067
+Natural Science Foundation Of Shanxi Province	1	0.067
+Natural Science Foundation Of Tianjin	1	0.067
+Natural Science Fund Of Hubei Province In China	1	0.067
+Natural Science Key Research Program Of Education Department Of Sichuan Province	1	0.067
+Natural Scientific Foundation Of Jiangsu Province	1	0.067
+Nerc Consortium Using Inter Glacial To Assess Future Sea Level Scenarios	1	0.067
+Nerc National Centre For Earth Observation Nceo	1	0.067
+Netherlands Government	1	0.067
+Netherlands Vertical Reference Frame Nevref Project	1	0.067
+Ngs	1	0.067
+Noaa Research	1	0.067
+Noaa S Cooperative Institute For Great Lakes Research University Of Michigan	1	0.067
+Noaa S Laboratory For Satellite Altimetry	1	0.067
+Non Profit Industry Financial Program Of The Ministry Of Water Resources	1	0.067
+Nonprofit Research Project For The State Oceanic Administration Of China	1	0.067
+Northeastern Regional Association Of Coastal Ocean Observing Systems Neracoos	1	0.067
+Nscf Project	1	0.067
+Nsf Belmont Forum Project	1	0.067
+Nsf Through The Belmont Forum Igfa	1	0.067
+Nsf Via The Belmont Forum Igfa	1	0.067
+Nsf Via The Belmont Forum Igfa Grant	1	0.067
+Nsfc Cgiar	1	0.067
+Nsfc Innovation Group Grant	1	0.067
+Nsfc Innovation Research Group Of Science Fund	1	0.067
+Nsfc Innovation Research Group Of Sciences Fund	1	0.067
+Nsfc Innovative Group Grant	1	0.067
+Nsfc Mainland China	1	0.067
+Nsfc Shandong Joint Found For Marine Science Research Center	1	0.067
+Nsfc Shandong Joint Fund For Marine Science Research Centers Grant	1	0.067
+Nsfc Special Program	1	0.067
+Nsoas	1	0.067
+Nuist Startup Grants	1	0.067
+Ocean Frontier Institute	1	0.067
+Ocean Frontier Institute Ofi	1	0.067
+Ocean Public Welfare Industry Research Special Of China	1	0.067
+Ocean Renewable Energy Special Fund Project Of State Oceanic Administration	1	0.067
+Ocean Renewable Energy Special Fund Project Of The State Oceanic Administration Of China	1	0.067
+Ocean Surface Topography Mission Ostm Projects	1	0.067
+Ocean Surveying Application Of Satellite From Ministry Of Natural Resources	1	0.067
+Office Of Energy Research And Development	1	0.067
+Office Of Energy Research And Development Oerd Programs	1	0.067
+Office Of Energy Research And Development Of Canada	1	0.067
+Office Of Environment And Heritage New South Wales	1	0.067
+Offshore Platform Construction Of Ocean Engineering Institute Of Tianjin University	1	0.067
+Ohio State University S Climate Water And Carbon Cwc Program	1	0.067
+Ohio Supercomputer Center	1	0.067
+Old Dominion University S Climate Change And Sea Level Rise Initiative	1	0.067
+One Belt And One Road Key Regional Geographic Information Resource Construction And Maintenance Update	1	0.067
+One Thousand Talents Program Of China	1	0.067
+Open Foundation Of Key Laboratory Of Marine Environmental Survey Technology And Application Ministry Of Natural Resource	1	0.067
+Open Foundation Of State Key Laboratory Of Remote Sensing Science	1	0.067
+Open Foundation Of Technology Innovation Center For Marine Information Ministry Of Natural Resources	1	0.067
+Open Foundation Of The Key Laboratory Of Data Analysis And Applications State Oceanic Administration	1	0.067
+Open Foundation Of The Key Laboratory Of Land Use Ministry Of Land And Resources China	1	0.067
+Open Fund From State Key Laboratory Of Remote Sensing Science Chinese Academy Of Sciences	1	0.067
+Open Fund In Kldg Igg	1	0.067
+Open Fund Of Key Laboratory Of Geospace Environment And Geodesy Ministry Of Education Wuhan University	1	0.067
+Open Fund Of Key Laboratory Of Marine Environmental Information Technology	1	0.067
+Open Fund Of Key Laboratory Of Marine Environmental Survey Technology And Application Ministry Of Natural Resource	1	0.067
+Open Fund Of Key Laboratory Of Resources Remote Sensing And Digital Agriculture Moa	1	0.067
+Open Fund Of Key Laboratory Of Space Utilization Chinese Academy Of Sciences	1	0.067
+Open Fund Of Key Laboratory Ofocean Circulation And Waves Institute Of Oceanology Chinese Academy Of Sciences	1	0.067
+Open Fund Of State Key Laboratory Of Geodesy And Earth S Dynamics	1	0.067
+Open Fund Of State Key Laboratory Of Satellite Ocean Environment Dynamics Second Institute Of Oceanography Mnr	1	0.067
+Open Fund Of The Jiangsu Key Laboratory Of Coast Ocean Resources Development And Environment Security	1	0.067
+Open Fund Of The Key Laboratory Of Geographic Information Science Ministry Of Education East China Normal University	1	0.067
+Open Fund Of The Key Laboratory Of Marine Geology And Environment Chinese Academy Of Sciences	1	0.067
+Open Fund Of The State Key Laboratory Of Satellite Ocean Environment Dynamics	1	0.067
+Open Fund Of The State Key Laboratory Of Satellite Ocean Environment Dynamics At The Second Institute Of Oceanography Soa	1	0.067
+Open Fund Project Of The State Key Laboratory Of Geographic Information Engineering	1	0.067
+Open Funding Of Jiangsu Key Laboratory Of Coast Ocean Resources Development And Environment Security Hohai University	1	0.067
+Open Funds Of State Key Laboratory Of Satellite Ocean Environment Dynamics	1	0.067
+Open Research Foundation Of The Key Laboratory Of Geospace Environment And Geodesy The Ministry Of Education Wuhan University	1	0.067
+Open Research Foundation Of The Key Laboratory Of Water Sediment Sciences And Water Disaster Prevention Of Hunan Province	1	0.067
+Open Research Foundation Of The Qian Xuesen Laboratory Of Space Technology Cast	1	0.067
+Open Research Foundation Of The State Key Laboratory Of Coastal And Offshore Engineering Dalian University Of Technology	1	0.067
+Open Research Fund Of Key Laboratory Of Atmospheric Composition And Optical Radiation Of Chinese Academy Of Sciences	1	0.067
+Open Research Fund Of Key Laboratory Of Tibetan Environmental Changes And Land Surface Processes Chinese Academy Of Sciences	1	0.067
+Open Research Fund Of Key Laboratory Of Tibetan Environmental Changes And Land Surface Processes In Cas	1	0.067
+Open Research Fund Of Qian Xuesen Laboratory Of Space Technology Cast	1	0.067
+Open Research Fund Of State Key Laboratory Of Information Engineering In Surveying Mapping And Remote Sensing Wuhan University	1	0.067
+Open Research Fund Of State Key Laboratory Of Simulation And Regulation Of Water Cycle In River Basin China Institute Of Water Resources And Hydropower Research	1	0.067
+Open Research Fund Of The Jiangsu Key Laboratory Of Coast Ocean Resources Development And Environment Security Hohai University	1	0.067
+Open Research Fund Of The State Key Laboratory Of Estuarine And Coastal Research	1	0.067
+Open Research Fund Of The State Key Laboratory Of Information Engineering In Surveying Mapping And Remote Sensing	1	0.067
+Open Research Fund Program Of Guangdong Key Laboratory Of Ocean Remote Sensing South China Sea Institute Of Oceanology Chinese Academy Of Sciences	1	0.067
+Open Research Fund Program Of State Key Laboratory Of Geodesy And Earth S Dynamics	1	0.067
+Open Research Program Of Key Laboratory Of Marine Environmental Survey Technology And Application Ministry Of Natural Resources	1	0.067
+Opening Fund Of Key Laboratory Of Poyang Lake Wetland And Watershed Research Jiangxi Normal University	1	0.067
+Opening Fund Of Key Laboratory Of Poyang Lake Wetland And Watershed Research Jiangxi Normal University Ministry Of Education	1	0.067
+Opening Fund Of Shandong Provincial Key Laboratory Of Ocean Engineering	1	0.067
+Opening Fund Of State Key Laboratory Of Lunar And Planetary Sciences Macau University Of Science And Technology Macau Fdct	1	0.067
+Opening Project Of Key Laboratory Of Marine Environmental Information Technology	1	0.067
+Opening Project Of Scientific Observing And Experimental Station Of Fishery Remote Sensing Of Ministry Of Agriculture Of China	1	0.067
+Opening Project Of Shanghai Key Laboratory Of Space Navigation Of Positioning Techniques	1	0.067
+Ostm Jason 2	1	0.067
+Osu S Climate Water And Carbon Program	1	0.067
+Outstanding Innovative Talent Programme Of Hohai University	1	0.067
+Outstanding Youth Fund Of The China Academy Of Space Technology	1	0.067
+Outstanding Youth Fundation Of The China Academy Of Space Technology	1	0.067
+Papd Priority Academic Program Development Of Jiangsu Provincial Universities	1	0.067
+Papd Program	1	0.067
+Papd Project	1	0.067
+Petrobras	1	0.067
+Physical Oceanography Program Of The U S Nsf	1	0.067
+Pilot National Laboratory For Marine Science And Technology Qingdao Foundation	1	0.067
+Pioneer Hundred Talents Program	1	0.067
+Polar Expedition Office Of The State Oceanic Administration Of China	1	0.067
+Polish National Center Of Science	1	0.067
+Postdoctoral Innovation Position In Hubei Province	1	0.067
+Postdoctoral Science Foundation Of Qingdao	1	0.067
+Powerchina International Limited	1	0.067
+Priority Academic Program Development Of Jiangsu Higher Education Institutions Of China	1	0.067
+Priority Academic Programme Development Of Jiangsu Higher Education Institutions	1	0.067
+Product And Application Of The Typical Scientific Factors Of The One Three Five Project Of Chinese Academy Of Sciences	1	0.067
+Program For Bingwei Excellent Talents In Institute Of Geographic Sciences And Natural Resources Research	1	0.067
+Program For Innovation Research And Entrepreneurship Teams In Jiangsu Province	1	0.067
+Program For National Key Technology Research And Development	1	0.067
+Program For National Nature Science Foundation	1	0.067
+Program For State Key Laboratory Of Cryospheric Sciences	1	0.067
+Program For The Specialized Research Fund For The Doctoral Program Of Higher Education Of China	1	0.067
+Program For The Youth Innovation Promotion Association Of The Chinese Academy Of Sciences	1	0.067
+Program For University Natural Sciences Research Project Of Anhui Educational Committee	1	0.067
+Program Of High Resolution Images Surveying And Mapping Application System Phase Ii	1	0.067
+Program Of International S T Cooperation Of China	1	0.067
+Program Of Shanghai Academic Research Leader	1	0.067
+Programme Of The Netherlands Earth System Science Centre Nessc	1	0.067
+Project Called Monitoring And Prediction Of Marine And Atmospheric Environment Changes In The East Asia Of The Research Institute Of Applied Mechanics Riam Kyushu University	1	0.067
+Project Development And Testing Of Target Detection Software Based On Gnss Radiation Source Of The Beihang Jinhua Beidou Application Research Institute	1	0.067
+Project For Creative Research From Guangdong Water Resources Department Grant 2019	1	0.067
+Project Myocean2	1	0.067
+Project Of Comprehensive Evaluation Of Polar Areas On Global And Regional Climate Changes	1	0.067
+Project Of Enhancing School With Innovation Of Guangdong Ocean University	1	0.067
+Project Of Esa Most Dragon 3 Cooperation Programme	1	0.067
+Project Of Innovation Driven Plan Of Central South University	1	0.067
+Project Of Major Special Research Projects Of The High Resolution Earth Observation System Civil Part	1	0.067
+Project Of Science And Technology Development Of Guangdong Academy Of Sciences	1	0.067
+Project Of Shandong Province Higher Educational Science And Technology Program	1	0.067
+Project Of Shandong Province Higher Educational Youth Innovation Science And Technology Program	1	0.067
+Project Of State Key Laboratory Of Satellite Ocean Environment Dynamics Sio	1	0.067
+Project Of State Key Laboratory Of Tropical Oceanography	1	0.067
+Project Of The National Basic Research Program Of China	1	0.067
+Project Of The State Key Laboratory Of Satellite Ocean Environment Dynamics	1	0.067
+Project Of The State Key Laboratory Of Satellite Ocean Environment Dynamics Sio	1	0.067
+Project Of Wuhan Science And Technology Bureau	1	0.067
+Projects Of Institute Of Marine Industry Technology Of Liaoning Universities	1	0.067
+Provincial Science And Technology Innovation Development Project Of China Meteorological Administration	1	0.067
+Public Benefic Scientific Research Project Of China	1	0.067
+Public Benefit Technique Research And Social Development Key Program Of The Science Technology Department Of Zhejiang Province China	1	0.067
+Public Ocean Science And Technology Research Funds	1	0.067
+Public Science And Technology Research Funds Of The Ocean	1	0.067
+Public Science And Technology Research Funds Projects Of Ocean Of China	1	0.067
+Public Science And Technology Research Funds Projects Of Ocean Of State Oceanic Administration People S Republic Of China	1	0.067
+Public Science And Technology Research Funds Projects Of Survey China	1	0.067
+Public Welfare Project Of Surveying And Mapping Industry	1	0.067
+Qian Xuesen Lab Dfh Sat	1	0.067
+Qian Xuesen Laboratory Dfh Satalite Company Ltd	1	0.067
+Qian Xuesen Laboratory Of Space Technology Cast	1	0.067
+Qianren Project	1	0.067
+Qingdao National Laboratory For Marine Science And Technology Of China	1	0.067
+Qingdao Pilot National Laboratory For Marine Science And Technology	1	0.067
+R I Team Support Program	1	0.067
+R I Team Support Program And Graduate Innovation Fund Of Sdust China	1	0.067
+R I Team Support Program And The Graduate Sci And Tech Innovation Foundation Of Sdust China	1	0.067
+R I Team Supporting Program And Graduate Sci Tech Innovation Fund Of Sdust China	1	0.067
+Radi Under The Wei Liu S Project	1	0.067
+Reef Of The State Bureau Of Surveying And Mapping	1	0.067
+Regents Faculty Fellowship	1	0.067
+Regional Government Of The Balearic Islands	1	0.067
+Research Computing Services Of The University Of Melbourne	1	0.067
+Research Grants Of Science And Technology Commission Of Shanghai Municipality	1	0.067
+Research Innovation Program For College Graduates Of Jiangsu Province	1	0.067
+Research Institute For Sustainable Urban Development Of Hong Kong Polytechnic University	1	0.067
+Research Institute Of Sustainable Urban Development Hong Kong Polytechnic University	1	0.067
+Research On Satellite Observation Systems And Application Schemes For The Fine And Fast Stereo Monitoring Of Land Space Project By The Innovative Youth Talents Program Mnr	1	0.067
+Research Program Of Guangzhou Water Authority	1	0.067
+Research Start Up Fund Of Nanjing University Of Information Science And Technology Nuist	1	0.067
+Rose Joseph Summers Endowment	1	0.067
+Russian Academy Of Sciences	1	0.067
+Safea International Partnership Program For Creative Research Teams	1	0.067
+Sanya And Cas Cooperation Project	1	0.067
+Satellite Surveying And Mapping Application Funds	1	0.067
+School Of Environmental Sciences University Of East Anglia	1	0.067
+Science And Technology Development Fund Macau Sar	1	0.067
+Science And Technology Development Fund Of Macau	1	0.067
+Science And Technology Innovation Action Plan Of Shanghai	1	0.067
+Science And Technology Program Of Qingdao	1	0.067
+Science And Technology Project Of National Administration Of Surveying Mapping And Geo Information Of China	1	0.067
+Science And Technology Project Of Zhoushan City China	1	0.067
+Science Astrophysics Nasa	1	0.067
+Science Fund For Creative Research Groups	1	0.067
+Science Technology And Innovation Commission Of Shenzhen Municipality	1	0.067
+Science Technology Basic Resources Investigation Program Of China Investigation On Snow Characteristics And Their Distribution In China	1	0.067
+Scientific And Technological Innovation Team Of Universities In Henan Province	1	0.067
+Scientific And Technological Projects Of Henan Province	1	0.067
+Scientific Committee On Oceanic Research Scor Working Group National Scor Committees	1	0.067
+Scientific Program Of Guangzhou University	1	0.067
+Scientific Research Foundation For Advanced Talents Of Nanyang Normal University	1	0.067
+Scientific Research Foundation Of Shandong University Of Science And Technology For Recruited Talents	1	0.067
+Scientific Research Foundation Of Third Institude Of Oceanography Ministry Of Nature Resources	1	0.067
+Scientific Research Foundation Of Third Institute Of Oceanography Mnr	1	0.067
+Scientific Research Fund For Young Teachers	1	0.067
+Scientific Research Fund Of The State Key Laboratory Of Satellite Ocean Environment Dynamics Sio	1	0.067
+Scientific Research General Program Of Beijing Municipal Commission Of Education	1	0.067
+Scientific Research Project Of Chinese Academy Of Sciences	1	0.067
+Scientific Research Project Of Liaoning Province Department Of Education	1	0.067
+Scientific Research Satellite Engineering Of Civil Space Infrastructure Project	1	0.067
+Sdust Graduates Innovation Fund	1	0.067
+Sdust Postgraduate Science And Technology Innovation Fund	1	0.067
+Second Institute Of Oceanography	1	0.067
+Second Institute Of Oceanography State Oceanic Administration	1	0.067
+Second Tibetan Plateau Scientific Expedition And Research Program	1	0.067
+Second Tibetan Plateau Scientific Expedition And Research Program Step	1	0.067
+Second Tibetan Plateau Scientific Expedtion And Research Program Step	1	0.067
+Secretaria De Energia Consejo Nacional De Ciencia Y Tecnologia Grant As Part Of The Consorcio De Investigacion Del Golfo De Mexico	1	0.067
+Seed Fund For Jinqiao Project Of The Beijing Association For Science And Technology	1	0.067
+Shaanxi Key Laboratory Of Land Consolidation Open Fund Program	1	0.067
+Shandong Natural Science Foundation Youth Fund Project Of China	1	0.067
+Shandong Provincial Key Laboratory Of Water And Soil Conservation And Environmental Protection	1	0.067
+Shandong Provincial Key Research And Development Program Major Scientific And Technological Innovation Project	1	0.067
+Shandong Provincial Key Research And Development Program Spkrdp	1	0.067
+Shandong Provincial Natural Science Foundation Project	1	0.067
+Shanghai Astronomical Observatory Chinese Academy Of Sciences	1	0.067
+Shanghai Education Development Foundation	1	0.067
+Shanghai Government	1	0.067
+Shanghai Leading Talent Project	1	0.067
+Shanghai Sailing Program	1	0.067
+Shanghai Shuguang Plan Project	1	0.067
+Shenzhen Government	1	0.067
+Shenzhen Government Fund	1	0.067
+Shenzhen Investment Holdings Company Limited	1	0.067
+Shenzhen Science And Technology Plan Project Of China	1	0.067
+Shuguang Program	1	0.067
+Shuguang Program Shanghai Education Development Foundation	1	0.067
+Sino Australian Research Consortium For Coastal Management Sarccm	1	0.067
+Sino German Center For Research Promotion Cdz Project	1	0.067
+Sino German Cooperation In Ocean And Polar Research Megacity S Fingerprint In Chinese Marginal Seas Pollutant Fingerprints And Dispersal Transformation Megapol	1	0.067
+Sino Norway Collaborative Stressor Project Natural Science Foundation Of China	1	0.067
+Sklged Foundation	1	0.067
+Slub Tu Dresden	1	0.067
+Soa Global Change Air Sea Interaction Project	1	0.067
+Soa Key Laboratory For Polar Science	1	0.067
+Soclis So269	1	0.067
+Soed Young Ocean Star Scholar	1	0.067
+Southern Marine Science And Engineering Guangdong Laboratory Guangzhou Fund	1	0.067
+Southern Ocean Carbon And Climate Observations And Modeling Project	1	0.067
+Southern Ocean Carbon And Climate Observations And Modeling Project Under National Science Foundation	1	0.067
+Southern Ocean Dynamics Environmental Satellite Remote Sensing Monitoring And Application Research Team Project	1	0.067
+Space Core Technology Development Program From The Korean Ministry Of Education Science And Technology Mest	1	0.067
+Space Core Technology Development Program Of The National Research Foundation Of Korea	1	0.067
+Special Basic Research Fund For Central Public Research Institutes	1	0.067
+Special Fund For Basic Scientific Research Of Central Colleges	1	0.067
+Special Fund For Forest Scientific Research In The Public Welfare	1	0.067
+Special Fund For High Resolution Image Surveying And Mapping Application System	1	0.067
+Special Fund For High Resolution Images Surveying And Mapping Application System Of China	1	0.067
+Special Fund For Meteorology Scientific Research In Public Welfare	1	0.067
+Special Fund For Meteorology Scientific Research In The Public Welfare Of China	1	0.067
+Special Fund For Strategic Pilot Technology Chinese Academy Of Sciences	1	0.067
+Special Fund For Surveying Mapping And Geoinformation Scientific Research In The Public Interest	1	0.067
+Special Fund For The Ecological Assessment Of Three Gorges Project	1	0.067
+Special Fund For The Fundamental Scientific Research	1	0.067
+Special Fund For The High Resolution Remote Sensing Surveying	1	0.067
+Special Fund Of China Seismic Earthquake Site	1	0.067
+Special Fund Of Chinese Central Government For Basic Scientific Research Operations In Commonweal Research Institutes	1	0.067
+Special Fund Of Taishan Scholars Project Of Shandong Province China	1	0.067
+Special Funded Project Of China Postdoctoral	1	0.067
+Special Funds For Marine Commonweal Research	1	0.067
+Special Funds Of State Oceanic Administration For Marine Commonweal Research	1	0.067
+Special Program Fund Of Shanghai Astronomical Observatory	1	0.067
+Special Project For Talent Team Construction By The Henan Academy Of Sciences	1	0.067
+Special Project Fund Of Taishan Scholars Of Shandong Province China	1	0.067
+Special Project Of Basic Sci And Tech Of China	1	0.067
+Special Project Of Basic Science And Technology Of China	1	0.067
+Special Project Of China Geological Survey	1	0.067
+Special Project Of Science And Technology Basic Work	1	0.067
+Special Project Of Science And Technology Basic Work Of Ministry Of Science And Technology Of China	1	0.067
+Special Project Of State Oceanic Administration Of Poles Environmental Investigation And Assessment	1	0.067
+Special Project Of The National Program On Global Change And Air Sea Interaction	1	0.067
+Special Scientific Research Fund Of Public Welfare Surveying And Mapping Profession Of China	1	0.067
+Special Scientific Research Funds For Central Non Profit Institutes East China Sea Fisheries Research Institute	1	0.067
+Specialized Research Fund For The Doctoral Program Of Higher Education Srfdp	1	0.067
+Specialized Scientific Research Project For Public Welfare Industries Meteorology	1	0.067
+Sri International	1	0.067
+Stanback Postdoctoral Fellowship At Caltech	1	0.067
+Startup Foundation For Doctors Of Jilin Jianzhu University	1	0.067
+Startup Foundation For Introducing Talent Of Nanjing University Of Information Science Technology	1	0.067
+State Administration For Science Technology And Industry For National Defense	1	0.067
+State Bureau Of Surveying And Mapping	1	0.067
+State Forestry Administration Project	1	0.067
+State High Tech Development Plan Of China	1	0.067
+State Key Laboratory Breeding Base Of Nuclear Resources And Environment East China Institute Of Technology	1	0.067
+State Key Laboratory Of Digital Earth Science Institute Of Remote Sensing And Digital Earth Chinese Academy Of Science	1	0.067
+State Key Laboratory Of Estuarine And Coastal Research East China Normal University	1	0.067
+State Key Laboratory Of Geodesy And Earth S Dynamics Igg Cas	1	0.067
+State Key Laboratory Of Geodesy And Earth S Dynamics Innovation Academy For Precision Measurement Science And Technology	1	0.067
+State Key Laboratory Of Geodesy And Earths Dynamics	1	0.067
+State Key Laboratory Of Geographic Information Engineering	1	0.067
+State Key Laboratory Of Geoinformation Engineering	1	0.067
+State Key Laboratory Of Lake Science And Environment Nanjing Institute Of Geography And Limnology Chinese Academy Of Sciences	1	0.067
+State Key Laboratory Of Precision Measuring Technology And Instruments Of Tianjin University Shandong Province Wen Hai Plan Project Of The Pilot National Laboratory For Marine Science And Technology Qingdao	1	0.067
+State Key Laboratory Of Satellite Ocean Environment Dynamic Open Foundation	1	0.067
+State Key Laboratory Of Satellite Ocean Environment Dynamics China	1	0.067
+State Key Laboratory Of Satellite Ocean Environment Dynamics Second Institute Of Oceanography Mnr	1	0.067
+State Key Laboratory Of Satellite Ocean Environment Dynamics Second Institute Of Oceanography State Oceanic Administration Of China	1	0.067
+State Key Laboratory Of Satellite Ocean Environment Dynamics Soed Second Institute Of Oceanography Sio	1	0.067
+State Key Laboratory Of Satellite Oceanic Environment And Dynamics Second Institute Of Oceanography Soa China	1	0.067
+State Laboratory Of Remote Sensing Science Young Scientists Foundation	1	0.067
+State Oceanic Administration China	1	0.067
+State Scholarship Fund From The Chinese Scholarship Council	1	0.067
+State Special Funds For Research Infrastructure Of China	1	0.067
+Stichting Nationale Computerfaciliteiten Ncf	1	0.067
+Strategic Pioneering Research Program Of Cas	1	0.067
+Strategic Priority Research Of The Chinese Academy Of Science	1	0.067
+Strategic Priority Research Program Of Cas	1	0.067
+Strategic Priority Research Program Of The Chinese Academy Sciences	1	0.067
+Strategic Priority Research Project	1	0.067
+Strategic Priority Science And Technology Program Of Chinese Academy Of Sciences	1	0.067
+Strategic Science And Technology Program Of Chinese Academy Of Sciences	1	0.067
+Strategic Science And Technology Program Of The Chinese Academy Of Sciences	1	0.067
+Study On Air Sea Interaction And Process Of Rapidly Intensifying Typhoon In The Northwestern Pacific Ministry Of Oceans And Fisheries Korea	1	0.067
+Summer Internship Program For College Student Of The State Ocean Administration Of China	1	0.067
+Supporting Project Of The Youth Marine Science Foundation Of East China Sea Branch Of State Oceanic Administration	1	0.067
+Surface Water And Ocean Topography Canada Swot C Program Canadian Space Agency	1	0.067
+Surveying And Mapping Basic Research Program Of National Administration Of Surveying Mapping And Geoinformation	1	0.067
+Surveying And Mapping Foundation Research Fund Program	1	0.067
+Surveying And Mapping Foundation Research Fund Program Of The State Bureau Of Surveying And Mapping	1	0.067
+Surveying Mapping And Geoinformation Of Jiangsu Province	1	0.067
+Swedish Research Council	1	0.067
+Taishan Scholar Program	1	0.067
+Taiwan Ministry Of Science And Technology Grant	1	0.067
+Taiwan S Foundation For The Advancement Of Outstanding Scholarship	1	0.067
+Technical University Of Munich Tum	1	0.067
+Technologiestichting Stw	1	0.067
+Technology Program Of The Ministry Of Economic Affairs	1	0.067
+Ten Thousand Talent Program	1	0.067
+Terrestrial Ecosystem Research Network	1	0.067
+Tertiary Trust Fund Tetfund Nigeria	1	0.067
+The British Council In India	1	0.067
+Tokyo University Of Marine Science And Technology	1	0.067
+Training Project For Young Teachers In Shanghai Colleges And Universities	1	0.067
+Turbulence Superstructures Priority Program Of The German National Science Foundation Dfg	1	0.067
+Turkiye Bilimsel Ve Teknolojik Arastirma Kurumu Tubitak	1	0.067
+U S Air Force	1	0.067
+U S Geological Survey Cooperative Water And Groundwater Resources Programs	1	0.067
+U S Nsf Antarctic Program	1	0.067
+Ucas Joint Phd Training Program	1	0.067
+Uh New Faculty Program	1	0.067
+Uh S New Faculty Award	1	0.067
+Uit	1	0.067
+Unesco Ioc Westpac Project Response Of Marine Hazards To Climate Change In The Western Pacific	1	0.067
+United States Department Of Energy Doe	1	0.067
+United States Geological Survey	1	0.067
+United States National Oceanic And Atmospheric Administration National Environmental Satellite Data And Information Service	1	0.067
+United States Of America National Oceanic	1	0.067
+United States Of America National Science Foundation	1	0.067
+University Natural Sciences Research Project Of The Anhui Educational Committee	1	0.067
+University Of Cincinnati Graduate School Dean S Fellowship	1	0.067
+University Of Houston	1	0.067
+University Of North Texas Unt	1	0.067
+University Of North Texas Unt Research Opportunity Program Rop Grant	1	0.067
+University Of Siegen	1	0.067
+University Of The Chinese Academy Of Sciences Beijing China	1	0.067
+University Of Wisconsin Madison	1	0.067
+Us State Department	1	0.067
+Vilas Associate Award	1	0.067
+Weact Project	1	0.067
+Weather And Climate Science For Service Partnership For Southeast Asia As Part Of The Newton Fund	1	0.067
+Wenhai Program	1	0.067
+Western Pacific Ocean System Structure Dynamics And Consequences Project Of The Chinese Academy Of Sciences Wpos	1	0.067
+Whoi	1	0.067
+Whoi Academics Office	1	0.067
+Whoi S Coastal Ocean Institute	1	0.067
+Woods Hole Oceanographic Institution	1	0.067
+Wuhan Science And Technology Bureau	1	0.067
+Yangtze River Scholar Bonus Schemes	1	0.067
+Young Foundation Of Beijing Academy Of Agriculture And Forestry Sciences	1	0.067
+Young Talents Of State Key Laboratory Of Remote Sensing Science	1	0.067
+Young Teachers Scientific Research Fund	1	0.067
+Young Top Notch Talents Team Program Of Beijing Excellent Talents Funding	1	0.067
+Youth Innovation Promotion Association	1	0.067
+Youth Innovation Promotion Association Chinese Academy Of Sciences	1	0.067
+Youth Innovation Promotion Association Of The Chinese Academy Of Sciences	1	0.067
+Youth Marine Science Fund	1	0.067
+Youth Science And Technology Star Project Of Dalian	1	0.067
+Yunnan Province Talent Training Program	1	0.067
+Zhejiang Sea Grant	1	0.067
+376 record(s) (25.184%) do not contain data in the field being analyzed

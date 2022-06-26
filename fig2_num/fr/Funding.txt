@@ -1,0 +1,1212 @@
+Funding Agencies	Record Count	% of 1,386
+Centre National D Etudes Spatiales	195	14.069
+European Commission	118	8.514
+French National Research Agency Anr	104	7.504
+National Aeronautics Space Administration Nasa	89	6.421
+Uk Research Innovation Ukri	73	5.267
+Natural Environment Research Council Nerc	70	5.051
+Centre National De La Recherche Scientifique Cnrs	55	3.968
+National Science Foundation Nsf	50	3.608
+European Space Agency	43	3.102
+Spanish Government	26	1.876
+Office Of Naval Research	22	1.587
+Conselho Nacional De Desenvolvimento Cientifico E Tecnologico Cnpq	18	1.299
+National Oceanic Atmospheric Admin Noaa Usa	16	1.154
+Nsf Directorate For Geosciences Geo	16	1.154
+Coordenacao De Aperfeicoamento De Pessoal De Nivel Superior Capes	14	1.010
+Ifremer	14	1.010
+Ministry Of Research France	14	1.010
+Australian Research Council	12	0.866
+European Commission Joint Research Centre	12	0.866
+Ird	12	0.866
+National Natural Science Foundation Of China Nsfc	12	0.866
+European Research Council Erc	11	0.794
+Cnes Tosca	10	0.722
+German Research Foundation Dfg	9	0.649
+Russian Foundation For Basic Research Rfbr	9	0.649
+Labexmer	8	0.577
+Comision Nacional De Investigacion Cientifica Y Tecnologica Conicyt	7	0.505
+Conicyt Fondecyt	7	0.505
+Japan Society For The Promotion Of Science	7	0.505
+Ministry Of Education Culture Sports Science And Technology Japan Mext	7	0.505
+Russian Science Foundation Rsf	7	0.505
+Chinese Academy Of Sciences	6	0.433
+Grants In Aid For Scientific Research Kakenhi	6	0.433
+Region Occitanie	6	0.433
+Region Provence Alpes Cote D Azur	6	0.433
+United States Department Of Energy Doe	6	0.433
+Australian Government	5	0.361
+China Scholarship Council	5	0.361
+Council Of Scientific Industrial Research Csir India	5	0.361
+Institut De Recherche Pour Le Developpement Ird	5	0.361
+National Key R D Program Of China	5	0.361
+Natural Sciences And Engineering Research Council Of Canada Nserc	5	0.361
+Sorbonne Universite	5	0.361
+Austrian Science Fund Fwf	4	0.289
+Cls	4	0.289
+Department Of Industry Innovation And Science	4	0.289
+Direction Generale De L Armement	4	0.289
+European Social Fund Esf	4	0.289
+European Union S Horizon 2020 Research And Innovation Programme	4	0.289
+Federal Ministry Of Education Research Bmbf	4	0.289
+Ird Institut De Recherche Pour Le Developpement	4	0.289
+Mercator Ocean	4	0.289
+Nasa Swot Mission	4	0.289
+National Oceanography Centre Southampton	4	0.289
+Region Bretagne	4	0.289
+Swot Science Team	4	0.289
+Cgiar	3	0.216
+Cnes Cls	3	0.216
+Cnes S Swot Mission	3	0.216
+Cnes Through The Ost St	3	0.216
+Commonwealth Scientific Industrial Research Organisation Csiro	3	0.216
+Consejo Nacional De Investigaciones Cientificas Y Tecnicas Conicet	3	0.216
+Cooperative Research Centres Crc Programme	3	0.216
+Copernicus Marine Environment Monitoring Service Cmems Medsub Project	3	0.216
+Eu Fp7 Project Swarp	3	0.216
+Federal Ministry For Economic Affairs And Energy Bmwi	3	0.216
+Financiadora De Inovacao E Pesquisa Finep	3	0.216
+Genci Idris	3	0.216
+Ipgp	3	0.216
+Labex Cominlabs Grant Seacs	3	0.216
+Laboratoire D Excellence Labexmer	3	0.216
+Ministry Of Education And Science Russian Federation	3	0.216
+Ministry Of Education Universities And Research Miur	3	0.216
+Ministry Of Research And Technology Of The Republic Of Indonesia Ristek	3	0.216
+National Key Research And Development Program Of China	3	0.216
+Nio	3	0.216
+Nrf	3	0.216
+Ohio State University	3	0.216
+Ostst Project Manatee	3	0.216
+Research Council Of Norway	3	0.216
+Russian Academy Of Sciences	3	0.216
+Shom	3	0.216
+South African National Antarctic Programme Sanap	3	0.216
+Technical University Of Crete	3	0.216
+Tosca Board	3	0.216
+Tosca Program Of The French Space Agency Cnes	3	0.216
+Total Sa	3	0.216
+Universitat De Les Illes Balears	3	0.216
+Universite Pierre Et Marie Curie	3	0.216
+Access	2	0.144
+Agenzia Spaziale Italiana Asi	2	0.144
+Australian Climate Change Science Program	2	0.144
+Caltech Jpl Postdoctoral Fellowship	2	0.144
+Canon Foundation	2	0.144
+Cicese	2	0.144
+Cnes Centre National D Etudes Spatiales France Through The Tosca Committee Fellowship	2	0.144
+Cnes Grant Ostst Manatee	2	0.144
+Cnes Ostst	2	0.144
+Cnes Ostst Osiw Grant	2	0.144
+Cnes Salp Project	2	0.144
+Cnes Through The Ocean Surface Topography Science Team Ostst	2	0.144
+Cnes Through The Tosca Program	2	0.144
+Cnrs Insu Institut Des Sciences De L Univers Through The Lefe Idao Program	2	0.144
+Consejo Nacional De Ciencia Y Tecnologia Conacyt	2	0.144
+Conselleria D Educacio Cultura I Universitat Local Government Of The Balearic Islands	2	0.144
+Cprm	2	0.144
+Department For Environment Food Rural Affairs Defra	2	0.144
+Department Of Environment Regional Planning Agriculture And Fisheries Of The Basque Government	2	0.144
+Department Of Environment Regional Planning Agriculture And Fisheries Of The Basque Government Marco Program	2	0.144
+Department Of Science Technology India	2	0.144
+Dga	2	0.144
+Eads Astrium	2	0.144
+Engineering Physical Sciences Research Council Epsrc	2	0.144
+Esa Globcurrent Project	2	0.144
+Estonian Research Council	2	0.144
+Eu H2020 Triatlas Project	2	0.144
+Eumetsat	2	0.144
+European Regional Development Fund Aei Feder Ue	2	0.144
+European Space Agency Project Smos Sea Ice	2	0.144
+French Cnes Tosca Sickays	2	0.144
+French National Programme Ec2co Biohefect Regime D Alteration Erosion En Afrique Centrale Ralterac	2	0.144
+French Space Agency Cnes Centre National D Etudes Spatiales	2	0.144
+Genci	2	0.144
+Helmholtz Association	2	0.144
+Ign	2	0.144
+Iniciativa Cientifica Milenio Icm Chile	2	0.144
+Inidep	2	0.144
+Institut Universitaire De France	2	0.144
+Insu Institut National Des Sciences De L Univers	2	0.144
+Intas	2	0.144
+International Space Science Institute Bern Switzerland	2	0.144
+Ipev	2	0.144
+Iran National Science Foundation Insf	2	0.144
+Ird France	2	0.144
+Irstea	2	0.144
+Isis Program Of The French Space Agency Cnes	2	0.144
+Jae Csic	2	0.144
+Jamstec	2	0.144
+Joint Cnes Region Bretagne Doctoral Grant	2	0.144
+Joint Uk Beis Defra Met Office Hadley Centre Climate Programme	2	0.144
+Korea Meteorological Administration Research And Development Program	2	0.144
+Labex Cominlabs	2	0.144
+Labex Cominlabs Project Seacs	2	0.144
+Laboratoire Mixte International Lmi Dynamique Des Ecosystemes Continentaux D Afrique Centrale En Contexte De Changements Globaux Dycofac	2	0.144
+Lefe Ec2co Program	2	0.144
+Legos	2	0.144
+Lops	2	0.144
+Magellium	2	0.144
+Met Office Hadley Centre Climate Programme Beis	2	0.144
+Meteo France	2	0.144
+Mincyt	2	0.144
+Mincyt Ecos Sud	2	0.144
+Ministry Of Earth Science Moes Government Of India	2	0.144
+Myocean Project	2	0.144
+Myocean2 Eu Fp7 Project	2	0.144
+Nansen Tutu For Marine Environmental Research	2	0.144
+Nasa Cnes Swot Mission	2	0.144
+Nasa Measures Program	2	0.144
+Nasa Npp Senior Fellowship	2	0.144
+Nasa Ostst Mission	2	0.144
+Nasa Physical Oceanography Po Program	2	0.144
+Nasa S News	2	0.144
+Nasa Servir Program	2	0.144
+National Basic Research Program Of China	2	0.144
+National Council For Scientific Research Of Lebanon Cnrs L	2	0.144
+National Council Of Science And Technology Of Mexico Secretariat Of Energy Hydrocarbons Trust	2	0.144
+National Research Foundation South Africa	2	0.144
+Noaa Climate Data Record Cdr Program For Satellites	2	0.144
+Normandy Region	2	0.144
+Noveltis	2	0.144
+Office Of Biological And Environmental Research Ber	2	0.144
+Ohio Sea Grant Program	2	0.144
+Portuguese Foundation For Science And Technology	2	0.144
+Prace Research Infrastructure	2	0.144
+Pre Swot Project Spanish National Research Program	2	0.144
+Prefectura Naval Argentina	2	0.144
+Programme National De Teledetection Spatiale	2	0.144
+Research Project Climpact Spanish Ministry Of Economy	2	0.144
+Reseau Thematique De Recherche Avancee Sciences Et Technologies Pour L Aeronautique Et L Espace Rtra Stae Toulouse France	2	0.144
+Royal Society Of London	2	0.144
+Rtra Stae Foundation	2	0.144
+Scripps High Resolution Xbt Program	2	0.144
+Shn	2	0.144
+Sorbonne Universite Locean	2	0.144
+Spanish Marine Science And Technology Program	2	0.144
+Spanish Ministry Of Science Innovation And Universities	2	0.144
+Swiss National Science Foundation Snsf	2	0.144
+Swot Mission	2	0.144
+Teralab Grant Tiamsea	2	0.144
+Thales Group	2	0.144
+The David Lucile Packard Foundation	2	0.144
+Toeddies Cnes Tosca Research Grant	2	0.144
+Tosca	2	0.144
+United States Department Of Defense	2	0.144
+University Of Buenos Aires	2	0.144
+University Of Michigan Faculty Startup Funds	2	0.144
+University Of The Balearic Islands	2	0.144
+Us National Ocean Partnership Program	2	0.144
+Vietnamese Government	2	0.144
+63E Session Commission Permanente De Cooperation Franco Quebecoise Biennum	1	0.072
+9Th European Development Fund Through The French Polynesia Service De La Perliculture	1	0.072
+A4 Project Irish Marine Institute Under The Marine Research Programme Irish Government	1	0.072
+Academic Fund Program At The National Research University Higher School Of Economics Hse In 2019 2020	1	0.072
+Academy Of Finland	1	0.072
+Accolade Lefe Insu Project	1	0.072
+Ace Lab	1	0.072
+Action De Recherche Concertee Taking Up The Challenges Of Multi Scale Marine Modelling Communaute Franaise De Belgique	1	0.072
+Aei Feder Ue	1	0.072
+Afora Project Within The Cnes Tosca Fund	1	0.072
+African Centre For Earth System Science	1	0.072
+African Coelacanth Ecosystem Project Acep	1	0.072
+African Monsoon Multidisciplinary Analysis Amma Project	1	0.072
+Agence De L Innovation De Defense Dga Aid	1	0.072
+Agence Universitaire De La Francophonie	1	0.072
+Agency Innovation And Defense	1	0.072
+Agesotrophic Vorticity Dynamics Of The Ocean	1	0.072
+Ai Chair Oceanix	1	0.072
+Aird	1	0.072
+Al Tilev Program	1	0.072
+Alfred Wegener Institute	1	0.072
+Allocations De Recherche Pour Une These Au Sud Arts Program Of The Institut De Recherche Pour Le Developpement Ird	1	0.072
+Alti Etao Project	1	0.072
+Altietao Project French National Center For Space Studies Cnes Through The Ocean Surface Topography Science Team Ostst	1	0.072
+Altilev Program	1	0.072
+Amazalert Project Eufp7 Project	1	0.072
+American Recovery And Reinvestment Act	1	0.072
+Amico Copernicus Medde French Ministery Mde	1	0.072
+Amsr E Science Team	1	0.072
+Ana	1	0.072
+Ana Projeto De Integracao E Cooperacao Amazonica Para A Modernizacao Do Monitoramento Hidrologico Ica Mmh	1	0.072
+Anpcyt	1	0.072
+Applied Physics Laboratory Science And Engineering Enrichment Development Seed Fellowship	1	0.072
+Aro	1	0.072
+Asclme	1	0.072
+Auscope Under The Australian Geophysical Observing System Agos	1	0.072
+Australian Antarctic Division	1	0.072
+Australian Antarctic Science Program	1	0.072
+Australian Antarctic Science Projects	1	0.072
+Australian Asac	1	0.072
+Belmont Forum G8 S Coastal Vulnerability Program Via Australian Research Council	1	0.072
+Belmont Forum Project Band Aid	1	0.072
+Bgi	1	0.072
+Bioswot Tosca Cnes	1	0.072
+Bjerknes Center Fast Track Initiative	1	0.072
+Bnp Paribas Foundation	1	0.072
+Bonus Goodhope Campaign	1	0.072
+Brazilian Scientific Committee Capes	1	0.072
+Brest Metropole	1	0.072
+C3s Service European Union	1	0.072
+California Department Of Parks And Recreation	1	0.072
+California Institute Of Technology	1	0.072
+Calmip France	1	0.072
+Canada 150 Chair Program	1	0.072
+Canada First Research Excellence Fund	1	0.072
+Canadian Mitacs Globalink Program	1	0.072
+Canadian Space Agency	1	0.072
+Carbon Mitigation Initiative Cmi Through The Support Of Bp Amaco And Ford	1	0.072
+Carnegie Foundation Of New York Through The Regional Initiative For Science Education Program	1	0.072
+Carnegie Ias Regional Initiative In Science And Education Through The Western Indian Ocean Regional Initiative In Marine Science And Education Network	1	0.072
+Cas Scholarship Council	1	0.072
+Cassini Project	1	0.072
+Catalan Agency Of Research Agaur	1	0.072
+Center For Climate Dynamics Chex Project	1	0.072
+Center For Topographic Studies Of The Ocean And Hydrosphere Institut National Des Sciences De L Univers	1	0.072
+Center National D Etudes Spatiales Cnes As Part As The Skim Phase	1	0.072
+Center National D Etudes Spatiales Cnes Through The Tosca Program	1	0.072
+Center Of Research And Innovation Cori Universiti Kuala Lumpur	1	0.072
+Central England Nerc Training Alliance	1	0.072
+Centre Europeen De Technologies Sous Marine Cetsm Contrat De Projet Etat Regionregion 2007 2013 En Paca	1	0.072
+Centre For Earth Observation Science University Of Manitoba	1	0.072
+Centre For Southern Hemisphere Oceans Research A Joint Research Centre Between Qnlm And Csiro	1	0.072
+Centre For Southern Hemisphere Oceans Research Qnlm	1	0.072
+Centre National D Etude Spatiale Cnes France	1	0.072
+Centre National D Etude Spatiale Cnes Through The Swot Science Team Project Swot For South America	1	0.072
+Centre National D Etude Spatiales Cnes Toulouse France	1	0.072
+Centre National D Etudes Spatiales Cnes National Centre For Space Studies	1	0.072
+Centre National D Etudes Spatiales Cnes Through Centre De Topographie Des Oceans Et De L Hydrosphere Ctoh Grant	1	0.072
+Centre National D Etudes Spatiales Cnes Through Ocean Surface Topography Science Team Ost St Project Manatee	1	0.072
+Centre National D Etudes Spatiales Cnes Through The Isis Programme	1	0.072
+Centre National D Etudes Spatiales Cnes Through The Programme National De Planetologie	1	0.072
+Centre National D Etudes Spatiales Cnes Through The Programme National De Teledetection Spatiale	1	0.072
+Centre National D Etudes Spatiales Cnes Through The Project Terre Solide Ocean Surfaces Continentales Et Atmosphere Tosca	1	0.072
+Centre National D Etudes Spatiales Cnes Through The Tosca Program	1	0.072
+Centre National D Etudes Spatiales Cnes Through The Tosca Programme	1	0.072
+Centre National D Etudes Spatiales Cnes Through Tosca	1	0.072
+Centre National D Etudes Spatiales Cnes Through Tosca Project	1	0.072
+Centre National D Etudes Spatiales Cnes Tosca	1	0.072
+Centre National D Etudes Spatiales Cnes Toulouse France	1	0.072
+Centre National D Etudes Spatiales Through Its Terre Solide Ocean Surface Continentale Atmosphere Program	1	0.072
+Centre National D Etudes Spatiales Through Ostst Project Foam	1	0.072
+Centre National D Etudes Spatiales Through Tosca Project Ctoh	1	0.072
+Centre National D Etudes Spatiales Tosca	1	0.072
+Centre National D Etudes Spatiales Tosca Program	1	0.072
+Centre National De L Etude Spatiale Cnes	1	0.072
+Centre National De La Recherche Scientifique Cnrs Insu Lefe	1	0.072
+Centre National De La Recherche Scientifique Cnrs Through Mistral Project	1	0.072
+Centre National Detude Spatiale Cnes Through The Swot Science Team Project Swot For South America	1	0.072
+Centre National Detude Spatiale Cnes Through The Swot Science Team Project Swot Wetlands Hydrological Monitoring Swhym	1	0.072
+Centres National Des Etudes Spatiales And Collecte Localisation Satellite	1	0.072
+Cgl2014 54246 C2 1 R	1	0.072
+Chilean Millenium Initiative	1	0.072
+Chrome Excellence Initiative Of Aix Marseille University A Midex A French Investissements D Avenir Program	1	0.072
+Circle Med Programme	1	0.072
+Cisl	1	0.072
+Class Programme Nerc	1	0.072
+Climpact Spanish Ministry Of Economy	1	0.072
+Clivar Project Office	1	0.072
+Cmcc Tessa Project	1	0.072
+Cmems	1	0.072
+Cmems Service European Union	1	0.072
+Cnap	1	0.072
+Cnes As Part Of The Comsom Glider Campaign	1	0.072
+Cnes As Part Of The Fp7 Space E Aims Project	1	0.072
+Cnes As Part Of The Swot Preparation Program Labex Mer	1	0.072
+Cnes As Part Of The Tosca Program	1	0.072
+Cnes Bc T23	1	0.072
+Cnes Centre National D Etudes Spatiales Through The Ost St Altimetric Program	1	0.072
+Cnes Centre National De Recherche Spatiale Institution	1	0.072
+Cnes Cls Ph D Fund	1	0.072
+Cnes Cls Phd Grant	1	0.072
+Cnes Eumetsat	1	0.072
+Cnes Eumetsat Tosca Grant Ctoh	1	0.072
+Cnes Eumetsat Tosca Grant Foam	1	0.072
+Cnes French National Space Agency Project	1	0.072
+Cnes French Space Agency Postdoctoral Grant	1	0.072
+Cnes French Space Agency Through A Tosca Funding	1	0.072
+Cnes French Space Agency Through Ostst Project Manatee	1	0.072
+Cnes French Space Agency Through Swot St Project Diego	1	0.072
+Cnes Grant Swot Diego	1	0.072
+Cnes In The Framework Of The Tosca Project Hydrologie Oceanographie Par Reflectometrie Gnss Horg	1	0.072
+Cnes Insu	1	0.072
+Cnes Joint Ocean Surface Topography Science Team Ost St Project	1	0.072
+Cnes Mercator Ocean Collaboration	1	0.072
+Cnes Nasa Ocean Surface Topography Science Team Ost St	1	0.072
+Cnes Nasa Ostst	1	0.072
+Cnes Of The Saral	1	0.072
+Cnes Ost St	1	0.072
+Cnes Ostst Osiw	1	0.072
+Cnes Ostst Program	1	0.072
+Cnes Postdoc Program	1	0.072
+Cnes Region Bretagne Doctoral Grant	1	0.072
+Cnes Region Midi Pyrenees Phd Grant	1	0.072
+Cnes Salp	1	0.072
+Cnes Space Agency Through The Tosca Committee	1	0.072
+Cnes Swot	1	0.072
+Cnes Swot Mission	1	0.072
+Cnes Swot Project	1	0.072
+Cnes Swot Science Definition Team	1	0.072
+Cnes Swot Science Team Project	1	0.072
+Cnes Terre Ocean Surfaces Continentales Athmosphere Tosca Committee	1	0.072
+Cnes Terre Ocean Surfaces Continentales Atmosphere Tosca Committee	1	0.072
+Cnes Through Isis	1	0.072
+Cnes Through Its Tosca Ostst Program	1	0.072
+Cnes Through Scientific Tosca Ostst Program	1	0.072
+Cnes Through Swot Science Team	1	0.072
+Cnes Through The Biocosm Project	1	0.072
+Cnes Through The Rd Study	1	0.072
+Cnes Through The Terre Ocean Surfaces Continentales Atmosphere Tosca	1	0.072
+Cnes Through The Tosca	1	0.072
+Cnes Through The Tosca Bioswot Adac Project	1	0.072
+Cnes Through The Vasco	1	0.072
+Cnes Through Tosca	1	0.072
+Cnes Through Tosca Committee	1	0.072
+Cnes Topex Poseidon	1	0.072
+Cnes Tosca Ctoh Grant	1	0.072
+Cnes Tosca Ctoh Project France	1	0.072
+Cnes Tosca Grant	1	0.072
+Cnes Tosca Grant Ctoh	1	0.072
+Cnes Tosca Grant Hydroweb	1	0.072
+Cnes Tosca Grant Surcharges Et Propagation	1	0.072
+Cnes Tosca Lakeice Project	1	0.072
+Cnes Tosca Permasensing Project	1	0.072
+Cnes Tosca Program Elephants De Mer Oceanographes And Altimeco	1	0.072
+Cnes Tosca Programs	1	0.072
+Cnes Tosca Project	1	0.072
+Cnes Tosca Project Foam	1	0.072
+Cnes Tosca Research Grant	1	0.072
+Cnes Tosca Research Project	1	0.072
+Cnes Tosca Swot High Resolution Hydrology Project	1	0.072
+Cnes Under The Project Tosca Sole	1	0.072
+Cnes Under The Swot Preparation Program	1	0.072
+Cnestosca	1	0.072
+Cnpq Ird	1	0.072
+Cnrs For French Guiana	1	0.072
+Cnrs Insu Institut Des Sciences De L Univers Through The Lefe Program	1	0.072
+Cnrs Psl Eco Evo Devo Program Pepiniere Interdisciplinaire	1	0.072
+Cnrs Russia Gdri Car Wet Sib	1	0.072
+Cnrs Russia Irn Tts Project	1	0.072
+Cnrs Russia Pics Balalaica	1	0.072
+Coastal Altimetry Community	1	0.072
+Collaborative Research Center	1	0.072
+Collecte Localisation Satellite Cls	1	0.072
+Collecte Localisation Satellites Cls	1	0.072
+Combat Project Service Evolution Of Cmems	1	0.072
+Commissariat A L Energie Atomique Et Aux Energies Alternatives Cea French Alternative Energies And Atomic Energy Commission	1	0.072
+Comunidad De Madrid	1	0.072
+Conicet Ypf	1	0.072
+Consejo Interinstitucional De Ciencia Y Tecnologia Cicyt	1	0.072
+Consejo Superior De Investigaciones Cientificas Csic	1	0.072
+Conselleria D Educacio Cultura I Universitats Del Govern De Les Illes Balears Mallorca Spain	1	0.072
+Consiglio Nazionale Delle Ricerche Cnr Via The Progetto Bandiera Ritmare	1	0.072
+Consolider I Math	1	0.072
+Contract Tessa	1	0.072
+Convention On Migratory Species	1	0.072
+Convocatoria Programa Estatal De I D I Orientada A Los Retos De La Sociedad Del Ano 2016	1	0.072
+Cooperative Institute For Climate Science Princeton University From National Oceanic And Atmospheric Administration U S Department Of Commerce	1	0.072
+Cooperative Institute For Marine And Atmospheric Studies Cimas	1	0.072
+Cooperative Institute Of The University Of Miami	1	0.072
+Copernicus Climate Change Service C3s	1	0.072
+Copernicus Marine Environment Monitoring Service	1	0.072
+Copernicus Marine Environment Monitoring Service Cmems	1	0.072
+Copernicus Marine Environment Monitoring Service Cmems Multi Observation Thematic Assembly Centre Cmems Tac Mob	1	0.072
+Copernicus Marine Environment Monitoring Service Cmems Sea Level Thematic Assembly Centre Sl Tac	1	0.072
+Copernicus Marine Environment Monitoring Service Cmems Through The Sea Level Thematic Assembly Center Sltac	1	0.072
+Copernicus Marine Environment Monitoring Service Through The Sea Level Thematic Assembly Center	1	0.072
+Copernicus Marine Service	1	0.072
+Core Research For Evolutional Science And Technology Crest	1	0.072
+Cost Action Ego Everyone S Gliding Observatories	1	0.072
+Cotutelle	1	0.072
+Cryo Seanice Esa Project	1	0.072
+Cryosat Plus For Ocean Cp4o Esa Stse Support To Science Element Project	1	0.072
+Cryospheric Commission Of The Swiss Academy Of Science	1	0.072
+Cs	1	0.072
+Cshor A Joint Research Centre For Southern Hemisphere Oceans Research Between Qnlm And Csiro	1	0.072
+Csic	1	0.072
+Csir Ecosystem Earth Observation Group	1	0.072
+Csir Ecosystem Earth Observation Unit Pg Ecoeo	1	0.072
+Csir Nre Srp Project	1	0.072
+Csiro Office Of The Chief Executive Fellowship	1	0.072
+Csiro Office Of The Chief Executive Postdoctoral Fellowship	1	0.072
+Csiro Wealth From Oceans Flagship Scholarship	1	0.072
+Ctoh	1	0.072
+Ctoh Insu	1	0.072
+Ctoh Legos France	1	0.072
+Cultural Action And Cooperation Service Scac Of The French Embassy In Benin	1	0.072
+Curtin International Postgraduate Research Scholarships Ciprs Ord Scholarship By Curtin University Australia	1	0.072
+Czech Grant Agency Project	1	0.072
+Danish Agency For Science Technology And Innovation	1	0.072
+Delegation Generale De L Armement	1	0.072
+Delegation Generale Pour L Armement Mira	1	0.072
+Delegation Interministerielle Pour Le Tsunami By The French Ministry Of Foreign Affairs	1	0.072
+Department Of Environment Affairs South Africa	1	0.072
+Department Of Geosciences University Of Oslo	1	0.072
+Department Of Navy Via Applied Research Laboratory At University Of Hawaii	1	0.072
+Department Of Science Technology Dost Philippines	1	0.072
+Department Of Space Dos Government Of India	1	0.072
+Dga Aid	1	0.072
+Dga Under The Synbios Project	1	0.072
+Direction Generale De L Armement Dga	1	0.072
+Direction Generale De L Armement Dga General Directorate For Armament	1	0.072
+Direction Generale De L Armement Dga In The Context Of The Adetoc Project	1	0.072
+Direction Generale Des Armees Dga France	1	0.072
+Disbef	1	0.072
+Disi Australia China Centre	1	0.072
+Dispea Dipartimento Di Scienze Pure E Applicate Of The Urbino 65 University Grant	1	0.072
+Dispea Research Grant	1	0.072
+Dragon 3 Project	1	0.072
+Dst Fast Track Fellowship	1	0.072
+Dt Insu	1	0.072
+Dtinsu	1	0.072
+Eaiist Project	1	0.072
+Earth Simulator Center Yokohama Institute For Earth Sciences Jamstec Japan	1	0.072
+Earth System Science Organization Ministry Of Earth Sciences Government Of India	1	0.072
+Earth Systems Doctoral School Fct Project University Of Lisbon	1	0.072
+Ec Mast Iii Diadem	1	0.072
+Ec2co Insu Cnrs	1	0.072
+Eclisea European Advances On Climate Services For Coasts And Seas Project	1	0.072
+Ecole Centrale Nantes	1	0.072
+Ecole Polytechnique Institut Polytechnique De Paris	1	0.072
+Ecoop	1	0.072
+Ecos Nord Grant	1	0.072
+Ecos Sud	1	0.072
+Envi Med Program	1	0.072
+Environment And Climate Eu Agora	1	0.072
+Environmental Research Observatory Ore Hybam	1	0.072
+Environmental Studies Research Fund Esrf	1	0.072
+Eodyn	1	0.072
+Eqc	1	0.072
+Era Net Rus Plus St Project	1	0.072
+Era4cs European Research Area For Climate Services	1	0.072
+Esa As Part Of The Seastate Cci Project Of The Climate Change Initiative Cci	1	0.072
+Esa Cci C Lakes Project	1	0.072
+Esa Cci Lakes C Cci C Phase 1 New Ecvs Lakes	1	0.072
+Esa Cci Sea Level Budget Closure Project	1	0.072
+Esa Climate Change Initiative For Sea State Project	1	0.072
+Esa Climate Change Initiative Grant	1	0.072
+Esa Climate Change Initiative Program	1	0.072
+Esa Climate Change Initiative Sea Level Budget Closure	1	0.072
+Esa Contract Sea Level Cci	1	0.072
+Esa Cryo Seanice Project	1	0.072
+Esa Cryosat Plus For Oceans Cp4o Project Esrin	1	0.072
+Esa Cryoseanice Project	1	0.072
+Esa Dragon 4 Program	1	0.072
+Esa Engineer Grant Esa Cci Project	1	0.072
+Esa Eo Science For Society Liam Project	1	0.072
+Esa Esrin Contract	1	0.072
+Esa Gasflux Project	1	0.072
+Esa Heracles Project	1	0.072
+Esa In The Frame Of The Sea Level Cci Project	1	0.072
+Esa In The Scope Of The Sea Level Project Of The Climate Change Initiative Cci	1	0.072
+Esa Living Planet Fellowhip	1	0.072
+Esa Living Planet Fellowship	1	0.072
+Esa Project	1	0.072
+Esa Project Glacierscci	1	0.072
+Esa Project Sentinel 1 A Mission Performance Center	1	0.072
+Esa Project Sentinel 1 Ocean Study	1	0.072
+Esa Scientific Exploitation Of Operational Missions Seom Living Planet Fellowship Oceanus	1	0.072
+Esa Sea Level Cci Project Esrin	1	0.072
+Esa Seom S1oceanstudy Program	1	0.072
+Esa Smos Nino15 Project	1	0.072
+Esa Smos Storm Ccn Contract	1	0.072
+Esa Smos Storm Project	1	0.072
+Esa Stse Goce Dycot Project Via Esa	1	0.072
+Esa Through The Icemass Stse	1	0.072
+Esa Through The Mpc S3 Project	1	0.072
+Esa Under Globcurrent Due Project	1	0.072
+Esa Under The Globcurrent Project	1	0.072
+Esa Under The Sea State Cci Project	1	0.072
+Eseas Ri Eu Project	1	0.072
+Esf Euromargins	1	0.072
+Esmee Fairbairn Foundation	1	0.072
+Essp Icao	1	0.072
+Eu Eranet Resourcecode	1	0.072
+Eu Fp 6 Project Damocles	1	0.072
+Eu Fp7 2007 2013	1	0.072
+Eu Fp7 Project Astarte Assessment Strategy And Risk Reduction For Tsunamis In Europe	1	0.072
+Eu Fp7 Project Naclim	1	0.072
+Eu Funding Perseus Grant	1	0.072
+Eu H2020 Onion Project	1	0.072
+Eu H2020 Program Through The Atlantos Project	1	0.072
+Eu Horizon 2020 Project Atlantos	1	0.072
+Eu Horizon 2020 Project Blue Action	1	0.072
+Eu Mersea	1	0.072
+Eu Project Fp7 Groom	1	0.072
+Eu Project Fp7 Jerico	1	0.072
+Eu Project Fp7 Perseus	1	0.072
+Eu Project Sidarus	1	0.072
+Eumetsat Cnes	1	0.072
+Eumetsat Through Cm Saf	1	0.072
+European 1Nseapt1on Project Era4cs	1	0.072
+European Aeronautic Defense And Space Company	1	0.072
+European Atantos Project	1	0.072
+European Commission Copernicus Marine Service	1	0.072
+European Commission Gmes Framework	1	0.072
+European Community S Seventh Framework Programme Fp7	1	0.072
+European Copernicus Marine Environment Monitoring Service Cmems	1	0.072
+European E Aims Project	1	0.072
+European Feder Fund	1	0.072
+European Fp6 Transfer Project	1	0.072
+European Fp7 Under The E Aims Euro Argo Improvements For The Gmes Marine Service Project	1	0.072
+European Noces Project	1	0.072
+European Organisation For The Exploitation Of Meteorological Satellites	1	0.072
+European Organization For The Exploitation Of Meteorological Satellites Eumetsat Centre National De La Recherche Spatial Cnes	1	0.072
+European Regional Development Fund Guadeloupe Region	1	0.072
+European Research Area For Climate Services Era4cs Integrating Sea Level Projections In Climate Services For Coastal Adaptation Inseaption Project	1	0.072
+European Sangoma Project Fp7 Space	1	0.072
+European Space Agency Arcflux Project Of Arctic Itt	1	0.072
+European Space Agency Arcflux Project Of The Arctic Itt	1	0.072
+European Space Agency As Part Of The Sea State Cci Project Of The Climate Change Initiative Cci Esa Esrin	1	0.072
+European Space Agency Esa As Part Of The Skim Scisoc	1	0.072
+European Space Agency Esa Of The Ideas Contract	1	0.072
+European Space Agency Esa Project Glaciers Cci	1	0.072
+European Space Agency Esa Project Sea Level Budget Closure Cci	1	0.072
+European Space Agency Esa Support To Science Element Stse Project Oceanflux Greenhouse Gases	1	0.072
+European Space Agency Esa Through The Ice Sheets Cci	1	0.072
+European Space Agency Esa Through The Sea Surface Kinematics Multiscale Monitoring Skim Mission Science Scisoc Study	1	0.072
+European Space Agency Esa Through The Sentinel 3 Mission Performance Center	1	0.072
+European Space Agency Esa Through The Sentinel 3 Mission Performance Centre	1	0.072
+European Space Agency European Space Research And Technology Center	1	0.072
+European Space Agency In The Context Of The Climate Change Initiative Sea Level Project	1	0.072
+European Space Agency Of Cci Phase For Coastal Sea Level	1	0.072
+European Space Agency Of The Climate Change Initiative Cci For Sea Level	1	0.072
+European Space Agency Project Glaciers Cci	1	0.072
+European Space Agency Science And Society	1	0.072
+European Space Agency Through Esa Esrin Due Globcurrent Project	1	0.072
+European Space Agency Through The Esa Most Dragon 4 Projects	1	0.072
+European Space Agency Through The Globcurrent Data User Element Project	1	0.072
+European Space Agency Within The Climate Change Initiative Sea Level Project	1	0.072
+European Union Fp6 Carboocean Integrated Project	1	0.072
+European Union Fp7 Via The Myocean Project	1	0.072
+European Union Groom Eu Fp7 Project	1	0.072
+European Union H2020	1	0.072
+European Union Myocean2 Project	1	0.072
+European Union S H2020 Framework Programme H2020 Infraia 2014 2015 Jerico Next Grant	1	0.072
+European Union S Horizon 2020 Marie Sklodowskacurie Grant	1	0.072
+European Union S Horizon 2020 Research And Innovation Program	1	0.072
+European Union S Horizon Research And Innovation Programme	1	0.072
+European Union S Seventh Framework Program	1	0.072
+European Union S Seventh Framework Program Under Cross Drive	1	0.072
+European Union S Seventh Framework Program Under Imars	1	0.072
+European Union Via Seventh Framework Programme Inco Lab	1	0.072
+European Unionfunded Project Pithia Nrf	1	0.072
+European Unions Horizon 2020 Research And Innovation Program	1	0.072
+European University Of Brittany	1	0.072
+Eurosea Project Horizon 2020 Research And Innovation Programme	1	0.072
+Excellent Youth Science Foundation Of Jiangsu Province	1	0.072
+Fapeam	1	0.072
+Feder Funds European Union Through The Operational Programme For Competitiveness Factors Compete	1	0.072
+Feder Through The Escola Project	1	0.072
+Federal Office Of Meteorology And Climatology Meteoswiss Of The Global Climate Observing System Gcos Switzerland	1	0.072
+Federal Programme	1	0.072
+Federation Government	1	0.072
+Ffabr Finanziamento Delle Attivita Base Di Ricerca Grant Of Miur Ministero Dell Istruzione Dell Universita E Della Ricerca	1	0.072
+Ffabr Finanziamento Delle Attivita Base Di Ricerca Grant Of The Miur Ministero Dell Istruzione Dell Universita E Della Ricerca	1	0.072
+Fondation Bettencourt Schueller	1	0.072
+Fondation Bettencourt Schueller Program Frontieres Du Vivant	1	0.072
+Fondazione Crt	1	0.072
+Fondo Europeo De Desarrollo Regional Feder Through The Catarina Project	1	0.072
+Fonds De La Recherche Scientifique Fnrs	1	0.072
+Fonds Social Europeen Fse Fellowship	1	0.072
+Foundation For Science And Technology Fct Under The Ict Project	1	0.072
+Foundation Stae	1	0.072
+Fp 7 Phd Fund	1	0.072
+Fp7 E Aims Project	1	0.072
+Fp7 Monarch A Projects	1	0.072
+Fp7 Regpot 2008 1 Sofia	1	0.072
+Fqrnt Quebec Regroupement Strategique	1	0.072
+Franco Swedish Program Izomet Fs	1	0.072
+French Alternative Energies And Atomic Energy Commission	1	0.072
+French Atomic Energy Commission	1	0.072
+French Centre National D Etudes Spatiale	1	0.072
+French Centre National D Etudes Spatiale Through The Tosca	1	0.072
+French Centre National D Etudes Spatiales Cnes Through The Tosca Program	1	0.072
+French Cnes Centre National D Etudes Spatiales	1	0.072
+French Cnes Tosca Lakes	1	0.072
+French Cnes Tosca Programme	1	0.072
+French Embassy In India	1	0.072
+French Geological Survey Brgm Through The Evariste Project Evaluation Of Local Sea Level Variations Using Satellite Techniques	1	0.072
+French Government Through The Centre National D Etudes Spatiales	1	0.072
+French Grants Through Anr	1	0.072
+French Institut De Recherche Pour Le Developpement Ird	1	0.072
+French Institut National Des Sciences De L Univers Insu Cnrs	1	0.072
+French Institute For Marine Science Ifremer	1	0.072
+French Institute Of Research For Development Ird	1	0.072
+French Insu Cnrs Ec2co Lefe Ird	1	0.072
+French Insu Ec2co Cytrix Program	1	0.072
+French Ird Institut De Recherche Pour Le Developpement	1	0.072
+French Lefe Gmmc Research Programme	1	0.072
+French Lefe Idao Program	1	0.072
+French Ministry Of Foreign Affairs	1	0.072
+French Ministry Of Research Aci Climat Institution	1	0.072
+French Ministry Of Research And Education	1	0.072
+French Ministry Of Research And Higher Education	1	0.072
+French Moose Mediterranean Observing System Program	1	0.072
+French Moose Mediterranean Observing System Programme	1	0.072
+French National Centre For Space Studies Cnes Tosca Program	1	0.072
+French National Institute Of Sciences Of The Universe France	1	0.072
+French National Institute Of Sciences Of The Universe Insu Cnrs	1	0.072
+French National Program Lefe	1	0.072
+French National Program Lefe Les Enveloppes Fluides De L Environnement Gmmc Groupe Mission Mercator Coriolis By The Cratere Project	1	0.072
+French National Programme Lefe Insu	1	0.072
+French National Programme Lefe Les Enveloppes Fluides De L Environnement Gmmc Groupe Mission Mercator Coriolis Gmmc Groupe Mission Mercator Coriolis By The Cratere Project	1	0.072
+French Ovide Project	1	0.072
+French Patom	1	0.072
+French Polar Institute	1	0.072
+French Polar Institute Institut Paul Emile Victor Ipev	1	0.072
+French Polar Institute Ipev	1	0.072
+French Polar Institute Paul Emile Victor Ipev	1	0.072
+French Programme National De Teledetection Spatiale Pnts	1	0.072
+French Programme National Teledetection Spatiale	1	0.072
+French Research Infrastructure Tgir Flotte Rv Thalassa	1	0.072
+French Siberian Centre For Education And Research	1	0.072
+French Space Agency Centre National D Etudes Spatiales Cnes In The Frame Of The Tosca Program	1	0.072
+French Space Agency Through The Tosca Program	1	0.072
+French Space Study Center Cnes	1	0.072
+French Space Study Center Cnes Dar 2018 Tosca	1	0.072
+French Space Study Center Cnes Dar Tosca	1	0.072
+French Space Study Center Cnes Tosca 2020 Project	1	0.072
+French Tosca Programme	1	0.072
+French Tosca Via The Cnes	1	0.072
+Friends Of Vatnajokull And Landsvirkjun	1	0.072
+From Ocean To Inland Waters Altimetry Monitoring Foam	1	0.072
+Fundacao De Amparo A Pesquisa Do Estado De Sao Paulo Fapesp	1	0.072
+Fundacion General Csic Programa Comfuturo	1	0.072
+Fundacion Universidad Empresa De Las Islas Baleares Spain Through Project Alerta	1	0.072
+Fzp 1 5	1	0.072
+Genci Cines France	1	0.072
+Genci Idris Grant	1	0.072
+Genci Tgcc	1	0.072
+General Electric	1	0.072
+Generalitat Valenciana	1	0.072
+Geoazur Oca Cnrs	1	0.072
+German Aerospace Centre Dlr	1	0.072
+German Federal Foreign Office In The Frame Of The Cawa Project German Water Initiative For Central Asia Berlin Process	1	0.072
+German Federal Ministry Of Education And Research As Part Of The Cooperative Project Race	1	0.072
+German Ministry Of Economic Affairs And Energy	1	0.072
+Gfdl Visiting Faculty Program	1	0.072
+Global And Remote Littoral Forcing In Global Ocean Models	1	0.072
+Globcurrent Due Project	1	0.072
+Globcurrent Project From Esa	1	0.072
+Gmmc Mercator Coriolis Through Flotteurs Du Pacifique Sud Flops	1	0.072
+Gmmc Mercator Vert	1	0.072
+Gns Science	1	0.072
+Gocino Network	1	0.072
+Gops Programme Ird	1	0.072
+Gordon And Betty Moore Foundation	1	0.072
+Government Of The Balearic Islands Spain	1	0.072
+Government Of The United States Of America Though The National Oceanic And Atmospheric Administration	1	0.072
+Government Of Yemen	1	0.072
+Groupe De Mission Mercator Coriolis Gmmc	1	0.072
+Groupe Mission Mercator Coriolis	1	0.072
+Guangxi Natural Science Fund For Innovation Research Team	1	0.072
+Hawaii National Marine Renewable Energy Center	1	0.072
+Horizon 2020 Eosc Synergy	1	0.072
+Huaian Key Laboratory Of Geographic Information Technology And Applications	1	0.072
+Ice2sea Project By The European Commission S 7Th Framework Programme	1	0.072
+Icelandic Meteorological Office	1	0.072
+Icelandic Research Fund	1	0.072
+Icelandic Road Administration	1	0.072
+Icrea	1	0.072
+Idex Transversalite Inhera	1	0.072
+Idex Tranversalite Inhera	1	0.072
+Ids Program In Mean Sea Level	1	0.072
+Ifcpar Indo French Centre For Promotion Of Advanced Research New Delhi	1	0.072
+Incois Moes India	1	0.072
+Indeso Project	1	0.072
+Inee Institut National De L Environnement Et De L Ecologie	1	0.072
+Inee Institut National De L Environnement Et De L Ecologie Ph D Scholarship	1	0.072
+Inra Inria Aap	1	0.072
+Institut Des Sciences De L Univers Insu	1	0.072
+Institut Mines Telecom	1	0.072
+Institut National Des Sciences De L Univers Insu	1	0.072
+Institut National Des Sciences De L Univers Insu France	1	0.072
+Institut Paul Emile Victor National Research Program	1	0.072
+Institut Polaire Francais Paul Emile Victor Ipev	1	0.072
+Institut Simon Et Pierre Laplace Labex Lipsl	1	0.072
+Institute For Earth Sciences And Astronomy Of The National Center For Scientific Research Cnrs Insu	1	0.072
+Institute Francais De Recherche Pour L Exploitation De La Mer Ifremer	1	0.072
+Institute Of Water Modeling Iwm In Bangladesh	1	0.072
+Instituto Milenio De Oceanografia Imo Chile	1	0.072
+Insu Lefe	1	0.072
+Insu Mistrals	1	0.072
+Insu Patom	1	0.072
+Insu Relief	1	0.072
+Insu Syster	1	0.072
+Inter American Institute For Global Change Research National Science Foundation	1	0.072
+Inter American Institute For Global Change Research Through Nsf	1	0.072
+Interamerican Institute For Global Change Research 1A1	1	0.072
+Interamerican Institute For Global Change Research Through Nsf Grant	1	0.072
+Interdepartmental Thematic Action Humboldt Current System	1	0.072
+Intergovernmental Oceanographic Commission Of Unesco International Oceanographic Data And Information Exchange Ioc Iode Iquod Steering Group	1	0.072
+Internal Brgm Grant	1	0.072
+International Centre For Education Marine And Atmospheric Sciences Over Africa	1	0.072
+International Space Science Institute Issi	1	0.072
+Interreg Atlantic Area Project Mycoast	1	0.072
+Ipev Institut Paul Emile Victor	1	0.072
+Ipsl Institute Pierre Simon Laplace	1	0.072
+Ipy International Polar Year Project	1	0.072
+Ird Dsf France	1	0.072
+Ird Institut De Recherche Pour Le Developpement France	1	0.072
+Ird Institut De Recherche Pour Le Developpement Institution	1	0.072
+Ird Jeai Relifome Institut De Recherche Pour Le Developpement Jeune Equipe Associee A L Ird	1	0.072
+Ird Legos France	1	0.072
+Ird Project Hidrodinamica Fluvial	1	0.072
+Ird Through Geoazur	1	0.072
+Ird Through R V Alis Cruises	1	0.072
+Ird Through The International Centre For Education	1	0.072
+Irhob	1	0.072
+Irstea French Research Institute Of Science And Technology For Environment And Agriculture	1	0.072
+Irstea Grenoble As Part Of Labex Osug 2020	1	0.072
+Irstea National Research Institute Of Science And Technology For Environment And Agriculture	1	0.072
+Italian Ministry Of Environment Land And Sea Under Gemina	1	0.072
+Italian Project Ritmare La Ricerca Italiana Per Il Mare Miur Progetto Bandiera	1	0.072
+Ivanhoe Foundation	1	0.072
+Jackson School Of Geosciences Univ Of Texas At Austin	1	0.072
+Japan Agency For Marine Earth Science And Technology Jamstec	1	0.072
+Japan Agency For Ocean And Earth Science And Technology Jamstec	1	0.072
+Jason 1 Project	1	0.072
+Jcomm Cowclip Coordinated Ocean Wave Climate Projections Project	1	0.072
+Jeai Relifome	1	0.072
+Jerico Next Project European Union S Horizon 2020 Research And Innovation Program	1	0.072
+Jerico Next Project European Union S Horizon 2020 Research And Innovation Programme	1	0.072
+Jerico Project	1	0.072
+Jerico S3 Project European Union S Horizon 2020 Research And Innovation Program	1	0.072
+Jet Propulsion Laboratory California Institute Of Technology	1	0.072
+Jifresse Ucla	1	0.072
+Joint Cnes Cls Phd Grant	1	0.072
+Joint European Research Infrastructure Network For Coastal Observatories Jerico Transnational Access Tna Third Call	1	0.072
+Joint International Laboratory Takuvik Ulaval Cnrs The Canada Excellence Research Chair In Remote Sensing Of Canada S New Arctic Frontier	1	0.072
+Joint Uk Decc Defra Met Office Hadley Centre Climate Programme	1	0.072
+Jsps Postdoctoral Fellowships For Research In Japan	1	0.072
+K C Wong Education Foundation Hong Kong	1	0.072
+Kansas State University	1	0.072
+Kansas State University Open Access Publishing Fund	1	0.072
+Klima Og Luftgruppen Kol Research Fund Of The Nordic Council Of Ministers	1	0.072
+Knowledge Innovation Program Of The Chinese Academy Of Sciences	1	0.072
+Kopri Through Kiost	1	0.072
+Korea Polar Research Institute	1	0.072
+La Caixa Foundation	1	0.072
+Labex Cote Universite De Bordeaux	1	0.072
+Labex Mer	1	0.072
+Labexmer Through The Seacs Project	1	0.072
+Laboratoire D Etudes En Geophysique Et Oceanographie Spatiale	1	0.072
+Laboratory For Regional Oceanography And Numerical Modeling	1	0.072
+Laboratory For Regional Oceanography And Numerical Modeling Pilot National Laboratory For Marine Science And Technology	1	0.072
+Lakeddies Project	1	0.072
+Lamsam Thailand Sustain Development	1	0.072
+Landsvirkjun Research Fund	1	0.072
+Lebanese Cnrs	1	0.072
+Lefe	1	0.072
+Lefe Cyber Programme Cnrs Insu	1	0.072
+Lefe Program Lefe Manu Project Ia Oac	1	0.072
+Legos Concerning Dsm Studies	1	0.072
+Legos Grant	1	0.072
+Leverhulme Trust	1	0.072
+Life Lema Project	1	0.072
+Linz	1	0.072
+Lmi	1	0.072
+Local Government Of The Balearic Islands	1	0.072
+Louis Gentil Jacques Bourcart Fellowship	1	0.072
+Louis Gentil Jacques Bourcart Fellowship From The French Academie Des Sciences	1	0.072
+Luxembourg National Research Fund	1	0.072
+Mare Marine And Environmental Sciences Centre Of Oceanography Of The University Of Lisbon	1	0.072
+Margaret And Herman Sokol Faculty Awards	1	0.072
+Marie Curie International Outgoing Fellowship Within The 7Th European Community Framework Programme	1	0.072
+Marine And Atmospheric Sciences Over Africa Icemasa	1	0.072
+Massachusetts Institute Of Technology Mit	1	0.072
+Mast Iii Canigo Programme	1	0.072
+Mathamsud Cippde Conicyt	1	0.072
+Medclic Project	1	0.072
+Mercator Ocean Partnership Agreement	1	0.072
+Mersea	1	0.072
+Mesobio Project	1	0.072
+Mex Omega Program	1	0.072
+Mex Pfs Program	1	0.072
+Mhyzpa Project	1	0.072
+Mi Ireland Cullen Scholarship Under The Marine Research Programme 2014 2020 By The Irish Government	1	0.072
+Micin	1	0.072
+Microsoft Eu Ocean Awards	1	0.072
+Mid Continent Intensive Mci	1	0.072
+Midas 4	1	0.072
+Mincyt Ecos Sud A14u0 Projects Ecos Sud Program In Facilitating Scientific Exchanges Between Argentina And France	1	0.072
+Ministere De L Education Nationale De L Enseignement Superieur Et De La Recherche	1	0.072
+Ministere De L Enseignement Superieur Et De La Recherche	1	0.072
+Ministerio De Ciencia E Innovacion And Agencia Estatal De Investigacion	1	0.072
+Ministry Of Earth Sciences New Delhi India	1	0.072
+Ministry Of Economic Affairs Netherlands	1	0.072
+Ministry Of Education And Sciene Of The Russian Federation	1	0.072
+Ministry Of Education China 111 Project	1	0.072
+Ministry Of Education Taiwan	1	0.072
+Ministry Of Science And Education	1	0.072
+Ministry Of Science And Technology	1	0.072
+Mio Axes Transverses Programme Atcouplage	1	0.072
+Mistrals Envimed Iv Program	1	0.072
+Moes	1	0.072
+Monarch Project Of The 7Th Framework Programme Of The European Union	1	0.072
+Mpi M	1	0.072
+Myocean 2 Fp7 Project	1	0.072
+Myocean Follow On Project	1	0.072
+Myocean Follow On Project Pre Operational Marine Continuity In Transition Towards Copernicus	1	0.072
+Myocean Project Wp11 Sea Level Thematic Assembly Center	1	0.072
+Myocean2 Project Eu	1	0.072
+Nansen Environmental And Remote Sensing Center Bergen Norway	1	0.072
+Nansen Tutu Center For Marine Environmental Research	1	0.072
+Nansen Tutu Centre For Marine Environmental Research	1	0.072
+Nansen Tutu Centre For Marine Environmental Research Cape Town South Africa	1	0.072
+Nansen Tutu Centre For Marine Environmental Research South Africa	1	0.072
+Nansen Tutu Centre Ntc For Marine Environmental Research At The Oceanography Department University Of Cape Town Nansen Scientific Society	1	0.072
+Nasa Cnes Ostst	1	0.072
+Nasa Cryosphere Award	1	0.072
+Nasa Cryosphere Awards	1	0.072
+Nasa Cryospheric Program Funds	1	0.072
+Nasa Desdyni Lidar Project	1	0.072
+Nasa Earth And Space Science Fellowship	1	0.072
+Nasa Earth Science	1	0.072
+Nasa Earth Science Measurements Discover Project	1	0.072
+Nasa Earth Sciences	1	0.072
+Nasa Esi Program	1	0.072
+Nasa Grace	1	0.072
+Nasa Grace Follow On Project	1	0.072
+Nasa Grace Follow On Project Jpl Subcontract	1	0.072
+Nasa Grace Project	1	0.072
+Nasa Grace Project Jpl Subcontract	1	0.072
+Nasa Graduate Student Research Program Grant	1	0.072
+Nasa Headquarters Under The Nasa Postdoctoral Program At Nasa Marshall Space Flight Center	1	0.072
+Nasa Interdisciplinary Research In Earth Science Sea Level Change	1	0.072
+Nasa Nessf Fellowship Award	1	0.072
+Nasa News	1	0.072
+Nasa Npp Postdoc Fellowship	1	0.072
+Nasa Ocean Salinity Science Team Osst	1	0.072
+Nasa Ocean Surface Topography Science Team Ostst	1	0.072
+Nasa Ocean Surface Topography Science Team Through Nasa	1	0.072
+Nasa Ocean Vector Wind Science Team Grant	1	0.072
+Nasa Osst	1	0.072
+Nasa Physical Oceanography Grant	1	0.072
+Nasa Physical Oceanography Program Nasa	1	0.072
+Nasa Roses Terrestrial Hydrology Program Nasa Roses 2017 Terrestrial Hydrology Filling The Space Time Gaps Between Surface Water Retrievals	1	0.072
+Nasa S Carbon Monitoring System Initiative	1	0.072
+Nasa S Earth Science Information Partnerships Esip A Federation Of Information Sites For Earth Science	1	0.072
+Nasa S Earth Surface And Interior Esi Program	1	0.072
+Nasa S Ice Bridge Program	1	0.072
+Nasa S Interdisciplinary Science Ids Program	1	0.072
+Nasa S Ipy Program	1	0.072
+Nasa S Ocean Surface Topography Mission Ostm Projects	1	0.072
+Nasa S Physical Oceanography Ostst	1	0.072
+Nasa S Servir Program	1	0.072
+Nasa S Swot	1	0.072
+Nasa Senior Fellowship	1	0.072
+Nasa Senior Npp Fellowship	1	0.072
+Nasa Sevir Program	1	0.072
+Nasa Subcontract To Boston University	1	0.072
+Nasa Swot Algorithm Definition Team	1	0.072
+Nasa Swot Project	1	0.072
+Nasa Swot Science Definition Team	1	0.072
+Nasa Swot Science Team Grant	1	0.072
+National Aeronautics And Space Administration Nasa Under Nsf Cooperative Agreement	1	0.072
+National Aeronautics And Space Administration Science Directorate	1	0.072
+National Antarctic Research Program Pnra	1	0.072
+National Center For Space Studies Cnes	1	0.072
+National Centre For Earth Observation	1	0.072
+National Centre For Research And Development Poland Through Grant Artemis	1	0.072
+National Chilean Research And Technology Council Conicyt Through The Program Becas Chile	1	0.072
+National Council Of Science And Technology Of Mexico Mexican Ministry Of Energy Hydrocarbon Trust	1	0.072
+National Facility Of The Australian Partnership For Advanced Computing	1	0.072
+National Funds Through Fct Foundation For Science And Technology I P Through Centra	1	0.072
+National Geospatial Intelligence Agency S University Research Initiatives Nuri Program	1	0.072
+National Institute For Climatic Change Research Niccr	1	0.072
+National Institute Of Oceanography Goa	1	0.072
+National Key Research And Development Program	1	0.072
+National Key Research And Development Program Of China China	1	0.072
+National Land Survey Of Iceland	1	0.072
+National Observation Service Mammal As Ocean Observer Sno Memo	1	0.072
+National Oceanographic Partnership Program	1	0.072
+National Program Lefe Les Enveloppes Fluides Et L Environnement	1	0.072
+National Programme On Global Change And Air Sea Interaction	1	0.072
+National Research Council For A Research Associateship At The Naval Postgraduate School Comments Of Prof J Mcwilliams	1	0.072
+National Research Foundation	1	0.072
+National Research Institute For Agriculture Food And The Environment Inrae	1	0.072
+National Science And Technology Major Project Of China	1	0.072
+Nato North Atlantic Treaty Organisation	1	0.072
+Natural Resources Canada	1	0.072
+Naval Research Laboratory Nrl	1	0.072
+Nerc Diatom Arctic	1	0.072
+Netherlands Organisation For Scientific Research Nwo Through The Gales Gas Leaks From Space Project By The Dutch Technology Foundation Netherlands Organisation For Scientific Research Nwo	1	0.072
+Netherlands Organization For Scientific Research Nwo	1	0.072
+Netherlands Polar Program	1	0.072
+Netherlands Polar Program Of Nwo Alw	1	0.072
+Netherlands Polar Program Of The Netherlands Organization For Scientific Research Section Earth And Life Sciences Nwo Alw Npp	1	0.072
+New Zealand Strategic Science Investment Funded Ssif Programme Marine Geological Resources Of Niwa	1	0.072
+Nio Csir India	1	0.072
+Nio Under The Adjunct Scientist Scheme Of Csir	1	0.072
+Nippon Foundation Gebco Seabed 2030 Project	1	0.072
+Noaa Climate Observations And Monitoring Com Program	1	0.072
+Noaa Climate Program Office S Climate Change Data And Detection Program	1	0.072
+Noaa Cpo Oomd	1	0.072
+Noaa Hurricane Sandy Disaster Relief Act	1	0.072
+Noaa Integrated Ocean Observing System	1	0.072
+Noaa Office Of Climate Observations Oco	1	0.072
+Noaa Quantitative Observing System Assessment Program Qosap	1	0.072
+Noaa Research	1	0.072
+Noc Southampton	1	0.072
+Nordic Top Level Initiative Tri	1	0.072
+Northern Scientific Training Program Nstp	1	0.072
+Norwegian Polar Institute Npi	1	0.072
+Norwegian Program For Supercomputing Notur	1	0.072
+Norwegian Research Council Project Coresat	1	0.072
+Nouvelle Aquitaine Region	1	0.072
+Nrf Grant Via A South African Post Doctoral Fellowship	1	0.072
+Nrf Sanap Samoc Sa Programme	1	0.072
+Nrf Sarchi Chair In Ocean Atmosphere Modelling	1	0.072
+Nrf Sarchi Chair On Ocean Atmosphere Modelling	1	0.072
+Nrl	1	0.072
+Nserc Crsng Visiting Fellowship In Canadian Laboratories Of The Dfo International Governance Strategy Igs	1	0.072
+Nsf Directorate For Social Behavioral Economic Sciences Sbe	1	0.072
+Nsf Division Of Ocean Sciences Postdoctoral Fellowship Grant	1	0.072
+Nsf Opp Award	1	0.072
+Nsf Research Experience For Undergraduates Reu	1	0.072
+Nvidia	1	0.072
+Nwo Alw Veni Grant	1	0.072
+Nwo Netherlands Polar Programme	1	0.072
+Oca	1	0.072
+Ocean Surface Topography Science Team Ostst Foam Project	1	0.072
+Ocean Surface Topography Science Team Through Nasa	1	0.072
+Oceanext Contract	1	0.072
+Oceantech	1	0.072
+Office Of Science Of The U S Department Of Energy Earth System Modeling Program Through The Accelerated Climate Modeling For Energy Acme Project	1	0.072
+Ohio State University S Climate Water And Carbon Program	1	0.072
+Old Dominion University S Climate Change And Sea Level Rise Initiative Ccslri	1	0.072
+Omp Through Ao1 Upee	1	0.072
+Onera	1	0.072
+Ones Centre National D Etude Spatiale	1	0.072
+Onr Global	1	0.072
+Onr Grant At The University Of Washington	1	0.072
+Onr Nascar Northern Arabian Sea Circulation Autonomous Research Award	1	0.072
+Open Call For R D Activities In The Framework The Myocean Project Eu	1	0.072
+Open Fund Of State Key Laboratory Of Remote Sensing Science	1	0.072
+Oregon State University	1	0.072
+Organisation Friends Of Vatnajokull	1	0.072
+Ost St Variability Of Terrestrial Freshwater Storage In The Tropics From Multi Satellite Observations	1	0.072
+Ostm Jason 2 Project	1	0.072
+Ostst	1	0.072
+Ostst Cnes Tosca Grant	1	0.072
+Ostst Tosca Insu Scientific Funding	1	0.072
+Osu S Climate Water And Carbon Program	1	0.072
+Ovalie Project From Esa Living Planet Fellowship	1	0.072
+P P Shirshov Institute Of Oceanology Ras Russian Academy Of Sciences	1	0.072
+Pea	1	0.072
+People Trust For Endangered Species For Uruguay	1	0.072
+Perseus	1	0.072
+Perseus Fp7 Project	1	0.072
+Perseus Fp7 Projects	1	0.072
+Pfizer	1	0.072
+Ph D Program In Environmental Science	1	0.072
+Phd Fellowship From The Vietnam International Education Development 911 Project	1	0.072
+Physical Oceanography Po And Modeling Analysis And Prediction Map Programs	1	0.072
+Pics Projet International De Cooperation Scientifique	1	0.072
+Pilot National Laboratory For Marine Science And Technology Qingdao Foundation	1	0.072
+Pirate Project Centre National D Etudes Spatiales Cnes Through The Ocean Surface Topography Science Team Ost St	1	0.072
+Pnts	1	0.072
+Pole Metropolitain Cote D Opale De La Region Hauts De France	1	0.072
+Portuguese Funds Through The Foundation For Science And Technology Fct Under The Laeta	1	0.072
+Portuguese Funds Through The Fundacao Para A Ciencia E A Tecnologia Fct	1	0.072
+Postdoctoral Fondecyt 586	1	0.072
+Pre Swot Project	1	0.072
+Prefetcura Naval Argentina	1	0.072
+Princeton Aos	1	0.072
+Program Lefe Cyber Of The Insu Institut National Des Sciences De L Univers	1	0.072
+Program Lefe Idao Of The Insu Institut National Des Sciences De L Univers	1	0.072
+Program Terre Ocean Surfaces Continentales Et Atmosphere Tosca	1	0.072
+Program Terre Ocean Surfaces Continentales Et Atmosphere Tosca France	1	0.072
+Programme National Dorsales	1	0.072
+Programme National En Teledetection Spatiale Pnts	1	0.072
+Project Ageostrophic Vorticity Dynamics Of The Ocean	1	0.072
+Project Ageostrophic Vorticity Dynamics Of The Ocean Onr	1	0.072
+Project Agora Of The Spanish Ministry Of Economy And Competitiveness	1	0.072
+Project Carbama Carbon Biogeochemistry And Atmospheric Exchanges In The Amazon River System	1	0.072
+Project Global And Remote Littoral Forcing In Global Ocean Models	1	0.072
+Project Global And Remote Littoral Forcing In Global Ocean Models Onr	1	0.072
+Project Jeune Equipe Associee A L Ird Re Ponse Du Littoral Camerounais Aux Forc Ages Oceaniques Multi Echelles Jeairelifome From The University Of Douala	1	0.072
+Project Mhyzpa Modelisation De L Hydrologie Des Zones D Inondation De La Plaine Centrale Amazonienne	1	0.072
+Project Radiation And Rainfall U K National Center For Earth Observation	1	0.072
+Project Solar Portuguese Foundation For Science And Technology Fct	1	0.072
+Project Vite Vineyard Terraced Landscapes Understanding The Environmental Constraints To Improve Sustainable Managements Linda Scattolin Research Program At Tesaf Department Of The University Of Padova Italy	1	0.072
+Projekt Deal	1	0.072
+Projet Samoc	1	0.072
+Proof	1	0.072
+Puerto Deseado Crew	1	0.072
+Pump Project	1	0.072
+Qingdao Pilot National Laboratory For Marine Science And Technology	1	0.072
+Rami Project A Regional Doctoral Schoolin The Indian Ocean Zone Under The Horizons Francophones Programme Of The Auf Agence Universitaire De La Francophonie	1	0.072
+Ramon Y Cajal Contract Spanish Ministry Of Science And Innovation	1	0.072
+Region Bretagne Through L Allocations De Recherche Doctorale Ared	1	0.072
+Region Hauts De France	1	0.072
+Region Nouvelle Aquitaine	1	0.072
+Regional Government Of The Balearic Islands	1	0.072
+Remote Sensing Center Of The French National Research Institute Of Science And Technology For Environment And Agriculture Irstea	1	0.072
+Research Dg Of The European Commission Within The Rtd Activities Of A Generic Nature Of The Environment And Sustainable Development Sub Programme Of The 5Th Framework Programme	1	0.072
+Research Infrastructure Ir Data Terra	1	0.072
+Research Ministry Of French Polynesia	1	0.072
+Research Project Climpact	1	0.072
+Research Unit Hydrosciences Montpellier	1	0.072
+Reykjavik Energy Environmental And Energy Research Fund	1	0.072
+Ritmare Flag Project	1	0.072
+Rtra	1	0.072
+Rtra Stae	1	0.072
+Rtra Stae Cyment	1	0.072
+Rtra Stae Scientific Foundation	1	0.072
+Russian Federation Government	1	0.072
+Russian President Grant	1	0.072
+Russian President Grants	1	0.072
+Russian Science Foundation At Russian State Hydrometeorological University	1	0.072
+S Mode Project	1	0.072
+Sac Isro Sponsored Saral Altika Science And Utilization Project Saral Altika Applications For Inland Waters Glaciers And Sunderban Delta	1	0.072
+Sagas	1	0.072
+Salp Project From Cnes	1	0.072
+Salp Project Service D Altimetrieet Localisation Precise From Cnes	1	0.072
+Sc Seagrant	1	0.072
+Science Astrophysics Nasa	1	0.072
+Science Foundation Ireland	1	0.072
+Science Technology Facilities Council Stfc	1	0.072
+Scientific Committee On Oceanic Research Scor Working Group National Scor Committees	1	0.072
+Sea Level Thematic Assembly Center Sl Tac Of The Copernicus Marine And Environment Monitoring Service Cmems	1	0.072
+Sea Level Thematic Assembly Center Sltac Of The Copernicus Marine And Environment Monitoring Service Cmems	1	0.072
+Seaquest Ue Fp7 People	1	0.072
+Sentinel 3 Mission Performance Centre	1	0.072
+Sentinel North Program Of Universite Laval	1	0.072
+Seo Birdlife	1	0.072
+Service Cooperation Et De L Action Culturelle Scac Of The French Embassy In Cameroon	1	0.072
+Servicio De Hidrografia Naval	1	0.072
+Shom Service Hydrographique Et Oceanographique De La Marine	1	0.072
+Short Term Scientific Mission Stsm Grant From Cost Action	1	0.072
+Singapore Mit Alliance For Research Technology Centre Smart	1	0.072
+Skim Mprc	1	0.072
+Skim Pe	1	0.072
+Smac Project Capes Cofecub	1	0.072
+Sno Memo	1	0.072
+South African Environmental Observations Network Saeon	1	0.072
+South African National Antarctic Program Sanap	1	0.072
+South African National Research Fund Dst Nrf Pdp Professional Development Grant	1	0.072
+South African National Research Fund Kic Award	1	0.072
+South African National Research Fund Nrf	1	0.072
+South African Water Research Commission	1	0.072
+South Atlantic Meridional Overturning Circulation Samoc Group	1	0.072
+Spanish Education Ministry Micinn	1	0.072
+Spanish Government Jae Doc Grant Csic	1	0.072
+Spanish Government Micinn Feder	1	0.072
+Spanish Marine Science And Technology	1	0.072
+Spanish Ministry Of Economy And Competitiveness Through Bocats Project Fondo Europeo De Desarrollo Regional Feder	1	0.072
+Spanish Ministry Of Economy And Competitiveness Through Catarina Project Fondo Europeo De Desarrollo Regional Feder	1	0.072
+Spanish Ministry Of Science And Innovation National R Di Plan Estibb	1	0.072
+Spanish National R And D Project In Space Research Ministerio De Ciencia Y Tecnologia	1	0.072
+Spanish National R D I Program	1	0.072
+Spanish Research Grant Mineco Feder	1	0.072
+Spanish Salvador De Madariaga Program	1	0.072
+Specific Expedition Budget Of Gfz	1	0.072
+Ssalto Duacs In The Framework Of The Evironment And Climate Eu European Enact Project	1	0.072
+State Key Laboratory Of Geodesy And Earth S Dynamics	1	0.072
+State Key Laboratory Of Satellite Ocean Environment Dynamics Second Institute Of Oceanography State Oceanic Administration Of China	1	0.072
+State Key Laboratory Of Satellite Oceanic Environment And Dynamics Second Institute Of Oceanography Soa China	1	0.072
+Steve Kale Fellowship At Kansas State University	1	0.072
+Stfc Mssl Consolidated Grant	1	0.072
+Stias Stellenbosch Institute For Advanced Study	1	0.072
+Stic Amsud	1	0.072
+Stse Project	1	0.072
+Sumario Project German Ministry Of Education And Research Bmbf	1	0.072
+Supercomputing Infrastructure Of The Nlhpc	1	0.072
+Surface Water Ocean Topography Swot Satellite Mission Project Of The Centre National D Etudes Spatiales Cnes	1	0.072
+Sustainable Energy Authority Of Ireland Seai Through The Renewable Energy Research Development Demonstration Programme	1	0.072
+Svse	1	0.072
+Swiofp	1	0.072
+Swot	1	0.072
+Swot Downstream Program By Cnes	1	0.072
+Swot Program	1	0.072
+Swot Project At The Nasa Caltech Jet Propulsion Lab	1	0.072
+Swot Projects	1	0.072
+Swot Science Team Nasa Roses 2015 Swot Science Team	1	0.072
+Swot Wetlands Project	1	0.072
+Syndicat Mixte De La Cote D Opale	1	0.072
+Taaf	1	0.072
+Tec Inversion	1	0.072
+Telecommunications For Space And Aeronautics Laboratory Tesa	1	0.072
+Thomas Crawford Hayes Trust Research Award From The School Of Earth And Ocean Sciences Nuig Ireland	1	0.072
+Tnc Gabon	1	0.072
+Topaz Project	1	0.072
+Torres Quevedo Grant Spanish Ministry Of Science And Innovation	1	0.072
+Tosca Board Of The Cnes Eumetsat	1	0.072
+Tosca Cnes Grant	1	0.072
+Tosca Cnes Program	1	0.072
+Tosca Cnes Project Sea Level Alk From Cnes The French Space Agency	1	0.072
+Tosca Of Cnes	1	0.072
+Tosca Program Of Swot	1	0.072
+Tosca Top Glaces Api	1	0.072
+Total Ep Recherche Developpement	1	0.072
+Toulouse Arctic Initiative Project	1	0.072
+Trishna Project	1	0.072
+Tropom National Program From The Netherlands Space Office	1	0.072
+U K Natural Environment Research Council Through Project Atlantic Biogeochemical Fluxes Abc Fluxes	1	0.072
+U K Natural Environment Research Council Through Project Radiatively Active Gases From The North Atlantic Region And Climate Change Ragnarocc	1	0.072
+U S National Aeronautics And Space Administration Nasa Under Making Earth System Data Records For Use In Research Environments Measures Program	1	0.072
+U S National Aeronautics And Space Administration Nasa Under Ocean Surface Topography Science Team Ostst Program	1	0.072
+U S National Ocean Partnership Program	1	0.072
+Ubo	1	0.072
+Uh New Faculty Program	1	0.072
+Uib University Of Balearic Island	1	0.072
+Uk Natural Environment Research Council Through Research Programme At The British Antarctic Survey	1	0.072
+Uk Natural Environment Research Council Through Research Programme At The National Oceanography Centre	1	0.072
+Uk Nerc Centre For Polar Observation And Modelling	1	0.072
+Uk Osnap Nerc Large Grant	1	0.072
+Uk Public Weather Service Research Programme	1	0.072
+Uk Space For Smarter Government Programme Through Uk Space Agency	1	0.072
+Ukri Natural Environment Research Council Nerc	1	0.072
+Unep Gef	1	0.072
+Unesco Co Chair Icmpa Uac	1	0.072
+Universidad De Concepcion Fellowship At The Laboratoire D Oceanographie Spatiale At Ifremer	1	0.072
+Universitat De Les Tiles Balears	1	0.072
+Universite De Bretagne Occidentale Ubo	1	0.072
+Universite De Toulouse 3	1	0.072
+Universite Nice Sophia Antipolis	1	0.072
+Universite Toulouse Iii	1	0.072
+University Grants Commission India	1	0.072
+University Of Balearic Islands	1	0.072
+University Of Bologna	1	0.072
+University Of California System	1	0.072
+University Of Cape Town	1	0.072
+University Of Cincinnati Graduate School Dean S Fellowship	1	0.072
+University Of Douala	1	0.072
+University Of Lisbon Ul	1	0.072
+University Of Luxembourg	1	0.072
+University Of Michigan System	1	0.072
+University Of Minnesota System	1	0.072
+University Of New South Wales	1	0.072
+University Of Pisa	1	0.072
+University Of Science And Technology Of Hanoi Vietnam Usth	1	0.072
+University Of Tasmania	1	0.072
+University Of Texas Jackson School Of Geosciences Development Grant	1	0.072
+University Of Toulouse Idex Inhera Project	1	0.072
+University Of Washingtons Robert And Irene Sylvester Professorship	1	0.072
+University Paul Sabatier Observatoire Midi Pyrenees	1	0.072
+University Paul Sabatier Ups Get	1	0.072
+University Siegen	1	0.072
+Us National Aeronautics And Space Administration Under Ocean Surface Topography Science Team	1	0.072
+Usp	1	0.072
+Utig	1	0.072
+Uw Applied Physics Laboratory	1	0.072
+Va De Retro Project Spanish National Research Program	1	0.072
+Vatnajokull National Park	1	0.072
+Vidi Grant From The Netherlands Organisation For Scientific Research	1	0.072
+Water Problems Institute Ras	1	0.072
+Water Research Commission	1	0.072
+Waveflow Project Cmems Service Evolution66 Se Call2	1	0.072
+Wcs	1	0.072
+West Indian Ocean Marine Science Association Wiomsa	1	0.072
+Western Indian Ocean Marine Science Association Wiomsa	1	0.072
+Westmed	1	0.072
+Wiomsa	1	0.072
+Wiomsa Western Indian Ocean Marine Science Association	1	0.072
+Wolfson Foundation	1	0.072
+Woods Hole Oceanographic Institution Bridge Support Funds	1	0.072
+Wrc	1	0.072
+Wwf	1	0.072
+627 record(s) (45.238%) do not contain data in the field being analyzed

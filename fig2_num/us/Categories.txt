@@ -1,0 +1,69 @@
+Web of Science Categories	Record Count	% of 3,072
+Oceanography	1083	35.254
+Geosciences Multidisciplinary	782	25.456
+Remote Sensing	669	21.777
+Geochemistry Geophysics	541	17.611
+Meteorology Atmospheric Sciences	419	13.639
+Imaging Science Photographic Technology	400	13.021
+Environmental Sciences	320	10.417
+Engineering Electrical Electronic	216	7.031
+Geography Physical	161	5.241
+Astronomy Astrophysics	122	3.971
+Water Resources	121	3.939
+Engineering Aerospace	116	3.776
+Engineering Ocean	109	3.548
+Multidisciplinary Sciences	88	2.865
+Marine Freshwater Biology	55	1.790
+Limnology	48	1.563
+Optics	42	1.367
+Telecommunications	38	1.237
+Instruments Instrumentation	31	1.009
+Engineering Civil	30	0.977
+Engineering Marine	24	0.781
+Geology	19	0.618
+Ecology	18	0.586
+Computer Science Artificial Intelligence	15	0.488
+Engineering Multidisciplinary	15	0.488
+Physics Fluids Plasmas	12	0.391
+Computer Science Interdisciplinary Applications	11	0.358
+Physics Applied	11	0.358
+Environmental Studies	9	0.293
+Fisheries	9	0.293
+Mathematics Interdisciplinary Applications	9	0.293
+Mechanics	9	0.293
+Automation Control Systems	8	0.260
+Physics Multidisciplinary	8	0.260
+Engineering Environmental	5	0.163
+Acoustics	4	0.130
+Computer Science Information Systems	4	0.130
+Forestry	4	0.130
+Paleontology	4	0.130
+Physics Mathematical	4	0.130
+Chemistry Analytical	3	0.098
+Mathematics Applied	3	0.098
+Statistics Probability	3	0.098
+Agricultural Engineering	2	0.065
+Audiology Speech Language Pathology	2	0.065
+Biodiversity Conservation	2	0.065
+Computer Science Hardware Architecture	2	0.065
+Computer Science Theory Methods	2	0.065
+Economics	2	0.065
+Education Scientific Disciplines	2	0.065
+Green Sustainable Science Technology	2	0.065
+Materials Science Multidisciplinary	2	0.065
+Mining Mineral Processing	2	0.065
+Transportation	2	0.065
+Transportation Science Technology	2	0.065
+Agronomy	1	0.033
+Biology	1	0.033
+Chemistry Multidisciplinary	1	0.033
+Computer Science Cybernetics	1	0.033
+Engineering Mechanical	1	0.033
+Geography	1	0.033
+History Philosophy Of Science	1	0.033
+Microbiology	1	0.033
+Nanoscience Nanotechnology	1	0.033
+Neurosciences	1	0.033
+Operations Research Management Science	1	0.033
+Public Environmental Occupational Health	1	0.033
+Spectroscopy	1	0.033

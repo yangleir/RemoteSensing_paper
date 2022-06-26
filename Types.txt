@@ -1,0 +1,17 @@
+Document Types	Record Count	% of 8,505
+Articles	7067	83.092
+Proceedings Papers	1378	16.202
+Review Articles	243	2.857
+Book Chapters	74	0.870
+Meeting Abstracts	39	0.459
+Editorial Materials	22	0.259
+Data Papers	21	0.247
+Notes	18	0.212
+Letters	14	0.165
+Early Access	12	0.141
+Corrections	5	0.059
+Books	2	0.024
+News Items	2	0.024
+Abstract of Published Items	1	0.012
+Corrections, Additions	1	0.012
+Retracted Publications	1	0.012
