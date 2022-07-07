@@ -27,14 +27,14 @@ echo 2008 10 Ja-2| gmt pstext -F+f10p,Helvetica,black+jML -R -J -Wwhite -To -P -
 echo 2001 10 Ja-1| gmt pstext -F+f10p,Helvetica,black+jML -R -J -Wwhite -To -P -K -O >> $ps
 echo 1992 50 T/P| gmt pstext -F+f10p,Helvetica,black+jML -R -J -Wwhite -To -P -K -O >> $ps
 
-echo 1972 50 a| gmt pstext -F+f10p,Helvetica,black+jML -R -J -To -P -K -O >> $ps
+echo 1972 50 '(a)'| gmt pstext -F+f13p,Helvetica,black+jML -R -J -To -P -K -O >> $ps
 
 echo N 1 >le.d
 echo S 1c - 1.5c - 2p,black 2c Global papers>>le.d
 echo S 1c - 1.5c - 2p,red 2c Global citations>>le.d
 gmt pslegend -D+w0.6c+jBL+o.1c/6c -R -J -O  --FONT_ANNOT_PRIMARY=14p le.d -K >> $ps
 
-gmt psbasemap -R1970/2022/-10/30000  -BE -Ba -By+l'Global citation numbers' -J -K -O --MAP_LABEL_OFFSET=5p --MAP_FRAME_PEN=thinner,red --FONT_ANNOT_PRIMARY=10p,red --FONT_LABEL=10p,4,red >>$ps
+gmt psbasemap -R1970/2022/-10/30000  -BE -Ba -By+l'Global citation numbers' -J -K -O --MAP_LABEL_OFFSET=5p --MAP_FRAME_PEN=thinner,red --FORMAT_FLOAT_MAP="%'g" --FONT_ANNOT_PRIMARY=10p,red --FONT_LABEL=10p,4,red >>$ps
 awk 'NR>1 {print $1, $2}' ./cite/times.txt  | sort|gmt psxy -R -J -W2p,red -O -K >> $ps
 
 gmt psbasemap -R1970/2022/-10/230 -Ba  -BWSe+glightblue -JX4i/3i -K  --MAP_GRID_PEN_PRIMARY=0.01p,0/0/0,2_1_0.25_1:0 -O -X5.5i>>$ps
@@ -45,7 +45,7 @@ awk 'NR>1 {print $1, $2}' ./en/Years.txt | sort | gmt psxy -R -J -W2p,blue -O -K
 awk 'NR>1 {print $1, $2}' ./fr/Years.txt | sort | gmt psxy -R -J -W2p,green -O -K  >>$ps
 awk 'NR>1 {print $1, $2}' ./us/Years.txt | sort | gmt psxy -R -J -W2p,red -O -K  >>$ps
 
-echo 1972 10 b| gmt pstext -F+f10p,Helvetica,black+jML -R -J -To -P -K -O >> $ps
+echo 1972 10 '(b)'| gmt pstext -F+f13p,Helvetica,black+jML -R -J -To -P -K -O >> $ps
 
 echo N 1 >le.d
 echo S 1c - 1.5c - 2p,red 2c USA >>le.d
