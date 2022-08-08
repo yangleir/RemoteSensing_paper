@@ -23,6 +23,5 @@ Satellite altimetry: Achievements and future trends by a scientometrics analysis
 Publisher: Multidisciplinary Digital Publishing Institute},
 	keywords = {satellite altimetry, bibliometrics, scientometrics, meta-analysis},
 	pages = {3332},
-	file = {Full Text PDF:C\:\\Users\\yangleir\\Zotero\\storage\\LGN24ZNA\\Yang et al. - 2022 - Satellite Altimetry Achievements and Future Trend.pdf:application/pdf;Snapshot:C\:\\Users\\yangleir\\Zotero\\storage\\5AYR6VEF\\3332.html:text/html},
 }
 ```
